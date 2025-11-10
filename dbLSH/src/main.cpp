@@ -166,6 +166,7 @@ void lshknn(float c, int k, Hash& myslsh, Preprocess& prep, float beta, std::str
 	showMemoryInfo();
 
 	float mean_time = (float)perform.time_total / perform.num;
+	std::cout << "model_id=          " << model_id << std::endl << std::endl;
 	std::cout << "k=                 " << k << std::endl << std::endl;
 	std::cout << "AVG QUERY TIME:    " << mean_time * 1000 << "ms." << std::endl << std::endl;
 	std::cout << "TOTAL QUERY TIME:    " << perform.time_total * 1000 << "ms." << std::endl << std::endl;
