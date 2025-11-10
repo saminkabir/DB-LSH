@@ -27,7 +27,7 @@
 #define BOLDCYAN    "\033[1m\033[36m"      /* Bold Cyan */
 #define BOLDWHITE   "\033[1m\033[37m"      /* Bold White */
 
-void lshknn(float c, int k, Hash& myslsh, Preprocess& prep, float beta, std::string& datasetName, std::string& data_fold);
+void lshknn(float c, int k, Hash& myslsh, Preprocess& prep, float beta, std::string& datasetName, std::string& data_fold, std::string& model_id);
 void expe_k(float c, Hash& myslsh, Preprocess& prep, float beta, std::string& datasetName, std::string& data_fold);
 
 int main(int argc, char const* argv[])
@@ -62,6 +62,7 @@ int main(int argc, char const* argv[])
 		else {
 			set_rmin(datasetName, R_min);
 		}
+		
 	}
 	else//only for debug, not advised for user
 	{
@@ -75,6 +76,13 @@ int main(int argc, char const* argv[])
 		set_rmin(datasetName, R_min);
 		std::cout << "Using the default configuration!\n\n";
 	}
+	std::string model_id = datasetName + 
+		"-" + std::to_string(c) +
+		"-" + std::to_string(k) +
+		"-" + std::to_string(L) +
+		"-" + std::to_string(K) +
+		"-" + std::to_string(beta) +
+		"-" + std::to_string(R_min) + ".ivecs";
 
 	/// <summary>
 	/// Show the configuration
@@ -104,7 +112,7 @@ int main(int argc, char const* argv[])
 	Hash myslsh(prep, param, index_fold.append(datasetName));
 
 	if (beta > 0) {
-		lshknn(c, k, myslsh, prep, beta, datasetName, data_fold);
+		lshknn(c, k, myslsh, prep, beta, datasetName, data_fold, model_id);
 	}
 	else if (beta <= 0 && beta > -10) {
 		std::vector<float> Betas = { 0.02,0.04,0.06,0.08,0.10,0.12,0.14,0.16,0.18,0.2 };
@@ -113,7 +121,7 @@ int main(int argc, char const* argv[])
 			if (datasetName == "sift10M") {
 				x = x / 4;
 			}
-			lshknn(c, k, myslsh, prep, x, datasetName, data_fold);
+			lshknn(c, k, myslsh, prep, x, datasetName, data_fold, model_id);
 		}
 	}
 	else {
@@ -126,19 +134,35 @@ int main(int argc, char const* argv[])
 	return 0;
 }
 
-void lshknn(float c, int k, Hash& myslsh, Preprocess& prep, float beta, std::string& datasetName, std::string& data_fold) {
+template<typename T>
+void save_to_fvecs(const char* filename, T* &dataset, int n, int d)
+{
+	FILE * ofp = fopen(filename, "w");
+	for(int i=0;i<n;i++)
+	{
+		fwrite(&d,sizeof(int),1,ofp);
+		fwrite(&dataset[i*d],sizeof(T),d,ofp);
+	}
+	fclose(ofp);	
+}
+
+void lshknn(float c, int k, Hash& myslsh, Preprocess& prep, float beta, std::string& datasetName, std::string& data_fold, std::string& model_id) {
 	lsh::timer timer;
 	std::cout << std::endl << "RUNNING QUERY ..." << std::endl;
 	int Qnum = prep.data.numQuery;
 	lsh::progress_display pd(Qnum);
 	Performance perform;
+	int* result = new int[Qnum*k];
 	for (unsigned j = 0; j < Qnum; j++)
 	{
 		Query query(j, c, k, myslsh, prep, beta);
 		perform.update(query, prep);
+		for (int r=0; r<query.k; r++) {
+			result[j*k+r]=query.res[r].id;
+		}
 		++pd;
 	}
-
+	save_to_fvecs(model_id.c_str(),result,Qnum,k);
 	showMemoryInfo();
 
 	float mean_time = (float)perform.time_total / perform.num;
