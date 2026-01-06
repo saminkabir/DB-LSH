@@ -1,0 +1,949 @@
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 4.75602s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 30.8434s.
+
+SAVING BENMARK...
+SAVING TIME: 0.000225s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000522s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.35393s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.432s
+The 1-th R*-Tree has been built. Elapsed time: 1.241s
+The 2-th R*-Tree has been built. Elapsed time: 1.217s
+The 3-th R*-Tree has been built. Elapsed time: 1.213s
+The 4-th R*-Tree has been built. Elapsed time: 1.233s
+BUILDING TIME: 6.33656s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    146.669ms.
+
+TOTAL QUERY TIME:    14666.9ms.
+
+AVG RECALL:        0.6698
+AVG MAP:        0.55143
+AVG RATIO:         1.01705
+AVG COST:          0.1001
+AVG ROUNDS:        6.89
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.73515s.
+
+LOADING BENMARK...
+LOADING TIME: 3.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000524s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.46807s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.264s
+The 1-th R*-Tree has been built. Elapsed time: 1.252s
+The 2-th R*-Tree has been built. Elapsed time: 1.251s
+The 3-th R*-Tree has been built. Elapsed time: 1.284s
+The 4-th R*-Tree has been built. Elapsed time: 1.267s
+BUILDING TIME: 6.31783s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    134.628ms.
+
+TOTAL QUERY TIME:    13462.8ms.
+
+AVG RECALL:        0.6273
+AVG MAP:        0.496288
+AVG RATIO:         1.02
+AVG COST:          0.1001
+AVG ROUNDS:        5
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.69769s.
+
+LOADING BENMARK...
+LOADING TIME: 3.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000527s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.47893s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.240s
+The 1-th R*-Tree has been built. Elapsed time: 1.285s
+The 2-th R*-Tree has been built. Elapsed time: 1.256s
+The 3-th R*-Tree has been built. Elapsed time: 1.287s
+The 4-th R*-Tree has been built. Elapsed time: 1.247s
+BUILDING TIME: 6.31535s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    185.547ms.
+
+TOTAL QUERY TIME:    18554.7ms.
+
+AVG RECALL:        0.7034
+AVG MAP:        0.587914
+AVG RATIO:         1.01467
+AVG COST:          0.1001
+AVG ROUNDS:        12.67
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.42629s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001049s.
+
+COMPUTING HASH...
+COMPUTING TIME: 8.6043s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.061s
+The 1-th R*-Tree has been built. Elapsed time: 1.103s
+The 2-th R*-Tree has been built. Elapsed time: 1.072s
+The 3-th R*-Tree has been built. Elapsed time: 1.028s
+The 4-th R*-Tree has been built. Elapsed time: 1.072s
+The 5-th R*-Tree has been built. Elapsed time: 1.116s
+The 6-th R*-Tree has been built. Elapsed time: 1.069s
+The 7-th R*-Tree has been built. Elapsed time: 1.066s
+The 8-th R*-Tree has been built. Elapsed time: 1.077s
+The 9-th R*-Tree has been built. Elapsed time: 1.096s
+BUILDING TIME: 10.759s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    172.346ms.
+
+TOTAL QUERY TIME:    17234.6ms.
+
+AVG RECALL:        0.7232
+AVG MAP:        0.62137
+AVG RATIO:         1.01199
+AVG COST:          0.1001
+AVG ROUNDS:        6.46
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.35927s.
+
+LOADING BENMARK...
+LOADING TIME: 2.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001485s.
+
+COMPUTING HASH...
+COMPUTING TIME: 12.9303s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.967s
+The 1-th R*-Tree has been built. Elapsed time: 0.978s
+The 2-th R*-Tree has been built. Elapsed time: 0.967s
+The 3-th R*-Tree has been built. Elapsed time: 0.978s
+The 4-th R*-Tree has been built. Elapsed time: 0.961s
+The 5-th R*-Tree has been built. Elapsed time: 0.986s
+The 6-th R*-Tree has been built. Elapsed time: 0.959s
+The 7-th R*-Tree has been built. Elapsed time: 0.984s
+The 8-th R*-Tree has been built. Elapsed time: 0.963s
+The 9-th R*-Tree has been built. Elapsed time: 0.984s
+The 10-th R*-Tree has been built. Elapsed time: 0.972s
+The 11-th R*-Tree has been built. Elapsed time: 0.975s
+The 12-th R*-Tree has been built. Elapsed time: 0.967s
+The 13-th R*-Tree has been built. Elapsed time: 0.977s
+The 14-th R*-Tree has been built. Elapsed time: 0.967s
+BUILDING TIME: 14.5861s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    192.004ms.
+
+TOTAL QUERY TIME:    19200.4ms.
+
+AVG RECALL:        0.7349
+AVG MAP:        0.638209
+AVG RATIO:         1.01108
+AVG COST:          0.1001
+AVG ROUNDS:        6.04
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.71368s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000628s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.94153s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.242s
+The 1-th R*-Tree has been built. Elapsed time: 1.172s
+The 2-th R*-Tree has been built. Elapsed time: 1.179s
+The 3-th R*-Tree has been built. Elapsed time: 1.191s
+The 4-th R*-Tree has been built. Elapsed time: 1.209s
+BUILDING TIME: 5.9936s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    156.162ms.
+
+TOTAL QUERY TIME:    15616.2ms.
+
+AVG RECALL:        0.6772
+AVG MAP:        0.554028
+AVG RATIO:         1.01575
+AVG COST:          0.1001
+AVG ROUNDS:        7
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.64557s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000743s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.86263s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.304s
+The 1-th R*-Tree has been built. Elapsed time: 1.326s
+The 2-th R*-Tree has been built. Elapsed time: 1.291s
+The 3-th R*-Tree has been built. Elapsed time: 1.154s
+The 4-th R*-Tree has been built. Elapsed time: 1.169s
+BUILDING TIME: 6.24326s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    144.087ms.
+
+TOTAL QUERY TIME:    14408.7ms.
+
+AVG RECALL:        0.7126
+AVG MAP:        0.60308
+AVG RATIO:         1.01326
+AVG COST:          0.1001
+AVG ROUNDS:        7
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.41764s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000429s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.2124s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.968s
+The 1-th R*-Tree has been built. Elapsed time: 0.960s
+The 2-th R*-Tree has been built. Elapsed time: 0.976s
+The 3-th R*-Tree has been built. Elapsed time: 0.960s
+The 4-th R*-Tree has been built. Elapsed time: 0.950s
+BUILDING TIME: 4.81394s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    73.75ms.
+
+TOTAL QUERY TIME:    7375ms.
+
+AVG RECALL:        0.4123
+AVG MAP:        0.258845
+AVG RATIO:         1.06643
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.3007s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000442s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.92121s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.043s
+The 1-th R*-Tree has been built. Elapsed time: 1.029s
+The 2-th R*-Tree has been built. Elapsed time: 1.080s
+The 3-th R*-Tree has been built. Elapsed time: 1.120s
+The 4-th R*-Tree has been built. Elapsed time: 1.119s
+BUILDING TIME: 5.39036s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    82.5893ms.
+
+TOTAL QUERY TIME:    8258.93ms.
+
+AVG RECALL:        0.1543
+AVG MAP:        0.0539967
+AVG RATIO:         1.29667
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.28558s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000443s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.89831s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.017s
+The 1-th R*-Tree has been built. Elapsed time: 0.960s
+The 2-th R*-Tree has been built. Elapsed time: 0.980s
+The 3-th R*-Tree has been built. Elapsed time: 0.975s
+The 4-th R*-Tree has been built. Elapsed time: 0.953s
+BUILDING TIME: 4.88606s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    97.9739ms.
+
+TOTAL QUERY TIME:    9797.39ms.
+
+AVG RECALL:        0.6477
+AVG MAP:        0.518792
+AVG RATIO:         1.02167
+AVG COST:          0.1001
+AVG ROUNDS:        1.06
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.20094s.
+
+LOADING BENMARK...
+LOADING TIME: 2.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000445s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.75686s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.119s
+The 1-th R*-Tree has been built. Elapsed time: 0.920s
+The 2-th R*-Tree has been built. Elapsed time: 0.933s
+The 3-th R*-Tree has been built. Elapsed time: 0.927s
+The 4-th R*-Tree has been built. Elapsed time: 0.917s
+BUILDING TIME: 4.81572s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    71.473ms.
+
+TOTAL QUERY TIME:    7147.3ms.
+
+AVG RECALL:        0.0986
+AVG MAP:        0.0240134
+AVG RATIO:         1.37827
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.1779s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000439s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.71788s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.973s
+The 1-th R*-Tree has been built. Elapsed time: 0.978s
+The 2-th R*-Tree has been built. Elapsed time: 0.979s
+The 3-th R*-Tree has been built. Elapsed time: 0.942s
+The 4-th R*-Tree has been built. Elapsed time: 0.976s
+BUILDING TIME: 4.84841s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    72.6546ms.
+
+TOTAL QUERY TIME:    7265.46ms.
+
+AVG RECALL:        0.0986
+AVG MAP:        0.0240134
+AVG RATIO:         1.37827
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.29956s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000851s.
+
+COMPUTING HASH...
+COMPUTING TIME: 7.49884s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.945s
+The 1-th R*-Tree has been built. Elapsed time: 0.982s
+The 2-th R*-Tree has been built. Elapsed time: 0.973s
+The 3-th R*-Tree has been built. Elapsed time: 0.973s
+The 4-th R*-Tree has been built. Elapsed time: 0.970s
+The 5-th R*-Tree has been built. Elapsed time: 1.009s
+The 6-th R*-Tree has been built. Elapsed time: 1.000s
+The 7-th R*-Tree has been built. Elapsed time: 1.064s
+The 8-th R*-Tree has been built. Elapsed time: 1.050s
+The 9-th R*-Tree has been built. Elapsed time: 1.056s
+BUILDING TIME: 10.0223s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    80.1156ms.
+
+TOTAL QUERY TIME:    8011.56ms.
+
+AVG RECALL:        0.4123
+AVG MAP:        0.258845
+AVG RATIO:         1.06643
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.18405s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001258s.
+
+COMPUTING HASH...
+COMPUTING TIME: 11.2229s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.870s
+The 1-th R*-Tree has been built. Elapsed time: 0.883s
+The 2-th R*-Tree has been built. Elapsed time: 0.859s
+The 3-th R*-Tree has been built. Elapsed time: 0.872s
+The 4-th R*-Tree has been built. Elapsed time: 0.847s
+The 5-th R*-Tree has been built. Elapsed time: 0.873s
+The 6-th R*-Tree has been built. Elapsed time: 0.853s
+The 7-th R*-Tree has been built. Elapsed time: 0.872s
+The 8-th R*-Tree has been built. Elapsed time: 0.854s
+The 9-th R*-Tree has been built. Elapsed time: 0.880s
+The 10-th R*-Tree has been built. Elapsed time: 0.868s
+The 11-th R*-Tree has been built. Elapsed time: 0.870s
+The 12-th R*-Tree has been built. Elapsed time: 0.866s
+The 13-th R*-Tree has been built. Elapsed time: 0.866s
+The 14-th R*-Tree has been built. Elapsed time: 0.872s
+BUILDING TIME: 13.0055s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    73.4246ms.
+
+TOTAL QUERY TIME:    7342.46ms.
+
+AVG RECALL:        0.4123
+AVG MAP:        0.258845
+AVG RATIO:         1.06643
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.04276s.
+
+LOADING BENMARK...
+LOADING TIME: 2.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000516s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.26227s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.858s
+The 1-th R*-Tree has been built. Elapsed time: 0.868s
+The 2-th R*-Tree has been built. Elapsed time: 0.869s
+The 3-th R*-Tree has been built. Elapsed time: 0.871s
+The 4-th R*-Tree has been built. Elapsed time: 0.876s
+BUILDING TIME: 4.34232s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    75.3141ms.
+
+TOTAL QUERY TIME:    7531.41ms.
+
+AVG RECALL:        0.4431
+AVG MAP:        0.303819
+AVG RATIO:         1.10178
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for codesearchnet-jina-768-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.0332s.
+
+LOADING BENMARK...
+LOADING TIME: 2.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000595s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.85826s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.879s
+The 1-th R*-Tree has been built. Elapsed time: 0.858s
+The 2-th R*-Tree has been built. Elapsed time: 0.871s
+The 3-th R*-Tree has been built. Elapsed time: 0.877s
+The 4-th R*-Tree has been built. Elapsed time: 0.869s
+BUILDING TIME: 4.35445s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          codesearchnet-jina-768-cosine-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    77.9802ms.
+
+TOTAL QUERY TIME:    7798.02ms.
+
+AVG RECALL:        0.4924
+AVG MAP:        0.348238
+AVG RATIO:         1.05062
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+

@@ -1,0 +1,949 @@
+Using DB-LSH for yi-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.270176s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 1.92881s.
+
+SAVING BENMARK...
+SAVING TIME: 0.000365s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000175s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.139049s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.082s
+The 1-th R*-Tree has been built. Elapsed time: 0.082s
+The 2-th R*-Tree has been built. Elapsed time: 0.091s
+The 3-th R*-Tree has been built. Elapsed time: 0.093s
+The 4-th R*-Tree has been built. Elapsed time: 0.084s
+BUILDING TIME: 0.43366s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    6.43605ms.
+
+TOTAL QUERY TIME:    643.605ms.
+
+AVG RECALL:        0.3791
+AVG MAP:        0.197624
+AVG RATIO:         1.0155
+AVG COST:          0.100531
+AVG ROUNDS:        7.87
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.07938s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000107s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.142893s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.089s
+The 1-th R*-Tree has been built. Elapsed time: 0.082s
+The 2-th R*-Tree has been built. Elapsed time: 0.081s
+The 3-th R*-Tree has been built. Elapsed time: 0.083s
+The 4-th R*-Tree has been built. Elapsed time: 0.082s
+BUILDING TIME: 0.416341s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    5.67163ms.
+
+TOTAL QUERY TIME:    567.163ms.
+
+AVG RECALL:        0.3533
+AVG MAP:        0.183988
+AVG RATIO:         1.01866
+AVG COST:          0.100531
+AVG ROUNDS:        5.57
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.102536s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 9.9e-05s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.131291s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.082s
+The 1-th R*-Tree has been built. Elapsed time: 0.083s
+The 2-th R*-Tree has been built. Elapsed time: 0.082s
+The 3-th R*-Tree has been built. Elapsed time: 0.082s
+The 4-th R*-Tree has been built. Elapsed time: 0.081s
+BUILDING TIME: 0.410467s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    7.41906ms.
+
+TOTAL QUERY TIME:    741.906ms.
+
+AVG RECALL:        0.4348
+AVG MAP:        0.246323
+AVG RATIO:         1.01366
+AVG COST:          0.100531
+AVG ROUNDS:        14.62
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.077243s.
+
+LOADING BENMARK...
+LOADING TIME: 4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00017s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.277202s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.086s
+The 1-th R*-Tree has been built. Elapsed time: 0.081s
+The 2-th R*-Tree has been built. Elapsed time: 0.082s
+The 3-th R*-Tree has been built. Elapsed time: 0.085s
+The 4-th R*-Tree has been built. Elapsed time: 0.083s
+The 5-th R*-Tree has been built. Elapsed time: 0.082s
+The 6-th R*-Tree has been built. Elapsed time: 0.081s
+The 7-th R*-Tree has been built. Elapsed time: 0.080s
+The 8-th R*-Tree has been built. Elapsed time: 0.082s
+The 9-th R*-Tree has been built. Elapsed time: 0.080s
+BUILDING TIME: 0.821725s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    10.5119ms.
+
+TOTAL QUERY TIME:    1051.19ms.
+
+AVG RECALL:        0.3789
+AVG MAP:        0.195815
+AVG RATIO:         1.01565
+AVG COST:          0.100531
+AVG ROUNDS:        7.79
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.077184s.
+
+LOADING BENMARK...
+LOADING TIME: 4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000239s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.43302s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.092s
+The 1-th R*-Tree has been built. Elapsed time: 0.085s
+The 2-th R*-Tree has been built. Elapsed time: 0.082s
+The 3-th R*-Tree has been built. Elapsed time: 0.080s
+The 4-th R*-Tree has been built. Elapsed time: 0.081s
+The 5-th R*-Tree has been built. Elapsed time: 0.082s
+The 6-th R*-Tree has been built. Elapsed time: 0.080s
+The 7-th R*-Tree has been built. Elapsed time: 0.081s
+The 8-th R*-Tree has been built. Elapsed time: 0.081s
+The 9-th R*-Tree has been built. Elapsed time: 0.081s
+The 10-th R*-Tree has been built. Elapsed time: 0.082s
+The 11-th R*-Tree has been built. Elapsed time: 0.092s
+The 12-th R*-Tree has been built. Elapsed time: 0.083s
+The 13-th R*-Tree has been built. Elapsed time: 0.083s
+The 14-th R*-Tree has been built. Elapsed time: 0.081s
+BUILDING TIME: 1.24632s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    13.6608ms.
+
+TOTAL QUERY TIME:    1366.08ms.
+
+AVG RECALL:        0.3614
+AVG MAP:        0.178806
+AVG RATIO:         1.01714
+AVG COST:          0.100531
+AVG ROUNDS:        7.31
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.086626s.
+
+LOADING BENMARK...
+LOADING TIME: 2.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000112s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.162835s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.099s
+The 1-th R*-Tree has been built. Elapsed time: 0.092s
+The 2-th R*-Tree has been built. Elapsed time: 0.088s
+The 3-th R*-Tree has been built. Elapsed time: 0.091s
+The 4-th R*-Tree has been built. Elapsed time: 0.086s
+BUILDING TIME: 0.456626s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    13.6519ms.
+
+TOTAL QUERY TIME:    1365.19ms.
+
+AVG RECALL:        0.3681
+AVG MAP:        0.18804
+AVG RATIO:         1.01649
+AVG COST:          0.100531
+AVG ROUNDS:        8.13
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.07967s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000125s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.169548s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.123s
+The 1-th R*-Tree has been built. Elapsed time: 0.127s
+The 2-th R*-Tree has been built. Elapsed time: 0.121s
+The 3-th R*-Tree has been built. Elapsed time: 0.125s
+The 4-th R*-Tree has been built. Elapsed time: 0.121s
+BUILDING TIME: 0.617939s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    15.7101ms.
+
+TOTAL QUERY TIME:    1571.01ms.
+
+AVG RECALL:        0.4407
+AVG MAP:        0.258748
+AVG RATIO:         1.01282
+AVG COST:          0.100531
+AVG ROUNDS:        8.39
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.086775s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 9.4e-05s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.148389s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.087s
+The 1-th R*-Tree has been built. Elapsed time: 0.090s
+The 2-th R*-Tree has been built. Elapsed time: 0.085s
+The 3-th R*-Tree has been built. Elapsed time: 0.088s
+The 4-th R*-Tree has been built. Elapsed time: 0.087s
+BUILDING TIME: 0.437669s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    5.37351ms.
+
+TOTAL QUERY TIME:    537.351ms.
+
+AVG RECALL:        0.4059
+AVG MAP:        0.225602
+AVG RATIO:         1.01513
+AVG COST:          0.100531
+AVG ROUNDS:        1.54
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.080739s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00011s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.135351s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.093s
+The 1-th R*-Tree has been built. Elapsed time: 0.088s
+The 2-th R*-Tree has been built. Elapsed time: 0.094s
+The 3-th R*-Tree has been built. Elapsed time: 0.084s
+The 4-th R*-Tree has been built. Elapsed time: 0.083s
+BUILDING TIME: 0.441411s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    4.51679ms.
+
+TOTAL QUERY TIME:    451.679ms.
+
+AVG RECALL:        0.2866
+AVG MAP:        0.124623
+AVG RATIO:         1.02157
+AVG COST:          0.100531
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.07981s.
+
+LOADING BENMARK...
+LOADING TIME: 2.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 9.6e-05s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.135458s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.088s
+The 1-th R*-Tree has been built. Elapsed time: 0.081s
+The 2-th R*-Tree has been built. Elapsed time: 0.085s
+The 3-th R*-Tree has been built. Elapsed time: 0.087s
+The 4-th R*-Tree has been built. Elapsed time: 0.086s
+BUILDING TIME: 0.428315s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    7.53554ms.
+
+TOTAL QUERY TIME:    753.554ms.
+
+AVG RECALL:        0.4353
+AVG MAP:        0.254984
+AVG RATIO:         1.0135
+AVG COST:          0.100531
+AVG ROUNDS:        3.16
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.083929s.
+
+LOADING BENMARK...
+LOADING TIME: 3.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000109s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.140393s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.095s
+The 1-th R*-Tree has been built. Elapsed time: 0.093s
+The 2-th R*-Tree has been built. Elapsed time: 0.098s
+The 3-th R*-Tree has been built. Elapsed time: 0.096s
+The 4-th R*-Tree has been built. Elapsed time: 0.088s
+BUILDING TIME: 0.470109s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    2.47129ms.
+
+TOTAL QUERY TIME:    247.129ms.
+
+AVG RECALL:        0.0184
+AVG MAP:        2.6463e-05
+AVG RATIO:         1.0753
+AVG COST:          0.100531
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.086607s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000111s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.145266s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.088s
+The 1-th R*-Tree has been built. Elapsed time: 0.084s
+The 2-th R*-Tree has been built. Elapsed time: 0.090s
+The 3-th R*-Tree has been built. Elapsed time: 0.093s
+The 4-th R*-Tree has been built. Elapsed time: 0.091s
+BUILDING TIME: 0.446128s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    2.53815ms.
+
+TOTAL QUERY TIME:    253.815ms.
+
+AVG RECALL:        0.0184
+AVG MAP:        2.6463e-05
+AVG RATIO:         1.0753
+AVG COST:          0.100531
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.088724s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000201s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.319771s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.093s
+The 1-th R*-Tree has been built. Elapsed time: 0.091s
+The 2-th R*-Tree has been built. Elapsed time: 0.092s
+The 3-th R*-Tree has been built. Elapsed time: 0.092s
+The 4-th R*-Tree has been built. Elapsed time: 0.095s
+The 5-th R*-Tree has been built. Elapsed time: 0.092s
+The 6-th R*-Tree has been built. Elapsed time: 0.089s
+The 7-th R*-Tree has been built. Elapsed time: 0.094s
+The 8-th R*-Tree has been built. Elapsed time: 0.089s
+The 9-th R*-Tree has been built. Elapsed time: 0.095s
+BUILDING TIME: 0.921431s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    8.04389ms.
+
+TOTAL QUERY TIME:    804.389ms.
+
+AVG RECALL:        0.4099
+AVG MAP:        0.230561
+AVG RATIO:         1.01462
+AVG COST:          0.100531
+AVG ROUNDS:        1.35
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.08863s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000281s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.480721s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.097s
+The 1-th R*-Tree has been built. Elapsed time: 0.095s
+The 2-th R*-Tree has been built. Elapsed time: 0.097s
+The 3-th R*-Tree has been built. Elapsed time: 0.095s
+The 4-th R*-Tree has been built. Elapsed time: 0.097s
+The 5-th R*-Tree has been built. Elapsed time: 0.098s
+The 6-th R*-Tree has been built. Elapsed time: 0.098s
+The 7-th R*-Tree has been built. Elapsed time: 0.096s
+The 8-th R*-Tree has been built. Elapsed time: 0.095s
+The 9-th R*-Tree has been built. Elapsed time: 0.092s
+The 10-th R*-Tree has been built. Elapsed time: 0.094s
+The 11-th R*-Tree has been built. Elapsed time: 0.095s
+The 12-th R*-Tree has been built. Elapsed time: 0.096s
+The 13-th R*-Tree has been built. Elapsed time: 0.098s
+The 14-th R*-Tree has been built. Elapsed time: 0.097s
+BUILDING TIME: 1.4402s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    8.40765ms.
+
+TOTAL QUERY TIME:    840.765ms.
+
+AVG RECALL:        0.4132
+AVG MAP:        0.232606
+AVG RATIO:         1.01437
+AVG COST:          0.100531
+AVG ROUNDS:        1.03
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.090619s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000133s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.179233s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.108s
+The 1-th R*-Tree has been built. Elapsed time: 0.100s
+The 2-th R*-Tree has been built. Elapsed time: 0.102s
+The 3-th R*-Tree has been built. Elapsed time: 0.105s
+The 4-th R*-Tree has been built. Elapsed time: 0.102s
+BUILDING TIME: 0.516147s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    13.1129ms.
+
+TOTAL QUERY TIME:    1311.29ms.
+
+AVG RECALL:        0.2812
+AVG MAP:        0.150895
+AVG RATIO:         1.0244
+AVG COST:          0.100531
+AVG ROUNDS:        1.96
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yi-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yi-128-ip/
+N=    187843
+dim=  128
+
+LOADING TIME: 0.089674s.
+
+LOADING BENMARK...
+LOADING TIME: 3.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000146s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.201272s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.141s
+The 1-th R*-Tree has been built. Elapsed time: 0.140s
+The 2-th R*-Tree has been built. Elapsed time: 0.141s
+The 3-th R*-Tree has been built. Elapsed time: 0.139s
+The 4-th R*-Tree has been built. Elapsed time: 0.140s
+BUILDING TIME: 0.700268s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yi-128-ip-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    13.6794ms.
+
+TOTAL QUERY TIME:    1367.94ms.
+
+AVG RECALL:        0.4245
+AVG MAP:        0.245512
+AVG RATIO:         1.01324
+AVG COST:          0.100531
+AVG ROUNDS:        2.02
+
+QUERY FINISH... 
+
+

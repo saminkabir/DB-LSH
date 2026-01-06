@@ -1,0 +1,949 @@
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 3.8743s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 23.754s.
+
+SAVING BENMARK...
+SAVING TIME: 0.000307s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000536s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.25704s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.975s
+The 1-th R*-Tree has been built. Elapsed time: 0.969s
+The 2-th R*-Tree has been built. Elapsed time: 0.963s
+The 3-th R*-Tree has been built. Elapsed time: 0.954s
+The 4-th R*-Tree has been built. Elapsed time: 0.963s
+BUILDING TIME: 4.82407s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    68.3581ms.
+
+TOTAL QUERY TIME:    6835.81ms.
+
+AVG RECALL:        0.1362
+AVG MAP:        0.0478945
+AVG RATIO:         1.11588
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.32666s.
+
+LOADING BENMARK...
+LOADING TIME: 3.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000519s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.28156s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.969s
+The 1-th R*-Tree has been built. Elapsed time: 0.973s
+The 2-th R*-Tree has been built. Elapsed time: 0.980s
+The 3-th R*-Tree has been built. Elapsed time: 0.970s
+The 4-th R*-Tree has been built. Elapsed time: 0.988s
+BUILDING TIME: 4.88149s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    68.432ms.
+
+TOTAL QUERY TIME:    6843.2ms.
+
+AVG RECALL:        0.1164
+AVG MAP:        0.038942
+AVG RATIO:         1.12421
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.36043s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000522s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.31151s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.021s
+The 1-th R*-Tree has been built. Elapsed time: 1.013s
+The 2-th R*-Tree has been built. Elapsed time: 1.058s
+The 3-th R*-Tree has been built. Elapsed time: 1.025s
+The 4-th R*-Tree has been built. Elapsed time: 0.983s
+BUILDING TIME: 5.10124s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    76.5297ms.
+
+TOTAL QUERY TIME:    7652.97ms.
+
+AVG RECALL:        0.2916
+AVG MAP:        0.159671
+AVG RATIO:         1.0758
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.34911s.
+
+LOADING BENMARK...
+LOADING TIME: 2.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001005s.
+
+COMPUTING HASH...
+COMPUTING TIME: 8.58741s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.200s
+The 1-th R*-Tree has been built. Elapsed time: 1.345s
+The 2-th R*-Tree has been built. Elapsed time: 0.988s
+The 3-th R*-Tree has been built. Elapsed time: 0.962s
+The 4-th R*-Tree has been built. Elapsed time: 0.969s
+The 5-th R*-Tree has been built. Elapsed time: 0.949s
+The 6-th R*-Tree has been built. Elapsed time: 0.954s
+The 7-th R*-Tree has been built. Elapsed time: 0.969s
+The 8-th R*-Tree has been built. Elapsed time: 0.961s
+The 9-th R*-Tree has been built. Elapsed time: 0.956s
+BUILDING TIME: 10.2533s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    72.7383ms.
+
+TOTAL QUERY TIME:    7273.83ms.
+
+AVG RECALL:        0.1362
+AVG MAP:        0.0478945
+AVG RATIO:         1.11588
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.3256s.
+
+LOADING BENMARK...
+LOADING TIME: 2.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001482s.
+
+COMPUTING HASH...
+COMPUTING TIME: 12.9378s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.995s
+The 1-th R*-Tree has been built. Elapsed time: 0.973s
+The 2-th R*-Tree has been built. Elapsed time: 0.978s
+The 3-th R*-Tree has been built. Elapsed time: 0.986s
+The 4-th R*-Tree has been built. Elapsed time: 0.967s
+The 5-th R*-Tree has been built. Elapsed time: 0.963s
+The 6-th R*-Tree has been built. Elapsed time: 0.977s
+The 7-th R*-Tree has been built. Elapsed time: 0.968s
+The 8-th R*-Tree has been built. Elapsed time: 0.975s
+The 9-th R*-Tree has been built. Elapsed time: 0.976s
+The 10-th R*-Tree has been built. Elapsed time: 0.968s
+The 11-th R*-Tree has been built. Elapsed time: 0.980s
+The 12-th R*-Tree has been built. Elapsed time: 0.975s
+The 13-th R*-Tree has been built. Elapsed time: 0.977s
+The 14-th R*-Tree has been built. Elapsed time: 0.978s
+BUILDING TIME: 14.637s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    73.7865ms.
+
+TOTAL QUERY TIME:    7378.65ms.
+
+AVG RECALL:        0.1362
+AVG MAP:        0.0478945
+AVG RATIO:         1.11588
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.35694s.
+
+LOADING BENMARK...
+LOADING TIME: 2.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000628s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.01508s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.964s
+The 1-th R*-Tree has been built. Elapsed time: 0.972s
+The 2-th R*-Tree has been built. Elapsed time: 0.992s
+The 3-th R*-Tree has been built. Elapsed time: 0.981s
+The 4-th R*-Tree has been built. Elapsed time: 0.996s
+BUILDING TIME: 4.90388s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    73.5985ms.
+
+TOTAL QUERY TIME:    7359.85ms.
+
+AVG RECALL:        0.0952
+AVG MAP:        0.0258828
+AVG RATIO:         1.13172
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.36472s.
+
+LOADING BENMARK...
+LOADING TIME: 2.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000714s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.71425s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.985s
+The 1-th R*-Tree has been built. Elapsed time: 0.980s
+The 2-th R*-Tree has been built. Elapsed time: 0.981s
+The 3-th R*-Tree has been built. Elapsed time: 0.978s
+The 4-th R*-Tree has been built. Elapsed time: 0.980s
+BUILDING TIME: 4.90492s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    73.6045ms.
+
+TOTAL QUERY TIME:    7360.45ms.
+
+AVG RECALL:        0.1025
+AVG MAP:        0.0241533
+AVG RATIO:         1.12252
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.32047s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00052s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.32681s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.977s
+The 1-th R*-Tree has been built. Elapsed time: 0.986s
+The 2-th R*-Tree has been built. Elapsed time: 0.992s
+The 3-th R*-Tree has been built. Elapsed time: 1.040s
+The 4-th R*-Tree has been built. Elapsed time: 0.974s
+BUILDING TIME: 4.969s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    69.326ms.
+
+TOTAL QUERY TIME:    6932.6ms.
+
+AVG RECALL:        0.1158
+AVG MAP:        0.0388071
+AVG RATIO:         1.12467
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.33495s.
+
+LOADING BENMARK...
+LOADING TIME: 2.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000517s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.09561s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.949s
+The 1-th R*-Tree has been built. Elapsed time: 0.915s
+The 2-th R*-Tree has been built. Elapsed time: 0.905s
+The 3-th R*-Tree has been built. Elapsed time: 0.908s
+The 4-th R*-Tree has been built. Elapsed time: 0.904s
+BUILDING TIME: 4.58117s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    68.8424ms.
+
+TOTAL QUERY TIME:    6884.24ms.
+
+AVG RECALL:        0.1158
+AVG MAP:        0.0388071
+AVG RATIO:         1.12467
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.19753s.
+
+LOADING BENMARK...
+LOADING TIME: 2.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000529s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.0488s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.979s
+The 1-th R*-Tree has been built. Elapsed time: 0.956s
+The 2-th R*-Tree has been built. Elapsed time: 0.972s
+The 3-th R*-Tree has been built. Elapsed time: 0.958s
+The 4-th R*-Tree has been built. Elapsed time: 0.954s
+BUILDING TIME: 4.8191s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    70.9139ms.
+
+TOTAL QUERY TIME:    7091.39ms.
+
+AVG RECALL:        0.1158
+AVG MAP:        0.0388071
+AVG RATIO:         1.12467
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.33095s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000525s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.24012s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.973s
+The 1-th R*-Tree has been built. Elapsed time: 0.961s
+The 2-th R*-Tree has been built. Elapsed time: 0.946s
+The 3-th R*-Tree has been built. Elapsed time: 0.911s
+The 4-th R*-Tree has been built. Elapsed time: 0.911s
+BUILDING TIME: 4.70157s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    68.4126ms.
+
+TOTAL QUERY TIME:    6841.26ms.
+
+AVG RECALL:        0.1158
+AVG MAP:        0.0388071
+AVG RATIO:         1.12467
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.1364s.
+
+LOADING BENMARK...
+LOADING TIME: 2.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000434s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.77778s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.881s
+The 1-th R*-Tree has been built. Elapsed time: 0.928s
+The 2-th R*-Tree has been built. Elapsed time: 0.863s
+The 3-th R*-Tree has been built. Elapsed time: 0.875s
+The 4-th R*-Tree has been built. Elapsed time: 0.861s
+BUILDING TIME: 4.40768s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    68.2891ms.
+
+TOTAL QUERY TIME:    6828.91ms.
+
+AVG RECALL:        0.1158
+AVG MAP:        0.0388071
+AVG RATIO:         1.12467
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.09233s.
+
+LOADING BENMARK...
+LOADING TIME: 2.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001013s.
+
+COMPUTING HASH...
+COMPUTING TIME: 7.63977s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.896s
+The 1-th R*-Tree has been built. Elapsed time: 0.878s
+The 2-th R*-Tree has been built. Elapsed time: 0.904s
+The 3-th R*-Tree has been built. Elapsed time: 0.866s
+The 4-th R*-Tree has been built. Elapsed time: 0.870s
+The 5-th R*-Tree has been built. Elapsed time: 0.868s
+The 6-th R*-Tree has been built. Elapsed time: 0.871s
+The 7-th R*-Tree has been built. Elapsed time: 0.895s
+The 8-th R*-Tree has been built. Elapsed time: 0.905s
+The 9-th R*-Tree has been built. Elapsed time: 0.896s
+BUILDING TIME: 8.84861s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    67.5503ms.
+
+TOTAL QUERY TIME:    6755.04ms.
+
+AVG RECALL:        0.1158
+AVG MAP:        0.0388071
+AVG RATIO:         1.12467
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.11957s.
+
+LOADING BENMARK...
+LOADING TIME: 2.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001244s.
+
+COMPUTING HASH...
+COMPUTING TIME: 11.3513s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.858s
+The 1-th R*-Tree has been built. Elapsed time: 0.867s
+The 2-th R*-Tree has been built. Elapsed time: 0.867s
+The 3-th R*-Tree has been built. Elapsed time: 0.847s
+The 4-th R*-Tree has been built. Elapsed time: 0.853s
+The 5-th R*-Tree has been built. Elapsed time: 0.845s
+The 6-th R*-Tree has been built. Elapsed time: 0.850s
+The 7-th R*-Tree has been built. Elapsed time: 0.861s
+The 8-th R*-Tree has been built. Elapsed time: 0.858s
+The 9-th R*-Tree has been built. Elapsed time: 0.848s
+The 10-th R*-Tree has been built. Elapsed time: 0.851s
+The 11-th R*-Tree has been built. Elapsed time: 0.849s
+The 12-th R*-Tree has been built. Elapsed time: 0.852s
+The 13-th R*-Tree has been built. Elapsed time: 0.846s
+The 14-th R*-Tree has been built. Elapsed time: 0.852s
+BUILDING TIME: 12.8056s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    65.7153ms.
+
+TOTAL QUERY TIME:    6571.53ms.
+
+AVG RECALL:        0.1158
+AVG MAP:        0.0388071
+AVG RATIO:         1.12467
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 1.97957s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00052s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.27753s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.864s
+The 1-th R*-Tree has been built. Elapsed time: 0.858s
+The 2-th R*-Tree has been built. Elapsed time: 0.854s
+The 3-th R*-Tree has been built. Elapsed time: 0.860s
+The 4-th R*-Tree has been built. Elapsed time: 0.849s
+BUILDING TIME: 4.28524s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    65.7641ms.
+
+TOTAL QUERY TIME:    6576.41ms.
+
+AVG RECALL:        0.0811
+AVG MAP:        0.0199545
+AVG RATIO:         1.14334
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for arxiv-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 1.98275s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000595s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.89391s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.870s
+The 1-th R*-Tree has been built. Elapsed time: 0.879s
+The 2-th R*-Tree has been built. Elapsed time: 0.856s
+The 3-th R*-Tree has been built. Elapsed time: 0.854s
+The 4-th R*-Tree has been built. Elapsed time: 0.871s
+BUILDING TIME: 4.33038s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          arxiv-nomic-768-normalized-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    66.0144ms.
+
+TOTAL QUERY TIME:    6601.44ms.
+
+AVG RECALL:        0.0849
+AVG MAP:        0.0192532
+AVG RATIO:         1.1328
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+

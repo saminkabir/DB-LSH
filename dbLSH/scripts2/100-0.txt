@@ -1,0 +1,949 @@
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 3.05591s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 20.1595s.
+
+SAVING BENMARK...
+SAVING TIME: 0.000236s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000348s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.87405s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.145s
+The 1-th R*-Tree has been built. Elapsed time: 1.155s
+The 2-th R*-Tree has been built. Elapsed time: 1.131s
+The 3-th R*-Tree has been built. Elapsed time: 1.112s
+The 4-th R*-Tree has been built. Elapsed time: 1.049s
+BUILDING TIME: 5.59123s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    61.3645ms.
+
+TOTAL QUERY TIME:    6136.45ms.
+
+AVG RECALL:        0.1053
+AVG MAP:        0.0417419
+AVG RATIO:         1.19937
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.65707s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000344s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.81379s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.059s
+The 1-th R*-Tree has been built. Elapsed time: 1.062s
+The 2-th R*-Tree has been built. Elapsed time: 1.061s
+The 3-th R*-Tree has been built. Elapsed time: 1.067s
+The 4-th R*-Tree has been built. Elapsed time: 1.073s
+BUILDING TIME: 5.32216s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    61.2576ms.
+
+TOTAL QUERY TIME:    6125.76ms.
+
+AVG RECALL:        0.0755
+AVG MAP:        0.0215179
+AVG RATIO:         1.23018
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.91159s.
+
+LOADING BENMARK...
+LOADING TIME: 3.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000291s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.86111s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.035s
+The 1-th R*-Tree has been built. Elapsed time: 0.903s
+The 2-th R*-Tree has been built. Elapsed time: 0.925s
+The 3-th R*-Tree has been built. Elapsed time: 0.912s
+The 4-th R*-Tree has been built. Elapsed time: 0.941s
+BUILDING TIME: 4.71693s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    54.3906ms.
+
+TOTAL QUERY TIME:    5439.06ms.
+
+AVG RECALL:        0.3446
+AVG MAP:        0.221255
+AVG RATIO:         1.0913
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.62732s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000687s.
+
+COMPUTING HASH...
+COMPUTING TIME: 6.5948s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.040s
+The 1-th R*-Tree has been built. Elapsed time: 0.982s
+The 2-th R*-Tree has been built. Elapsed time: 0.981s
+The 3-th R*-Tree has been built. Elapsed time: 1.006s
+The 4-th R*-Tree has been built. Elapsed time: 0.999s
+The 5-th R*-Tree has been built. Elapsed time: 0.980s
+The 6-th R*-Tree has been built. Elapsed time: 0.979s
+The 7-th R*-Tree has been built. Elapsed time: 0.957s
+The 8-th R*-Tree has been built. Elapsed time: 0.973s
+The 9-th R*-Tree has been built. Elapsed time: 0.933s
+BUILDING TIME: 9.83009s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    52.5431ms.
+
+TOTAL QUERY TIME:    5254.31ms.
+
+AVG RECALL:        0.1053
+AVG MAP:        0.0417419
+AVG RATIO:         1.19937
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.59521s.
+
+LOADING BENMARK...
+LOADING TIME: 2.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001008s.
+
+COMPUTING HASH...
+COMPUTING TIME: 8.41245s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.018s
+The 1-th R*-Tree has been built. Elapsed time: 0.966s
+The 2-th R*-Tree has been built. Elapsed time: 0.968s
+The 3-th R*-Tree has been built. Elapsed time: 0.971s
+The 4-th R*-Tree has been built. Elapsed time: 0.977s
+The 5-th R*-Tree has been built. Elapsed time: 0.965s
+The 6-th R*-Tree has been built. Elapsed time: 0.973s
+The 7-th R*-Tree has been built. Elapsed time: 0.962s
+The 8-th R*-Tree has been built. Elapsed time: 0.992s
+The 9-th R*-Tree has been built. Elapsed time: 0.970s
+The 10-th R*-Tree has been built. Elapsed time: 0.976s
+The 11-th R*-Tree has been built. Elapsed time: 0.966s
+The 12-th R*-Tree has been built. Elapsed time: 0.961s
+The 13-th R*-Tree has been built. Elapsed time: 0.976s
+The 14-th R*-Tree has been built. Elapsed time: 0.981s
+BUILDING TIME: 14.6221s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    52.3504ms.
+
+TOTAL QUERY TIME:    5235.04ms.
+
+AVG RECALL:        0.1053
+AVG MAP:        0.0417419
+AVG RATIO:         1.19937
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.6093s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000417s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.30666s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.976s
+The 1-th R*-Tree has been built. Elapsed time: 0.964s
+The 2-th R*-Tree has been built. Elapsed time: 0.974s
+The 3-th R*-Tree has been built. Elapsed time: 1.003s
+The 4-th R*-Tree has been built. Elapsed time: 1.044s
+BUILDING TIME: 4.96062s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    82.1676ms.
+
+TOTAL QUERY TIME:    8216.76ms.
+
+AVG RECALL:        0.1304
+AVG MAP:        0.0488094
+AVG RATIO:         1.15947
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.61976s.
+
+LOADING BENMARK...
+LOADING TIME: 2.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000486s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.80542s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.968s
+The 1-th R*-Tree has been built. Elapsed time: 0.977s
+The 2-th R*-Tree has been built. Elapsed time: 0.969s
+The 3-th R*-Tree has been built. Elapsed time: 0.978s
+The 4-th R*-Tree has been built. Elapsed time: 0.994s
+BUILDING TIME: 4.8868s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    54.839ms.
+
+TOTAL QUERY TIME:    5483.9ms.
+
+AVG RECALL:        0.1297
+AVG MAP:        0.0512086
+AVG RATIO:         1.1671
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.89358s.
+
+LOADING BENMARK...
+LOADING TIME: 2.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000365s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.82952s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.984s
+The 1-th R*-Tree has been built. Elapsed time: 0.962s
+The 2-th R*-Tree has been built. Elapsed time: 0.960s
+The 3-th R*-Tree has been built. Elapsed time: 0.968s
+The 4-th R*-Tree has been built. Elapsed time: 0.983s
+BUILDING TIME: 4.8569s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    54.3128ms.
+
+TOTAL QUERY TIME:    5431.28ms.
+
+AVG RECALL:        0.0722
+AVG MAP:        0.0205389
+AVG RATIO:         1.23489
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.65337s.
+
+LOADING BENMARK...
+LOADING TIME: 2.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000352s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.82123s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.958s
+The 1-th R*-Tree has been built. Elapsed time: 0.960s
+The 2-th R*-Tree has been built. Elapsed time: 0.975s
+The 3-th R*-Tree has been built. Elapsed time: 0.973s
+The 4-th R*-Tree has been built. Elapsed time: 0.968s
+BUILDING TIME: 4.83467s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    53.9044ms.
+
+TOTAL QUERY TIME:    5390.44ms.
+
+AVG RECALL:        0.0722
+AVG MAP:        0.0205389
+AVG RATIO:         1.23489
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.64913s.
+
+LOADING BENMARK...
+LOADING TIME: 2.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000369s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.77166s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.014s
+The 1-th R*-Tree has been built. Elapsed time: 1.021s
+The 2-th R*-Tree has been built. Elapsed time: 1.057s
+The 3-th R*-Tree has been built. Elapsed time: 1.064s
+The 4-th R*-Tree has been built. Elapsed time: 1.055s
+BUILDING TIME: 5.21075s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    60.1881ms.
+
+TOTAL QUERY TIME:    6018.81ms.
+
+AVG RECALL:        0.0722
+AVG MAP:        0.0205389
+AVG RATIO:         1.23489
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.65604s.
+
+LOADING BENMARK...
+LOADING TIME: 2.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000362s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.8145s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.079s
+The 1-th R*-Tree has been built. Elapsed time: 1.093s
+The 2-th R*-Tree has been built. Elapsed time: 1.081s
+The 3-th R*-Tree has been built. Elapsed time: 1.133s
+The 4-th R*-Tree has been built. Elapsed time: 1.067s
+BUILDING TIME: 5.45235s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    54.6586ms.
+
+TOTAL QUERY TIME:    5465.86ms.
+
+AVG RECALL:        0.0722
+AVG MAP:        0.0205389
+AVG RATIO:         1.23489
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.56875s.
+
+LOADING BENMARK...
+LOADING TIME: 2.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000362s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.64684s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.038s
+The 1-th R*-Tree has been built. Elapsed time: 1.021s
+The 2-th R*-Tree has been built. Elapsed time: 1.054s
+The 3-th R*-Tree has been built. Elapsed time: 1.040s
+The 4-th R*-Tree has been built. Elapsed time: 1.063s
+BUILDING TIME: 5.21544s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    59.5795ms.
+
+TOTAL QUERY TIME:    5957.95ms.
+
+AVG RECALL:        0.0722
+AVG MAP:        0.0205389
+AVG RATIO:         1.23489
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.61841s.
+
+LOADING BENMARK...
+LOADING TIME: 2.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000577s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.57527s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.061s
+The 1-th R*-Tree has been built. Elapsed time: 1.062s
+The 2-th R*-Tree has been built. Elapsed time: 1.096s
+The 3-th R*-Tree has been built. Elapsed time: 1.052s
+The 4-th R*-Tree has been built. Elapsed time: 1.094s
+The 5-th R*-Tree has been built. Elapsed time: 1.083s
+The 6-th R*-Tree has been built. Elapsed time: 1.061s
+The 7-th R*-Tree has been built. Elapsed time: 1.090s
+The 8-th R*-Tree has been built. Elapsed time: 1.065s
+The 9-th R*-Tree has been built. Elapsed time: 1.074s
+BUILDING TIME: 10.738s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    58.7604ms.
+
+TOTAL QUERY TIME:    5876.04ms.
+
+AVG RECALL:        0.0722
+AVG MAP:        0.0205389
+AVG RATIO:         1.23489
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.6084s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001017s.
+
+COMPUTING HASH...
+COMPUTING TIME: 7.86159s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.019s
+The 1-th R*-Tree has been built. Elapsed time: 1.015s
+The 2-th R*-Tree has been built. Elapsed time: 0.988s
+The 3-th R*-Tree has been built. Elapsed time: 1.013s
+The 4-th R*-Tree has been built. Elapsed time: 1.050s
+The 5-th R*-Tree has been built. Elapsed time: 1.006s
+The 6-th R*-Tree has been built. Elapsed time: 0.930s
+The 7-th R*-Tree has been built. Elapsed time: 0.909s
+The 8-th R*-Tree has been built. Elapsed time: 0.966s
+The 9-th R*-Tree has been built. Elapsed time: 0.942s
+The 10-th R*-Tree has been built. Elapsed time: 0.986s
+The 11-th R*-Tree has been built. Elapsed time: 0.957s
+The 12-th R*-Tree has been built. Elapsed time: 0.983s
+The 13-th R*-Tree has been built. Elapsed time: 0.972s
+The 14-th R*-Tree has been built. Elapsed time: 1.041s
+BUILDING TIME: 14.7758s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    55.5046ms.
+
+TOTAL QUERY TIME:    5550.46ms.
+
+AVG RECALL:        0.0722
+AVG MAP:        0.0205389
+AVG RATIO:         1.23489
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.57691s.
+
+LOADING BENMARK...
+LOADING TIME: 2.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000373s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.9941s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.949s
+The 1-th R*-Tree has been built. Elapsed time: 0.951s
+The 2-th R*-Tree has been built. Elapsed time: 0.969s
+The 3-th R*-Tree has been built. Elapsed time: 0.962s
+The 4-th R*-Tree has been built. Elapsed time: 1.015s
+BUILDING TIME: 4.8457s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    57.8759ms.
+
+TOTAL QUERY TIME:    5787.59ms.
+
+AVG RECALL:        0.0791
+AVG MAP:        0.0239435
+AVG RATIO:         1.18715
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for imagenet-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/imagenet-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.55351s.
+
+LOADING BENMARK...
+LOADING TIME: 2.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000425s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.39044s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.021s
+The 1-th R*-Tree has been built. Elapsed time: 0.988s
+The 2-th R*-Tree has been built. Elapsed time: 0.988s
+The 3-th R*-Tree has been built. Elapsed time: 0.944s
+The 4-th R*-Tree has been built. Elapsed time: 0.918s
+BUILDING TIME: 4.85834s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          imagenet-clip-512-normalized-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    57.7044ms.
+
+TOTAL QUERY TIME:    5770.44ms.
+
+AVG RECALL:        0.0838
+AVG MAP:        0.0289499
+AVG RATIO:         1.20197
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+

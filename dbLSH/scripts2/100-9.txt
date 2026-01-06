@@ -1,0 +1,949 @@
+Using DB-LSH for llama-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.340621s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 2.66101s.
+
+SAVING BENMARK...
+SAVING TIME: 0.00029s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000105s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.202158s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.117s
+The 1-th R*-Tree has been built. Elapsed time: 0.124s
+The 2-th R*-Tree has been built. Elapsed time: 0.129s
+The 3-th R*-Tree has been built. Elapsed time: 0.117s
+The 4-th R*-Tree has been built. Elapsed time: 0.133s
+BUILDING TIME: 0.620319s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    17.0153ms.
+
+TOTAL QUERY TIME:    1701.53ms.
+
+AVG RECALL:        0.9892
+AVG MAP:        0.982529
+AVG RATIO:         1.00006
+AVG COST:          0.100389
+AVG ROUNDS:        8.96
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.113011s.
+
+LOADING BENMARK...
+LOADING TIME: 2.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000101s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.178832s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.118s
+The 1-th R*-Tree has been built. Elapsed time: 0.119s
+The 2-th R*-Tree has been built. Elapsed time: 0.115s
+The 3-th R*-Tree has been built. Elapsed time: 0.114s
+The 4-th R*-Tree has been built. Elapsed time: 0.114s
+BUILDING TIME: 0.579642s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    12.1639ms.
+
+TOTAL QUERY TIME:    1216.39ms.
+
+AVG RECALL:        0.9018
+AVG MAP:        0.864805
+AVG RATIO:         1.00218
+AVG COST:          0.100389
+AVG ROUNDS:        6
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.114245s.
+
+LOADING BENMARK...
+LOADING TIME: 5.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 9.8e-05s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.181771s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.115s
+The 1-th R*-Tree has been built. Elapsed time: 0.124s
+The 2-th R*-Tree has been built. Elapsed time: 0.123s
+The 3-th R*-Tree has been built. Elapsed time: 0.120s
+The 4-th R*-Tree has been built. Elapsed time: 0.117s
+BUILDING TIME: 0.598698s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    22.9671ms.
+
+TOTAL QUERY TIME:    2296.71ms.
+
+AVG RECALL:        0.8482
+AVG MAP:        0.804561
+AVG RATIO:         1.00319
+AVG COST:          0.100389
+AVG ROUNDS:        16.08
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.1174s.
+
+LOADING BENMARK...
+LOADING TIME: 4.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000169s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.37951s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.119s
+The 1-th R*-Tree has been built. Elapsed time: 0.125s
+The 2-th R*-Tree has been built. Elapsed time: 0.127s
+The 3-th R*-Tree has been built. Elapsed time: 0.122s
+The 4-th R*-Tree has been built. Elapsed time: 0.120s
+The 5-th R*-Tree has been built. Elapsed time: 0.116s
+The 6-th R*-Tree has been built. Elapsed time: 0.116s
+The 7-th R*-Tree has been built. Elapsed time: 0.118s
+The 8-th R*-Tree has been built. Elapsed time: 0.116s
+The 9-th R*-Tree has been built. Elapsed time: 0.123s
+BUILDING TIME: 1.2028s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    23.2339ms.
+
+TOTAL QUERY TIME:    2323.39ms.
+
+AVG RECALL:        0.5398
+AVG MAP:        0.479863
+AVG RATIO:         1.01772
+AVG COST:          0.100389
+AVG ROUNDS:        7.98
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.121275s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000237s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.612853s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.133s
+The 1-th R*-Tree has been built. Elapsed time: 0.128s
+The 2-th R*-Tree has been built. Elapsed time: 0.124s
+The 3-th R*-Tree has been built. Elapsed time: 0.127s
+The 4-th R*-Tree has been built. Elapsed time: 0.126s
+The 5-th R*-Tree has been built. Elapsed time: 0.121s
+The 6-th R*-Tree has been built. Elapsed time: 0.128s
+The 7-th R*-Tree has been built. Elapsed time: 0.128s
+The 8-th R*-Tree has been built. Elapsed time: 0.128s
+The 9-th R*-Tree has been built. Elapsed time: 0.134s
+The 10-th R*-Tree has been built. Elapsed time: 0.136s
+The 11-th R*-Tree has been built. Elapsed time: 0.139s
+The 12-th R*-Tree has been built. Elapsed time: 0.134s
+The 13-th R*-Tree has been built. Elapsed time: 0.130s
+The 14-th R*-Tree has been built. Elapsed time: 0.122s
+BUILDING TIME: 1.93591s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    25.2417ms.
+
+TOTAL QUERY TIME:    2524.17ms.
+
+AVG RECALL:        0.5455
+AVG MAP:        0.485887
+AVG RATIO:         1.01707
+AVG COST:          0.100389
+AVG ROUNDS:        7.98
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.127627s.
+
+LOADING BENMARK...
+LOADING TIME: 3.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00013s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.221877s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.134s
+The 1-th R*-Tree has been built. Elapsed time: 0.136s
+The 2-th R*-Tree has been built. Elapsed time: 0.133s
+The 3-th R*-Tree has been built. Elapsed time: 0.141s
+The 4-th R*-Tree has been built. Elapsed time: 0.148s
+BUILDING TIME: 0.692585s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    15.1824ms.
+
+TOTAL QUERY TIME:    1518.24ms.
+
+AVG RECALL:        0.7404
+AVG MAP:        0.692676
+AVG RATIO:         1.00579
+AVG COST:          0.100389
+AVG ROUNDS:        9
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.127481s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000144s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.260054s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.200s
+The 1-th R*-Tree has been built. Elapsed time: 0.186s
+The 2-th R*-Tree has been built. Elapsed time: 0.188s
+The 3-th R*-Tree has been built. Elapsed time: 0.191s
+The 4-th R*-Tree has been built. Elapsed time: 0.194s
+BUILDING TIME: 0.958229s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    17.3738ms.
+
+TOTAL QUERY TIME:    1737.38ms.
+
+AVG RECALL:        0.1761
+AVG MAP:        0.143326
+AVG RATIO:         1.05743
+AVG COST:          0.100389
+AVG ROUNDS:        8.23
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.13611s.
+
+LOADING BENMARK...
+LOADING TIME: 3.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000113s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.213816s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.161s
+The 1-th R*-Tree has been built. Elapsed time: 0.148s
+The 2-th R*-Tree has been built. Elapsed time: 0.167s
+The 3-th R*-Tree has been built. Elapsed time: 0.164s
+The 4-th R*-Tree has been built. Elapsed time: 0.164s
+BUILDING TIME: 0.803968s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    18.1746ms.
+
+TOTAL QUERY TIME:    1817.46ms.
+
+AVG RECALL:        0.8205
+AVG MAP:        0.76139
+AVG RATIO:         1.00355
+AVG COST:          0.100389
+AVG ROUNDS:        2.11
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.131647s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00012s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.213323s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.167s
+The 1-th R*-Tree has been built. Elapsed time: 0.164s
+The 2-th R*-Tree has been built. Elapsed time: 0.149s
+The 3-th R*-Tree has been built. Elapsed time: 0.174s
+The 4-th R*-Tree has been built. Elapsed time: 0.168s
+BUILDING TIME: 0.822114s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    15.5804ms.
+
+TOTAL QUERY TIME:    1558.04ms.
+
+AVG RECALL:        0.9161
+AVG MAP:        0.898795
+AVG RATIO:         1.00201
+AVG COST:          0.100389
+AVG ROUNDS:        1.84
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.135351s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000115s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.214179s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.187s
+The 1-th R*-Tree has been built. Elapsed time: 0.179s
+The 2-th R*-Tree has been built. Elapsed time: 0.184s
+The 3-th R*-Tree has been built. Elapsed time: 0.173s
+The 4-th R*-Tree has been built. Elapsed time: 0.159s
+BUILDING TIME: 0.882452s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    33.9031ms.
+
+TOTAL QUERY TIME:    3390.31ms.
+
+AVG RECALL:        0.889
+AVG MAP:        0.853904
+AVG RATIO:         1.00179
+AVG COST:          0.100389
+AVG ROUNDS:        4.84
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.180391s.
+
+LOADING BENMARK...
+LOADING TIME: 4.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000109s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.214228s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.180s
+The 1-th R*-Tree has been built. Elapsed time: 0.212s
+The 2-th R*-Tree has been built. Elapsed time: 0.151s
+The 3-th R*-Tree has been built. Elapsed time: 0.182s
+The 4-th R*-Tree has been built. Elapsed time: 0.169s
+BUILDING TIME: 0.894054s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    6.55557ms.
+
+TOTAL QUERY TIME:    655.557ms.
+
+AVG RECALL:        0.9999
+AVG MAP:        0.999785
+AVG RATIO:         1
+AVG COST:          0.100389
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.146912s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000108s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.216065s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.155s
+The 1-th R*-Tree has been built. Elapsed time: 0.172s
+The 2-th R*-Tree has been built. Elapsed time: 0.184s
+The 3-th R*-Tree has been built. Elapsed time: 0.139s
+The 4-th R*-Tree has been built. Elapsed time: 0.143s
+BUILDING TIME: 0.793785s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    4.97171ms.
+
+TOTAL QUERY TIME:    497.171ms.
+
+AVG RECALL:        0.9999
+AVG MAP:        0.999785
+AVG RATIO:         1
+AVG COST:          0.100389
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.156359s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000191s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.444989s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.143s
+The 1-th R*-Tree has been built. Elapsed time: 0.145s
+The 2-th R*-Tree has been built. Elapsed time: 0.141s
+The 3-th R*-Tree has been built. Elapsed time: 0.148s
+The 4-th R*-Tree has been built. Elapsed time: 0.137s
+The 5-th R*-Tree has been built. Elapsed time: 0.141s
+The 6-th R*-Tree has been built. Elapsed time: 0.136s
+The 7-th R*-Tree has been built. Elapsed time: 0.139s
+The 8-th R*-Tree has been built. Elapsed time: 0.140s
+The 9-th R*-Tree has been built. Elapsed time: 0.151s
+BUILDING TIME: 1.4208s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    19.4614ms.
+
+TOTAL QUERY TIME:    1946.14ms.
+
+AVG RECALL:        0.5627
+AVG MAP:        0.503336
+AVG RATIO:         1.01717
+AVG COST:          0.100389
+AVG ROUNDS:        1.82
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.138474s.
+
+LOADING BENMARK...
+LOADING TIME: 3.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00028s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.69964s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.151s
+The 1-th R*-Tree has been built. Elapsed time: 0.144s
+The 2-th R*-Tree has been built. Elapsed time: 0.142s
+The 3-th R*-Tree has been built. Elapsed time: 0.144s
+The 4-th R*-Tree has been built. Elapsed time: 0.141s
+The 5-th R*-Tree has been built. Elapsed time: 0.143s
+The 6-th R*-Tree has been built. Elapsed time: 0.141s
+The 7-th R*-Tree has been built. Elapsed time: 0.139s
+The 8-th R*-Tree has been built. Elapsed time: 0.146s
+The 9-th R*-Tree has been built. Elapsed time: 0.141s
+The 10-th R*-Tree has been built. Elapsed time: 0.138s
+The 11-th R*-Tree has been built. Elapsed time: 0.142s
+The 12-th R*-Tree has been built. Elapsed time: 0.149s
+The 13-th R*-Tree has been built. Elapsed time: 0.141s
+The 14-th R*-Tree has been built. Elapsed time: 0.140s
+BUILDING TIME: 2.14397s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    21.333ms.
+
+TOTAL QUERY TIME:    2133.3ms.
+
+AVG RECALL:        0.5643
+AVG MAP:        0.506884
+AVG RATIO:         1.01773
+AVG COST:          0.100389
+AVG ROUNDS:        1.8
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.147823s.
+
+LOADING BENMARK...
+LOADING TIME: 3.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00013s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.24452s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.159s
+The 1-th R*-Tree has been built. Elapsed time: 0.151s
+The 2-th R*-Tree has been built. Elapsed time: 0.159s
+The 3-th R*-Tree has been built. Elapsed time: 0.148s
+The 4-th R*-Tree has been built. Elapsed time: 0.154s
+BUILDING TIME: 0.770791s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    15.6532ms.
+
+TOTAL QUERY TIME:    1565.32ms.
+
+AVG RECALL:        0.7995
+AVG MAP:        0.740422
+AVG RATIO:         1.00448
+AVG COST:          0.100389
+AVG ROUNDS:        2.24
+
+QUERY FINISH... 
+
+
+Using DB-LSH for llama-128-ip ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/llama-128-ip/
+N=    256921
+dim=  128
+
+LOADING TIME: 0.137001s.
+
+LOADING BENMARK...
+LOADING TIME: 3.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00014s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.275602s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.215s
+The 1-th R*-Tree has been built. Elapsed time: 0.206s
+The 2-th R*-Tree has been built. Elapsed time: 0.208s
+The 3-th R*-Tree has been built. Elapsed time: 0.210s
+The 4-th R*-Tree has been built. Elapsed time: 0.207s
+BUILDING TIME: 1.04607s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          llama-128-ip-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    15.0467ms.
+
+TOTAL QUERY TIME:    1504.67ms.
+
+AVG RECALL:        0.498
+AVG MAP:        0.39995
+AVG RATIO:         1.01867
+AVG COST:          0.100389
+AVG ROUNDS:        2
+
+QUERY FINISH... 
+
+

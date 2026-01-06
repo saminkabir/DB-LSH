@@ -1,0 +1,949 @@
+Using DB-LSH for yandex-200-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 1.49857s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 12.668s.
+
+SAVING BENMARK...
+SAVING TIME: 0.000271s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000185s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.07388s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.095s
+The 1-th R*-Tree has been built. Elapsed time: 1.125s
+The 2-th R*-Tree has been built. Elapsed time: 1.121s
+The 3-th R*-Tree has been built. Elapsed time: 1.102s
+The 4-th R*-Tree has been built. Elapsed time: 1.180s
+BUILDING TIME: 5.62333s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    54.6902ms.
+
+TOTAL QUERY TIME:    5469.02ms.
+
+AVG RECALL:        0.2053
+AVG MAP:        0.0862286
+AVG RATIO:         1.03607
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.947549s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000166s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.12218s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.597s
+The 1-th R*-Tree has been built. Elapsed time: 1.579s
+The 2-th R*-Tree has been built. Elapsed time: 1.471s
+The 3-th R*-Tree has been built. Elapsed time: 1.495s
+The 4-th R*-Tree has been built. Elapsed time: 1.631s
+BUILDING TIME: 7.77361s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    74.7416ms.
+
+TOTAL QUERY TIME:    7474.16ms.
+
+AVG RECALL:        0.0833
+AVG MAP:        0.0242282
+AVG RATIO:         1.05573
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.768402s.
+
+LOADING BENMARK...
+LOADING TIME: 4.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000156s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.09453s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.191s
+The 1-th R*-Tree has been built. Elapsed time: 1.306s
+The 2-th R*-Tree has been built. Elapsed time: 1.252s
+The 3-th R*-Tree has been built. Elapsed time: 1.307s
+The 4-th R*-Tree has been built. Elapsed time: 1.312s
+BUILDING TIME: 6.36818s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    65.6145ms.
+
+TOTAL QUERY TIME:    6561.45ms.
+
+AVG RECALL:        0.3587
+AVG MAP:        0.174227
+AVG RATIO:         1.02063
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.817924s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000298s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.22389s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.213s
+The 1-th R*-Tree has been built. Elapsed time: 1.252s
+The 2-th R*-Tree has been built. Elapsed time: 1.344s
+The 3-th R*-Tree has been built. Elapsed time: 1.200s
+The 4-th R*-Tree has been built. Elapsed time: 1.202s
+The 5-th R*-Tree has been built. Elapsed time: 1.211s
+The 6-th R*-Tree has been built. Elapsed time: 1.241s
+The 7-th R*-Tree has been built. Elapsed time: 1.241s
+The 8-th R*-Tree has been built. Elapsed time: 1.226s
+The 9-th R*-Tree has been built. Elapsed time: 1.322s
+BUILDING TIME: 12.4532s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    59.4152ms.
+
+TOTAL QUERY TIME:    5941.52ms.
+
+AVG RECALL:        0.2053
+AVG MAP:        0.0862286
+AVG RATIO:         1.03607
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.815938s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000441s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.47867s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.266s
+The 1-th R*-Tree has been built. Elapsed time: 1.178s
+The 2-th R*-Tree has been built. Elapsed time: 1.176s
+The 3-th R*-Tree has been built. Elapsed time: 1.198s
+The 4-th R*-Tree has been built. Elapsed time: 1.228s
+The 5-th R*-Tree has been built. Elapsed time: 1.273s
+The 6-th R*-Tree has been built. Elapsed time: 1.323s
+The 7-th R*-Tree has been built. Elapsed time: 1.225s
+The 8-th R*-Tree has been built. Elapsed time: 1.213s
+The 9-th R*-Tree has been built. Elapsed time: 1.207s
+The 10-th R*-Tree has been built. Elapsed time: 1.196s
+The 11-th R*-Tree has been built. Elapsed time: 1.198s
+The 12-th R*-Tree has been built. Elapsed time: 1.205s
+The 13-th R*-Tree has been built. Elapsed time: 1.247s
+The 14-th R*-Tree has been built. Elapsed time: 1.281s
+BUILDING TIME: 18.4144s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    57.0197ms.
+
+TOTAL QUERY TIME:    5701.97ms.
+
+AVG RECALL:        0.2053
+AVG MAP:        0.0862286
+AVG RATIO:         1.03607
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.795982s.
+
+LOADING BENMARK...
+LOADING TIME: 4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000187s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.26281s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.168s
+The 1-th R*-Tree has been built. Elapsed time: 1.180s
+The 2-th R*-Tree has been built. Elapsed time: 1.170s
+The 3-th R*-Tree has been built. Elapsed time: 1.197s
+The 4-th R*-Tree has been built. Elapsed time: 1.198s
+BUILDING TIME: 5.91283s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    55.8364ms.
+
+TOTAL QUERY TIME:    5583.64ms.
+
+AVG RECALL:        0.2485
+AVG MAP:        0.116077
+AVG RATIO:         1.03364
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.789504s.
+
+LOADING BENMARK...
+LOADING TIME: 4.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000221s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.43422s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.209s
+The 1-th R*-Tree has been built. Elapsed time: 1.273s
+The 2-th R*-Tree has been built. Elapsed time: 1.295s
+The 3-th R*-Tree has been built. Elapsed time: 1.318s
+The 4-th R*-Tree has been built. Elapsed time: 1.323s
+BUILDING TIME: 6.41803s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    61.1263ms.
+
+TOTAL QUERY TIME:    6112.63ms.
+
+AVG RECALL:        0.3587
+AVG MAP:        0.201932
+AVG RATIO:         1.02711
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.838561s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000178s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.08736s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.237s
+The 1-th R*-Tree has been built. Elapsed time: 1.222s
+The 2-th R*-Tree has been built. Elapsed time: 1.120s
+The 3-th R*-Tree has been built. Elapsed time: 1.092s
+The 4-th R*-Tree has been built. Elapsed time: 1.099s
+BUILDING TIME: 5.76955s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    41.7272ms.
+
+TOTAL QUERY TIME:    4172.72ms.
+
+AVG RECALL:        0.0654
+AVG MAP:        0.0182068
+AVG RATIO:         1.06275
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.805294s.
+
+LOADING BENMARK...
+LOADING TIME: 3.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000169s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.08554s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.103s
+The 1-th R*-Tree has been built. Elapsed time: 1.071s
+The 2-th R*-Tree has been built. Elapsed time: 1.090s
+The 3-th R*-Tree has been built. Elapsed time: 1.127s
+The 4-th R*-Tree has been built. Elapsed time: 1.118s
+BUILDING TIME: 5.50959s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    42.816ms.
+
+TOTAL QUERY TIME:    4281.6ms.
+
+AVG RECALL:        0.0654
+AVG MAP:        0.0182068
+AVG RATIO:         1.06275
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.756323s.
+
+LOADING BENMARK...
+LOADING TIME: 3.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000176s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.08805s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.098s
+The 1-th R*-Tree has been built. Elapsed time: 1.169s
+The 2-th R*-Tree has been built. Elapsed time: 1.320s
+The 3-th R*-Tree has been built. Elapsed time: 1.194s
+The 4-th R*-Tree has been built. Elapsed time: 1.154s
+BUILDING TIME: 5.93544s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    44.8815ms.
+
+TOTAL QUERY TIME:    4488.15ms.
+
+AVG RECALL:        0.0654
+AVG MAP:        0.0182068
+AVG RATIO:         1.06275
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.804085s.
+
+LOADING BENMARK...
+LOADING TIME: 4.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000175s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.0886s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.201s
+The 1-th R*-Tree has been built. Elapsed time: 1.174s
+The 2-th R*-Tree has been built. Elapsed time: 1.204s
+The 3-th R*-Tree has been built. Elapsed time: 1.239s
+The 4-th R*-Tree has been built. Elapsed time: 1.261s
+BUILDING TIME: 6.07861s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    45.9084ms.
+
+TOTAL QUERY TIME:    4590.84ms.
+
+AVG RECALL:        0.0654
+AVG MAP:        0.0182068
+AVG RATIO:         1.06275
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.734889s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000176s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.08671s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.116s
+The 1-th R*-Tree has been built. Elapsed time: 1.100s
+The 2-th R*-Tree has been built. Elapsed time: 1.099s
+The 3-th R*-Tree has been built. Elapsed time: 1.142s
+The 4-th R*-Tree has been built. Elapsed time: 1.183s
+BUILDING TIME: 5.64063s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    44.9459ms.
+
+TOTAL QUERY TIME:    4494.59ms.
+
+AVG RECALL:        0.0654
+AVG MAP:        0.0182068
+AVG RATIO:         1.06275
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.7838s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.0003s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.22024s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.230s
+The 1-th R*-Tree has been built. Elapsed time: 1.154s
+The 2-th R*-Tree has been built. Elapsed time: 1.206s
+The 3-th R*-Tree has been built. Elapsed time: 1.166s
+The 4-th R*-Tree has been built. Elapsed time: 1.176s
+The 5-th R*-Tree has been built. Elapsed time: 1.057s
+The 6-th R*-Tree has been built. Elapsed time: 1.075s
+The 7-th R*-Tree has been built. Elapsed time: 1.111s
+The 8-th R*-Tree has been built. Elapsed time: 1.112s
+The 9-th R*-Tree has been built. Elapsed time: 1.130s
+BUILDING TIME: 11.4175s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    45.4556ms.
+
+TOTAL QUERY TIME:    4545.56ms.
+
+AVG RECALL:        0.0654
+AVG MAP:        0.0182068
+AVG RATIO:         1.06275
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.748989s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000426s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.48141s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.350s
+The 1-th R*-Tree has been built. Elapsed time: 1.244s
+The 2-th R*-Tree has been built. Elapsed time: 1.237s
+The 3-th R*-Tree has been built. Elapsed time: 1.358s
+The 4-th R*-Tree has been built. Elapsed time: 1.333s
+The 5-th R*-Tree has been built. Elapsed time: 1.297s
+The 6-th R*-Tree has been built. Elapsed time: 1.241s
+The 7-th R*-Tree has been built. Elapsed time: 1.189s
+The 8-th R*-Tree has been built. Elapsed time: 1.098s
+The 9-th R*-Tree has been built. Elapsed time: 1.170s
+The 10-th R*-Tree has been built. Elapsed time: 1.082s
+The 11-th R*-Tree has been built. Elapsed time: 1.073s
+The 12-th R*-Tree has been built. Elapsed time: 1.118s
+The 13-th R*-Tree has been built. Elapsed time: 1.157s
+The 14-th R*-Tree has been built. Elapsed time: 1.191s
+BUILDING TIME: 18.1385s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    47.9338ms.
+
+TOTAL QUERY TIME:    4793.38ms.
+
+AVG RECALL:        0.0654
+AVG MAP:        0.0182068
+AVG RATIO:         1.06275
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.760933s.
+
+LOADING BENMARK...
+LOADING TIME: 3.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000201s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.19188s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.156s
+The 1-th R*-Tree has been built. Elapsed time: 1.206s
+The 2-th R*-Tree has been built. Elapsed time: 1.209s
+The 3-th R*-Tree has been built. Elapsed time: 1.114s
+The 4-th R*-Tree has been built. Elapsed time: 1.134s
+BUILDING TIME: 5.81996s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    44.5059ms.
+
+TOTAL QUERY TIME:    4450.59ms.
+
+AVG RECALL:        0.127
+AVG MAP:        0.0486531
+AVG RATIO:         1.06104
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yandex-200-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yandex-200-cosine/
+N=    1000000
+dim=  200
+
+LOADING TIME: 0.775906s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000216s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.43386s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.199s
+The 1-th R*-Tree has been built. Elapsed time: 1.224s
+The 2-th R*-Tree has been built. Elapsed time: 1.256s
+The 3-th R*-Tree has been built. Elapsed time: 1.273s
+The 4-th R*-Tree has been built. Elapsed time: 1.333s
+BUILDING TIME: 6.28553s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yandex-200-cosine-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    44.7242ms.
+
+TOTAL QUERY TIME:    4472.42ms.
+
+AVG RECALL:        0.1329
+AVG MAP:        0.0409096
+AVG RATIO:         1.05404
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+

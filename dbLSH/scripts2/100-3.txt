@@ -1,0 +1,949 @@
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 2.70083s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 10.3796s.
+
+SAVING BENMARK...
+SAVING TIME: 0.000352s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001328s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.68774s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.152s
+The 1-th R*-Tree has been built. Elapsed time: 0.163s
+The 2-th R*-Tree has been built. Elapsed time: 0.169s
+The 3-th R*-Tree has been built. Elapsed time: 0.156s
+The 4-th R*-Tree has been built. Elapsed time: 0.153s
+BUILDING TIME: 0.793452s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    54.4479ms.
+
+TOTAL QUERY TIME:    5444.79ms.
+
+AVG RECALL:        0.7867
+AVG MAP:        0.687057
+AVG RATIO:         1.00826
+AVG COST:          0.100492
+AVG ROUNDS:        5.66
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.59583s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00132s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.78859s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.184s
+The 1-th R*-Tree has been built. Elapsed time: 0.162s
+The 2-th R*-Tree has been built. Elapsed time: 0.165s
+The 3-th R*-Tree has been built. Elapsed time: 0.183s
+The 4-th R*-Tree has been built. Elapsed time: 0.155s
+BUILDING TIME: 0.848228s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    52.2593ms.
+
+TOTAL QUERY TIME:    5225.93ms.
+
+AVG RECALL:        0.7458
+AVG MAP:        0.632386
+AVG RATIO:         1.01037
+AVG COST:          0.100492
+AVG ROUNDS:        3.99
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.5683s.
+
+LOADING BENMARK...
+LOADING TIME: 6.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001315s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.7659s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.151s
+The 1-th R*-Tree has been built. Elapsed time: 0.141s
+The 2-th R*-Tree has been built. Elapsed time: 0.148s
+The 3-th R*-Tree has been built. Elapsed time: 0.140s
+The 4-th R*-Tree has been built. Elapsed time: 0.162s
+BUILDING TIME: 0.741492s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    56.762ms.
+
+TOTAL QUERY TIME:    5676.2ms.
+
+AVG RECALL:        0.8052
+AVG MAP:        0.709208
+AVG RATIO:         1.00726
+AVG COST:          0.100492
+AVG ROUNDS:        10.63
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.3881s.
+
+LOADING BENMARK...
+LOADING TIME: 3.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.002618s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.2041s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.105s
+The 1-th R*-Tree has been built. Elapsed time: 0.106s
+The 2-th R*-Tree has been built. Elapsed time: 0.120s
+The 3-th R*-Tree has been built. Elapsed time: 0.106s
+The 4-th R*-Tree has been built. Elapsed time: 0.105s
+The 5-th R*-Tree has been built. Elapsed time: 0.106s
+The 6-th R*-Tree has been built. Elapsed time: 0.108s
+The 7-th R*-Tree has been built. Elapsed time: 0.123s
+The 8-th R*-Tree has been built. Elapsed time: 0.105s
+The 9-th R*-Tree has been built. Elapsed time: 0.106s
+BUILDING TIME: 1.08961s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    54.9795ms.
+
+TOTAL QUERY TIME:    5497.95ms.
+
+AVG RECALL:        0.8189
+AVG MAP:        0.733467
+AVG RATIO:         1.00639
+AVG COST:          0.100492
+AVG ROUNDS:        5.44
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.39097s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.003865s.
+
+COMPUTING HASH...
+COMPUTING TIME: 7.77583s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.142s
+The 1-th R*-Tree has been built. Elapsed time: 0.147s
+The 2-th R*-Tree has been built. Elapsed time: 0.154s
+The 3-th R*-Tree has been built. Elapsed time: 0.143s
+The 4-th R*-Tree has been built. Elapsed time: 0.139s
+The 5-th R*-Tree has been built. Elapsed time: 0.158s
+The 6-th R*-Tree has been built. Elapsed time: 0.135s
+The 7-th R*-Tree has been built. Elapsed time: 0.134s
+The 8-th R*-Tree has been built. Elapsed time: 0.139s
+The 9-th R*-Tree has been built. Elapsed time: 0.137s
+The 10-th R*-Tree has been built. Elapsed time: 0.148s
+The 11-th R*-Tree has been built. Elapsed time: 0.145s
+The 12-th R*-Tree has been built. Elapsed time: 0.148s
+The 13-th R*-Tree has been built. Elapsed time: 0.159s
+The 14-th R*-Tree has been built. Elapsed time: 0.157s
+BUILDING TIME: 2.18525s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    64.8257ms.
+
+TOTAL QUERY TIME:    6482.57ms.
+
+AVG RECALL:        0.8374
+AVG MAP:        0.759238
+AVG RATIO:         1.00547
+AVG COST:          0.100492
+AVG ROUNDS:        5.3
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.34157s.
+
+LOADING BENMARK...
+LOADING TIME: 2.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001567s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.04082s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.118s
+The 1-th R*-Tree has been built. Elapsed time: 0.142s
+The 2-th R*-Tree has been built. Elapsed time: 0.137s
+The 3-th R*-Tree has been built. Elapsed time: 0.137s
+The 4-th R*-Tree has been built. Elapsed time: 0.116s
+BUILDING TIME: 0.650899s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    44.7113ms.
+
+TOTAL QUERY TIME:    4471.14ms.
+
+AVG RECALL:        0.8215
+AVG MAP:        0.741161
+AVG RATIO:         1.00697
+AVG COST:          0.100492
+AVG ROUNDS:        5.84
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.38908s.
+
+LOADING BENMARK...
+LOADING TIME: 2.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001814s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.52474s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.222s
+The 1-th R*-Tree has been built. Elapsed time: 0.161s
+The 2-th R*-Tree has been built. Elapsed time: 0.180s
+The 3-th R*-Tree has been built. Elapsed time: 0.201s
+The 4-th R*-Tree has been built. Elapsed time: 0.209s
+BUILDING TIME: 0.972105s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    50.6969ms.
+
+TOTAL QUERY TIME:    5069.69ms.
+
+AVG RECALL:        0.8408
+AVG MAP:        0.769731
+AVG RATIO:         1.00565
+AVG COST:          0.100492
+AVG ROUNDS:        6.04
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.38725s.
+
+LOADING BENMARK...
+LOADING TIME: 2.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001316s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.60265s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.153s
+The 1-th R*-Tree has been built. Elapsed time: 0.132s
+The 2-th R*-Tree has been built. Elapsed time: 0.141s
+The 3-th R*-Tree has been built. Elapsed time: 0.136s
+The 4-th R*-Tree has been built. Elapsed time: 0.146s
+BUILDING TIME: 0.708569s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    31.79ms.
+
+TOTAL QUERY TIME:    3179ms.
+
+AVG RECALL:        0.0982
+AVG MAP:        0.0383924
+AVG RATIO:         1.19774
+AVG COST:          0.100492
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.41144s.
+
+LOADING BENMARK...
+LOADING TIME: 2.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00131s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.58425s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.144s
+The 1-th R*-Tree has been built. Elapsed time: 0.137s
+The 2-th R*-Tree has been built. Elapsed time: 0.142s
+The 3-th R*-Tree has been built. Elapsed time: 0.138s
+The 4-th R*-Tree has been built. Elapsed time: 0.159s
+BUILDING TIME: 0.718766s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    30.5935ms.
+
+TOTAL QUERY TIME:    3059.35ms.
+
+AVG RECALL:        0.0569
+AVG MAP:        0.0159055
+AVG RATIO:         1.25095
+AVG COST:          0.100492
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.3466s.
+
+LOADING BENMARK...
+LOADING TIME: 2.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001325s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.57877s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.143s
+The 1-th R*-Tree has been built. Elapsed time: 0.131s
+The 2-th R*-Tree has been built. Elapsed time: 0.135s
+The 3-th R*-Tree has been built. Elapsed time: 0.152s
+The 4-th R*-Tree has been built. Elapsed time: 0.131s
+BUILDING TIME: 0.692931s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    30.3994ms.
+
+TOTAL QUERY TIME:    3039.94ms.
+
+AVG RECALL:        0.332
+AVG MAP:        0.204918
+AVG RATIO:         1.0786
+AVG COST:          0.100492
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.34362s.
+
+LOADING BENMARK...
+LOADING TIME: 2.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001312s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.60971s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.146s
+The 1-th R*-Tree has been built. Elapsed time: 0.133s
+The 2-th R*-Tree has been built. Elapsed time: 0.114s
+The 3-th R*-Tree has been built. Elapsed time: 0.108s
+The 4-th R*-Tree has been built. Elapsed time: 0.141s
+BUILDING TIME: 0.642754s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    29.1565ms.
+
+TOTAL QUERY TIME:    2915.65ms.
+
+AVG RECALL:        0.0528
+AVG MAP:        0.0145949
+AVG RATIO:         1.26024
+AVG COST:          0.100492
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.33243s.
+
+LOADING BENMARK...
+LOADING TIME: 2.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001312s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.6165s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.150s
+The 1-th R*-Tree has been built. Elapsed time: 0.140s
+The 2-th R*-Tree has been built. Elapsed time: 0.151s
+The 3-th R*-Tree has been built. Elapsed time: 0.161s
+The 4-th R*-Tree has been built. Elapsed time: 0.151s
+BUILDING TIME: 0.75346s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    29.4146ms.
+
+TOTAL QUERY TIME:    2941.46ms.
+
+AVG RECALL:        0.0528
+AVG MAP:        0.0145949
+AVG RATIO:         1.26024
+AVG COST:          0.100492
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.37625s.
+
+LOADING BENMARK...
+LOADING TIME: 2.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00261s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.17966s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.114s
+The 1-th R*-Tree has been built. Elapsed time: 0.121s
+The 2-th R*-Tree has been built. Elapsed time: 0.131s
+The 3-th R*-Tree has been built. Elapsed time: 0.130s
+The 4-th R*-Tree has been built. Elapsed time: 0.113s
+The 5-th R*-Tree has been built. Elapsed time: 0.115s
+The 6-th R*-Tree has been built. Elapsed time: 0.136s
+The 7-th R*-Tree has been built. Elapsed time: 0.110s
+The 8-th R*-Tree has been built. Elapsed time: 0.111s
+The 9-th R*-Tree has been built. Elapsed time: 0.111s
+BUILDING TIME: 1.19176s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    30.1148ms.
+
+TOTAL QUERY TIME:    3011.48ms.
+
+AVG RECALL:        0.0982
+AVG MAP:        0.0383924
+AVG RATIO:         1.19774
+AVG COST:          0.100492
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.35226s.
+
+LOADING BENMARK...
+LOADING TIME: 2.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.003881s.
+
+COMPUTING HASH...
+COMPUTING TIME: 7.72239s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.143s
+The 1-th R*-Tree has been built. Elapsed time: 0.108s
+The 2-th R*-Tree has been built. Elapsed time: 0.109s
+The 3-th R*-Tree has been built. Elapsed time: 0.108s
+The 4-th R*-Tree has been built. Elapsed time: 0.109s
+The 5-th R*-Tree has been built. Elapsed time: 0.118s
+The 6-th R*-Tree has been built. Elapsed time: 0.110s
+The 7-th R*-Tree has been built. Elapsed time: 0.113s
+The 8-th R*-Tree has been built. Elapsed time: 0.132s
+The 9-th R*-Tree has been built. Elapsed time: 0.109s
+The 10-th R*-Tree has been built. Elapsed time: 0.111s
+The 11-th R*-Tree has been built. Elapsed time: 0.130s
+The 12-th R*-Tree has been built. Elapsed time: 0.118s
+The 13-th R*-Tree has been built. Elapsed time: 0.119s
+The 14-th R*-Tree has been built. Elapsed time: 0.111s
+BUILDING TIME: 1.74756s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    28.8841ms.
+
+TOTAL QUERY TIME:    2888.41ms.
+
+AVG RECALL:        0.0982
+AVG MAP:        0.0383924
+AVG RATIO:         1.19774
+AVG COST:          0.100492
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.48656s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00157s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.04284s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.153s
+The 1-th R*-Tree has been built. Elapsed time: 0.141s
+The 2-th R*-Tree has been built. Elapsed time: 0.145s
+The 3-th R*-Tree has been built. Elapsed time: 0.171s
+The 4-th R*-Tree has been built. Elapsed time: 0.145s
+BUILDING TIME: 0.755047s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    28.4208ms.
+
+TOTAL QUERY TIME:    2842.08ms.
+
+AVG RECALL:        0.1886
+AVG MAP:        0.115832
+AVG RATIO:         1.21528
+AVG COST:          0.100492
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for celeba-resnet-2048-cosine ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine/
+N=    201599
+dim=  2048
+
+LOADING TIME: 1.44903s.
+
+LOADING BENMARK...
+LOADING TIME: 2.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001826s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.52511s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.202s
+The 1-th R*-Tree has been built. Elapsed time: 0.199s
+The 2-th R*-Tree has been built. Elapsed time: 0.195s
+The 3-th R*-Tree has been built. Elapsed time: 0.209s
+The 4-th R*-Tree has been built. Elapsed time: 0.193s
+BUILDING TIME: 0.998491s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          celeba-resnet-2048-cosine-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    30.1073ms.
+
+TOTAL QUERY TIME:    3010.73ms.
+
+AVG RECALL:        0.1275
+AVG MAP:        0.0461757
+AVG RATIO:         1.14118
+AVG COST:          0.100492
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+

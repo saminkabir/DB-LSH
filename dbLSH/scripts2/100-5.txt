@@ -1,0 +1,949 @@
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 3.86049s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 24.8535s.
+
+SAVING BENMARK...
+SAVING TIME: 0.000335s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000518s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.4217s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.991s
+The 1-th R*-Tree has been built. Elapsed time: 0.922s
+The 2-th R*-Tree has been built. Elapsed time: 0.919s
+The 3-th R*-Tree has been built. Elapsed time: 0.910s
+The 4-th R*-Tree has been built. Elapsed time: 0.935s
+BUILDING TIME: 4.67627s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    64.3457ms.
+
+TOTAL QUERY TIME:    6434.57ms.
+
+AVG RECALL:        0.0832
+AVG MAP:        0.0333995
+AVG RATIO:         1.30029
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 2.06323s.
+
+LOADING BENMARK...
+LOADING TIME: 3.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00051s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.36909s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.908s
+The 1-th R*-Tree has been built. Elapsed time: 0.984s
+The 2-th R*-Tree has been built. Elapsed time: 0.883s
+The 3-th R*-Tree has been built. Elapsed time: 0.837s
+The 4-th R*-Tree has been built. Elapsed time: 0.848s
+BUILDING TIME: 4.46012s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    65.2194ms.
+
+TOTAL QUERY TIME:    6521.94ms.
+
+AVG RECALL:        0.0827
+AVG MAP:        0.032873
+AVG RATIO:         1.30569
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 2.03742s.
+
+LOADING BENMARK...
+LOADING TIME: 3.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000527s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.39643s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.997s
+The 1-th R*-Tree has been built. Elapsed time: 1.042s
+The 2-th R*-Tree has been built. Elapsed time: 0.945s
+The 3-th R*-Tree has been built. Elapsed time: 0.904s
+The 4-th R*-Tree has been built. Elapsed time: 0.876s
+BUILDING TIME: 4.76311s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    66.447ms.
+
+TOTAL QUERY TIME:    6644.7ms.
+
+AVG RECALL:        0.1167
+AVG MAP:        0.0509095
+AVG RATIO:         1.24921
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 1.96538s.
+
+LOADING BENMARK...
+LOADING TIME: 3.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001002s.
+
+COMPUTING HASH...
+COMPUTING TIME: 6.77641s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.913s
+The 1-th R*-Tree has been built. Elapsed time: 0.890s
+The 2-th R*-Tree has been built. Elapsed time: 0.909s
+The 3-th R*-Tree has been built. Elapsed time: 0.943s
+The 4-th R*-Tree has been built. Elapsed time: 0.892s
+The 5-th R*-Tree has been built. Elapsed time: 0.912s
+The 6-th R*-Tree has been built. Elapsed time: 0.894s
+The 7-th R*-Tree has been built. Elapsed time: 0.965s
+The 8-th R*-Tree has been built. Elapsed time: 0.950s
+The 9-th R*-Tree has been built. Elapsed time: 0.955s
+BUILDING TIME: 9.22378s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    66.2503ms.
+
+TOTAL QUERY TIME:    6625.03ms.
+
+AVG RECALL:        0.0832
+AVG MAP:        0.0333995
+AVG RATIO:         1.30029
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 2.08519s.
+
+LOADING BENMARK...
+LOADING TIME: 3.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001482s.
+
+COMPUTING HASH...
+COMPUTING TIME: 10.2658s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.947s
+The 1-th R*-Tree has been built. Elapsed time: 0.911s
+The 2-th R*-Tree has been built. Elapsed time: 0.942s
+The 3-th R*-Tree has been built. Elapsed time: 0.921s
+The 4-th R*-Tree has been built. Elapsed time: 0.940s
+The 5-th R*-Tree has been built. Elapsed time: 0.957s
+The 6-th R*-Tree has been built. Elapsed time: 0.952s
+The 7-th R*-Tree has been built. Elapsed time: 0.919s
+The 8-th R*-Tree has been built. Elapsed time: 0.925s
+The 9-th R*-Tree has been built. Elapsed time: 0.922s
+The 10-th R*-Tree has been built. Elapsed time: 0.942s
+The 11-th R*-Tree has been built. Elapsed time: 0.984s
+The 12-th R*-Tree has been built. Elapsed time: 0.954s
+The 13-th R*-Tree has been built. Elapsed time: 0.913s
+The 14-th R*-Tree has been built. Elapsed time: 0.876s
+BUILDING TIME: 14.0024s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    61.1587ms.
+
+TOTAL QUERY TIME:    6115.87ms.
+
+AVG RECALL:        0.0832
+AVG MAP:        0.0333995
+AVG RATIO:         1.30029
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 2.08149s.
+
+LOADING BENMARK...
+LOADING TIME: 2.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00063s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.86611s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.890s
+The 1-th R*-Tree has been built. Elapsed time: 0.918s
+The 2-th R*-Tree has been built. Elapsed time: 0.894s
+The 3-th R*-Tree has been built. Elapsed time: 0.920s
+The 4-th R*-Tree has been built. Elapsed time: 0.918s
+BUILDING TIME: 4.53891s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    63.6388ms.
+
+TOTAL QUERY TIME:    6363.88ms.
+
+AVG RECALL:        0.0741
+AVG MAP:        0.0275792
+AVG RATIO:         1.29318
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 2.02202s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000717s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.43122s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.786s
+The 1-th R*-Tree has been built. Elapsed time: 0.829s
+The 2-th R*-Tree has been built. Elapsed time: 0.937s
+The 3-th R*-Tree has been built. Elapsed time: 0.990s
+The 4-th R*-Tree has been built. Elapsed time: 0.993s
+BUILDING TIME: 4.53516s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    65.9036ms.
+
+TOTAL QUERY TIME:    6590.36ms.
+
+AVG RECALL:        0.1245
+AVG MAP:        0.0617643
+AVG RATIO:         1.27419
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 2.09999s.
+
+LOADING BENMARK...
+LOADING TIME: 3.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000515s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.3432s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.887s
+The 1-th R*-Tree has been built. Elapsed time: 0.895s
+The 2-th R*-Tree has been built. Elapsed time: 0.922s
+The 3-th R*-Tree has been built. Elapsed time: 0.909s
+The 4-th R*-Tree has been built. Elapsed time: 0.901s
+BUILDING TIME: 4.51239s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    65.9411ms.
+
+TOTAL QUERY TIME:    6594.11ms.
+
+AVG RECALL:        0.0827
+AVG MAP:        0.032873
+AVG RATIO:         1.30595
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 2.04737s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000521s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.32756s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.932s
+The 1-th R*-Tree has been built. Elapsed time: 0.904s
+The 2-th R*-Tree has been built. Elapsed time: 0.841s
+The 3-th R*-Tree has been built. Elapsed time: 0.842s
+The 4-th R*-Tree has been built. Elapsed time: 0.870s
+BUILDING TIME: 4.38986s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    63.0885ms.
+
+TOTAL QUERY TIME:    6308.85ms.
+
+AVG RECALL:        0.0827
+AVG MAP:        0.032873
+AVG RATIO:         1.30595
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 2.0675s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000516s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.35942s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.871s
+The 1-th R*-Tree has been built. Elapsed time: 0.942s
+The 2-th R*-Tree has been built. Elapsed time: 0.934s
+The 3-th R*-Tree has been built. Elapsed time: 0.897s
+The 4-th R*-Tree has been built. Elapsed time: 0.884s
+BUILDING TIME: 4.52868s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    64.1776ms.
+
+TOTAL QUERY TIME:    6417.76ms.
+
+AVG RECALL:        0.0827
+AVG MAP:        0.032873
+AVG RATIO:         1.30595
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 1.8822s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000536s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.12067s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.886s
+The 1-th R*-Tree has been built. Elapsed time: 0.856s
+The 2-th R*-Tree has been built. Elapsed time: 0.882s
+The 3-th R*-Tree has been built. Elapsed time: 0.908s
+The 4-th R*-Tree has been built. Elapsed time: 0.888s
+BUILDING TIME: 4.41997s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    65.9986ms.
+
+TOTAL QUERY TIME:    6599.86ms.
+
+AVG RECALL:        0.0827
+AVG MAP:        0.032873
+AVG RATIO:         1.30595
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 1.98385s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000529s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.33621s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.867s
+The 1-th R*-Tree has been built. Elapsed time: 0.918s
+The 2-th R*-Tree has been built. Elapsed time: 0.929s
+The 3-th R*-Tree has been built. Elapsed time: 0.943s
+The 4-th R*-Tree has been built. Elapsed time: 0.973s
+BUILDING TIME: 4.62936s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    63.2022ms.
+
+TOTAL QUERY TIME:    6320.22ms.
+
+AVG RECALL:        0.0827
+AVG MAP:        0.032873
+AVG RATIO:         1.30595
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 1.96566s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000995s.
+
+COMPUTING HASH...
+COMPUTING TIME: 6.55336s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.754s
+The 1-th R*-Tree has been built. Elapsed time: 0.764s
+The 2-th R*-Tree has been built. Elapsed time: 0.756s
+The 3-th R*-Tree has been built. Elapsed time: 0.777s
+The 4-th R*-Tree has been built. Elapsed time: 0.759s
+The 5-th R*-Tree has been built. Elapsed time: 0.809s
+The 6-th R*-Tree has been built. Elapsed time: 0.736s
+The 7-th R*-Tree has been built. Elapsed time: 0.778s
+The 8-th R*-Tree has been built. Elapsed time: 0.768s
+The 9-th R*-Tree has been built. Elapsed time: 0.780s
+BUILDING TIME: 7.68122s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    56.0024ms.
+
+TOTAL QUERY TIME:    5600.24ms.
+
+AVG RECALL:        0.0827
+AVG MAP:        0.032873
+AVG RATIO:         1.30595
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 1.71744s.
+
+LOADING BENMARK...
+LOADING TIME: 2.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001249s.
+
+COMPUTING HASH...
+COMPUTING TIME: 8.73471s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.687s
+The 1-th R*-Tree has been built. Elapsed time: 0.725s
+The 2-th R*-Tree has been built. Elapsed time: 0.717s
+The 3-th R*-Tree has been built. Elapsed time: 0.740s
+The 4-th R*-Tree has been built. Elapsed time: 0.703s
+The 5-th R*-Tree has been built. Elapsed time: 0.744s
+The 6-th R*-Tree has been built. Elapsed time: 0.709s
+The 7-th R*-Tree has been built. Elapsed time: 0.780s
+The 8-th R*-Tree has been built. Elapsed time: 0.737s
+The 9-th R*-Tree has been built. Elapsed time: 0.769s
+The 10-th R*-Tree has been built. Elapsed time: 0.766s
+The 11-th R*-Tree has been built. Elapsed time: 0.792s
+The 12-th R*-Tree has been built. Elapsed time: 0.731s
+The 13-th R*-Tree has been built. Elapsed time: 0.721s
+The 14-th R*-Tree has been built. Elapsed time: 0.762s
+BUILDING TIME: 11.0827s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    55.3495ms.
+
+TOTAL QUERY TIME:    5534.95ms.
+
+AVG RECALL:        0.0827
+AVG MAP:        0.032873
+AVG RATIO:         1.30595
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 1.7872s.
+
+LOADING BENMARK...
+LOADING TIME: 2.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000523s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.43927s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.726s
+The 1-th R*-Tree has been built. Elapsed time: 0.767s
+The 2-th R*-Tree has been built. Elapsed time: 0.747s
+The 3-th R*-Tree has been built. Elapsed time: 0.770s
+The 4-th R*-Tree has been built. Elapsed time: 0.792s
+BUILDING TIME: 3.80431s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    55.5666ms.
+
+TOTAL QUERY TIME:    5556.66ms.
+
+AVG RECALL:        0.0706
+AVG MAP:        0.0257022
+AVG RATIO:         1.29747
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for landmark-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized/
+N=    760757
+dim=  768
+
+LOADING TIME: 1.7428s.
+
+LOADING BENMARK...
+LOADING TIME: 2.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000605s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.85918s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.741s
+The 1-th R*-Tree has been built. Elapsed time: 0.757s
+The 2-th R*-Tree has been built. Elapsed time: 0.717s
+The 3-th R*-Tree has been built. Elapsed time: 0.717s
+The 4-th R*-Tree has been built. Elapsed time: 0.724s
+BUILDING TIME: 3.65536s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          landmark-nomic-768-normalized-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    55.6467ms.
+
+TOTAL QUERY TIME:    5564.67ms.
+
+AVG RECALL:        0.1226
+AVG MAP:        0.0609551
+AVG RATIO:         1.27884
+AVG COST:          0.100131
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+

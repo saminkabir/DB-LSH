@@ -1,0 +1,924 @@
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 1.82626s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 10.6188s.
+
+SAVING BENMARK...
+SAVING TIME: 0.000263s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00028s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.43262s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.628s
+The 1-th R*-Tree has been built. Elapsed time: 0.641s
+The 2-th R*-Tree has been built. Elapsed time: 0.632s
+The 3-th R*-Tree has been built. Elapsed time: 0.636s
+Open File ./RStar_index_file//4_rstar.rt Failed!
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.853019s.
+
+LOADING BENMARK...
+LOADING TIME: 3.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000281s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.38472s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.637s
+The 1-th R*-Tree has been built. Elapsed time: 0.649s
+The 2-th R*-Tree has been built. Elapsed time: 0.635s
+The 3-th R*-Tree has been built. Elapsed time: 0.651s
+The 4-th R*-Tree has been built. Elapsed time: 0.774s
+BUILDING TIME: 3.34533s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    41.7997ms.
+
+TOTAL QUERY TIME:    4179.97ms.
+
+AVG RECALL:        0.1323
+AVG MAP:        0.0427466
+AVG RATIO:         1.10649
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.919541s.
+
+LOADING BENMARK...
+LOADING TIME: 4.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000278s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.39757s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.782s
+The 1-th R*-Tree has been built. Elapsed time: 0.818s
+The 2-th R*-Tree has been built. Elapsed time: 0.800s
+The 3-th R*-Tree has been built. Elapsed time: 0.783s
+The 4-th R*-Tree has been built. Elapsed time: 0.795s
+BUILDING TIME: 3.97723s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    51.9043ms.
+
+TOTAL QUERY TIME:    5190.43ms.
+
+AVG RECALL:        0.5227
+AVG MAP:        0.354582
+AVG RATIO:         1.02873
+AVG COST:          0.100147
+AVG ROUNDS:        1.03
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.892881s.
+
+LOADING BENMARK...
+LOADING TIME: 3.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000521s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.81349s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.718s
+The 1-th R*-Tree has been built. Elapsed time: 0.736s
+The 2-th R*-Tree has been built. Elapsed time: 0.740s
+The 3-th R*-Tree has been built. Elapsed time: 0.724s
+The 4-th R*-Tree has been built. Elapsed time: 0.735s
+The 5-th R*-Tree has been built. Elapsed time: 0.721s
+The 6-th R*-Tree has been built. Elapsed time: 0.740s
+The 7-th R*-Tree has been built. Elapsed time: 0.734s
+The 8-th R*-Tree has been built. Elapsed time: 0.679s
+The 9-th R*-Tree has been built. Elapsed time: 0.626s
+BUILDING TIME: 7.15384s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    33.3687ms.
+
+TOTAL QUERY TIME:    3336.87ms.
+
+AVG RECALL:        0.2824
+AVG MAP:        0.135929
+AVG RATIO:         1.06646
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.840149s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000772s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.16008s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.609s
+The 1-th R*-Tree has been built. Elapsed time: 0.623s
+The 2-th R*-Tree has been built. Elapsed time: 0.631s
+The 3-th R*-Tree has been built. Elapsed time: 0.624s
+The 4-th R*-Tree has been built. Elapsed time: 0.627s
+The 5-th R*-Tree has been built. Elapsed time: 0.630s
+The 6-th R*-Tree has been built. Elapsed time: 0.629s
+The 7-th R*-Tree has been built. Elapsed time: 0.621s
+The 8-th R*-Tree has been built. Elapsed time: 0.630s
+The 9-th R*-Tree has been built. Elapsed time: 0.640s
+The 10-th R*-Tree has been built. Elapsed time: 0.694s
+The 11-th R*-Tree has been built. Elapsed time: 0.707s
+The 12-th R*-Tree has been built. Elapsed time: 0.776s
+The 13-th R*-Tree has been built. Elapsed time: 0.689s
+The 14-th R*-Tree has been built. Elapsed time: 0.649s
+BUILDING TIME: 9.77884s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    34.3682ms.
+
+TOTAL QUERY TIME:    3436.82ms.
+
+AVG RECALL:        0.2824
+AVG MAP:        0.135929
+AVG RATIO:         1.06646
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.859678s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000327s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.62034s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.701s
+The 1-th R*-Tree has been built. Elapsed time: 0.701s
+The 2-th R*-Tree has been built. Elapsed time: 0.691s
+The 3-th R*-Tree has been built. Elapsed time: 0.752s
+The 4-th R*-Tree has been built. Elapsed time: 0.759s
+BUILDING TIME: 3.60408s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    43.9418ms.
+
+TOTAL QUERY TIME:    4394.18ms.
+
+AVG RECALL:        0.3255
+AVG MAP:        0.174143
+AVG RATIO:         1.06033
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.89996s.
+
+LOADING BENMARK...
+LOADING TIME: 3.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000403s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.88118s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.629s
+The 1-th R*-Tree has been built. Elapsed time: 0.644s
+The 2-th R*-Tree has been built. Elapsed time: 0.634s
+The 3-th R*-Tree has been built. Elapsed time: 0.635s
+The 4-th R*-Tree has been built. Elapsed time: 0.638s
+BUILDING TIME: 3.18026s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    37.4314ms.
+
+TOTAL QUERY TIME:    3743.14ms.
+
+AVG RECALL:        0.4085
+AVG MAP:        0.2535
+AVG RATIO:         1.04536
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.869505s.
+
+LOADING BENMARK...
+LOADING TIME: 3.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000294s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.37213s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.627s
+The 1-th R*-Tree has been built. Elapsed time: 0.622s
+The 2-th R*-Tree has been built. Elapsed time: 0.649s
+The 3-th R*-Tree has been built. Elapsed time: 0.635s
+The 4-th R*-Tree has been built. Elapsed time: 0.631s
+BUILDING TIME: 3.16358s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    29.8784ms.
+
+TOTAL QUERY TIME:    2987.84ms.
+
+AVG RECALL:        0.1011
+AVG MAP:        0.0328121
+AVG RATIO:         1.12365
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.864625s.
+
+LOADING BENMARK...
+LOADING TIME: 3.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000277s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.37016s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.627s
+The 1-th R*-Tree has been built. Elapsed time: 0.622s
+The 2-th R*-Tree has been built. Elapsed time: 0.635s
+The 3-th R*-Tree has been built. Elapsed time: 0.625s
+The 4-th R*-Tree has been built. Elapsed time: 0.619s
+BUILDING TIME: 3.12868s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    29.6677ms.
+
+TOTAL QUERY TIME:    2966.77ms.
+
+AVG RECALL:        0.1011
+AVG MAP:        0.0328121
+AVG RATIO:         1.12365
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.864142s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000274s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.38099s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.629s
+The 1-th R*-Tree has been built. Elapsed time: 0.620s
+The 2-th R*-Tree has been built. Elapsed time: 0.636s
+The 3-th R*-Tree has been built. Elapsed time: 0.624s
+The 4-th R*-Tree has been built. Elapsed time: 0.618s
+BUILDING TIME: 3.12826s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    30.1661ms.
+
+TOTAL QUERY TIME:    3016.61ms.
+
+AVG RECALL:        0.1011
+AVG MAP:        0.0328121
+AVG RATIO:         1.12365
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.86653s.
+
+LOADING BENMARK...
+LOADING TIME: 3.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000278s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.3716s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.637s
+The 1-th R*-Tree has been built. Elapsed time: 0.622s
+The 2-th R*-Tree has been built. Elapsed time: 0.639s
+The 3-th R*-Tree has been built. Elapsed time: 0.614s
+The 4-th R*-Tree has been built. Elapsed time: 0.635s
+BUILDING TIME: 3.14714s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    29.9133ms.
+
+TOTAL QUERY TIME:    2991.33ms.
+
+AVG RECALL:        0.1011
+AVG MAP:        0.0328121
+AVG RATIO:         1.12365
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.850783s.
+
+LOADING BENMARK...
+LOADING TIME: 2.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000277s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.37644s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.618s
+The 1-th R*-Tree has been built. Elapsed time: 0.639s
+The 2-th R*-Tree has been built. Elapsed time: 0.629s
+The 3-th R*-Tree has been built. Elapsed time: 0.613s
+The 4-th R*-Tree has been built. Elapsed time: 0.641s
+BUILDING TIME: 3.14006s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    30.4746ms.
+
+TOTAL QUERY TIME:    3047.46ms.
+
+AVG RECALL:        0.1011
+AVG MAP:        0.0328121
+AVG RATIO:         1.12365
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.887119s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000529s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.7932s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.756s
+The 1-th R*-Tree has been built. Elapsed time: 0.692s
+The 2-th R*-Tree has been built. Elapsed time: 0.649s
+The 3-th R*-Tree has been built. Elapsed time: 0.647s
+The 4-th R*-Tree has been built. Elapsed time: 0.655s
+The 5-th R*-Tree has been built. Elapsed time: 0.637s
+The 6-th R*-Tree has been built. Elapsed time: 0.652s
+The 7-th R*-Tree has been built. Elapsed time: 0.658s
+The 8-th R*-Tree has been built. Elapsed time: 0.660s
+The 9-th R*-Tree has been built. Elapsed time: 0.670s
+BUILDING TIME: 6.67721s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    31.2081ms.
+
+TOTAL QUERY TIME:    3120.81ms.
+
+AVG RECALL:        0.1011
+AVG MAP:        0.0328121
+AVG RATIO:         1.12365
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.904224s.
+
+LOADING BENMARK...
+LOADING TIME: 3.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000772s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.16265s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.681s
+The 1-th R*-Tree has been built. Elapsed time: 0.689s
+The 2-th R*-Tree has been built. Elapsed time: 0.710s
+The 3-th R*-Tree has been built. Elapsed time: 0.695s
+The 4-th R*-Tree has been built. Elapsed time: 0.690s
+The 5-th R*-Tree has been built. Elapsed time: 0.722s
+The 6-th R*-Tree has been built. Elapsed time: 0.684s
+The 7-th R*-Tree has been built. Elapsed time: 0.719s
+The 8-th R*-Tree has been built. Elapsed time: 0.724s
+The 9-th R*-Tree has been built. Elapsed time: 0.720s
+The 10-th R*-Tree has been built. Elapsed time: 0.739s
+The 11-th R*-Tree has been built. Elapsed time: 0.747s
+The 12-th R*-Tree has been built. Elapsed time: 0.763s
+The 13-th R*-Tree has been built. Elapsed time: 0.757s
+The 14-th R*-Tree has been built. Elapsed time: 0.705s
+BUILDING TIME: 10.7462s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    35.6662ms.
+
+TOTAL QUERY TIME:    3566.62ms.
+
+AVG RECALL:        0.1011
+AVG MAP:        0.0328121
+AVG RATIO:         1.12365
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.877705s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000328s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.65263s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.733s
+The 1-th R*-Tree has been built. Elapsed time: 0.724s
+The 2-th R*-Tree has been built. Elapsed time: 0.720s
+The 3-th R*-Tree has been built. Elapsed time: 0.735s
+The 4-th R*-Tree has been built. Elapsed time: 0.731s
+BUILDING TIME: 3.64253s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    33.4303ms.
+
+TOTAL QUERY TIME:    3343.03ms.
+
+AVG RECALL:        0.0824
+AVG MAP:        0.0184952
+AVG RATIO:         1.13499
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for yahoo-minilm-384-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized/
+N=    677305
+dim=  384
+
+LOADING TIME: 0.842348s.
+
+LOADING BENMARK...
+LOADING TIME: 2.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000378s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.87365s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.636s
+The 1-th R*-Tree has been built. Elapsed time: 0.644s
+The 2-th R*-Tree has been built. Elapsed time: 0.629s
+The 3-th R*-Tree has been built. Elapsed time: 0.639s
+The 4-th R*-Tree has been built. Elapsed time: 0.644s
+BUILDING TIME: 3.19311s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          yahoo-minilm-384-normalized-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    30.5185ms.
+
+TOTAL QUERY TIME:    3051.85ms.
+
+AVG RECALL:        0.0926
+AVG MAP:        0.0211722
+AVG RATIO:         1.11795
+AVG COST:          0.100147
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+

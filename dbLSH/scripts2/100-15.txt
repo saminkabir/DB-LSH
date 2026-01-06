@@ -1,0 +1,949 @@
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 2.58469s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 12.9686s.
+
+SAVING BENMARK...
+SAVING TIME: 0.000348s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000528s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.33293s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.648s
+The 1-th R*-Tree has been built. Elapsed time: 0.638s
+The 2-th R*-Tree has been built. Elapsed time: 0.648s
+The 3-th R*-Tree has been built. Elapsed time: 0.699s
+The 4-th R*-Tree has been built. Elapsed time: 0.659s
+BUILDING TIME: 3.29291s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    57.0554ms.
+
+TOTAL QUERY TIME:    5705.54ms.
+
+AVG RECALL:        0.1215
+AVG MAP:        0.0611776
+AVG RATIO:         1.19629
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.61168s.
+
+LOADING BENMARK...
+LOADING TIME: 5.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000683s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.39417s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.670s
+The 1-th R*-Tree has been built. Elapsed time: 0.671s
+The 2-th R*-Tree has been built. Elapsed time: 0.663s
+The 3-th R*-Tree has been built. Elapsed time: 0.683s
+The 4-th R*-Tree has been built. Elapsed time: 0.743s
+BUILDING TIME: 3.4301s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    49.2772ms.
+
+TOTAL QUERY TIME:    4927.72ms.
+
+AVG RECALL:        0.1018
+AVG MAP:        0.0436675
+AVG RATIO:         1.21986
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.31143s.
+
+LOADING BENMARK...
+LOADING TIME: 4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000517s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.23041s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.565s
+The 1-th R*-Tree has been built. Elapsed time: 0.543s
+The 2-th R*-Tree has been built. Elapsed time: 0.671s
+The 3-th R*-Tree has been built. Elapsed time: 0.564s
+The 4-th R*-Tree has been built. Elapsed time: 0.439s
+BUILDING TIME: 2.78167s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    49.3831ms.
+
+TOTAL QUERY TIME:    4938.31ms.
+
+AVG RECALL:        0.2698
+AVG MAP:        0.146395
+AVG RATIO:         1.10441
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.41543s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.45048s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.546s
+The 1-th R*-Tree has been built. Elapsed time: 0.602s
+The 2-th R*-Tree has been built. Elapsed time: 0.565s
+The 3-th R*-Tree has been built. Elapsed time: 0.539s
+The 4-th R*-Tree has been built. Elapsed time: 0.530s
+The 5-th R*-Tree has been built. Elapsed time: 0.552s
+The 6-th R*-Tree has been built. Elapsed time: 0.532s
+The 7-th R*-Tree has been built. Elapsed time: 0.553s
+The 8-th R*-Tree has been built. Elapsed time: 0.545s
+The 9-th R*-Tree has been built. Elapsed time: 0.576s
+BUILDING TIME: 5.54209s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    42.4924ms.
+
+TOTAL QUERY TIME:    4249.24ms.
+
+AVG RECALL:        0.1215
+AVG MAP:        0.0611776
+AVG RATIO:         1.19629
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.38282s.
+
+LOADING BENMARK...
+LOADING TIME: 3.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001485s.
+
+COMPUTING HASH...
+COMPUTING TIME: 6.76564s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.573s
+The 1-th R*-Tree has been built. Elapsed time: 0.582s
+The 2-th R*-Tree has been built. Elapsed time: 0.499s
+The 3-th R*-Tree has been built. Elapsed time: 0.534s
+The 4-th R*-Tree has been built. Elapsed time: 0.490s
+The 5-th R*-Tree has been built. Elapsed time: 0.529s
+The 6-th R*-Tree has been built. Elapsed time: 0.502s
+The 7-th R*-Tree has been built. Elapsed time: 0.554s
+The 8-th R*-Tree has been built. Elapsed time: 0.520s
+The 9-th R*-Tree has been built. Elapsed time: 0.558s
+The 10-th R*-Tree has been built. Elapsed time: 0.564s
+The 11-th R*-Tree has been built. Elapsed time: 0.583s
+The 12-th R*-Tree has been built. Elapsed time: 0.531s
+The 13-th R*-Tree has been built. Elapsed time: 0.584s
+The 14-th R*-Tree has been built. Elapsed time: 0.559s
+BUILDING TIME: 8.15985s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    44.6991ms.
+
+TOTAL QUERY TIME:    4469.91ms.
+
+AVG RECALL:        0.1215
+AVG MAP:        0.0611776
+AVG RATIO:         1.19629
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.31614s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000616s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.54459s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.612s
+The 1-th R*-Tree has been built. Elapsed time: 0.594s
+The 2-th R*-Tree has been built. Elapsed time: 0.610s
+The 3-th R*-Tree has been built. Elapsed time: 0.574s
+The 4-th R*-Tree has been built. Elapsed time: 0.611s
+BUILDING TIME: 3.00168s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    44.5373ms.
+
+TOTAL QUERY TIME:    4453.73ms.
+
+AVG RECALL:        0.1429
+AVG MAP:        0.0567519
+AVG RATIO:         1.14248
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.36514s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000711s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.96172s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.549s
+The 1-th R*-Tree has been built. Elapsed time: 0.608s
+The 2-th R*-Tree has been built. Elapsed time: 0.550s
+The 3-th R*-Tree has been built. Elapsed time: 0.499s
+The 4-th R*-Tree has been built. Elapsed time: 0.505s
+BUILDING TIME: 2.71108s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    43.7564ms.
+
+TOTAL QUERY TIME:    4375.64ms.
+
+AVG RECALL:        0.1508
+AVG MAP:        0.054082
+AVG RATIO:         1.13546
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.3291s.
+
+LOADING BENMARK...
+LOADING TIME: 3.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000525s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.17725s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.533s
+The 1-th R*-Tree has been built. Elapsed time: 0.510s
+The 2-th R*-Tree has been built. Elapsed time: 0.526s
+The 3-th R*-Tree has been built. Elapsed time: 0.551s
+The 4-th R*-Tree has been built. Elapsed time: 0.553s
+BUILDING TIME: 2.67252s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    42.4495ms.
+
+TOTAL QUERY TIME:    4244.95ms.
+
+AVG RECALL:        0.0994
+AVG MAP:        0.0411429
+AVG RATIO:         1.22253
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.308s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000524s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.20701s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.561s
+The 1-th R*-Tree has been built. Elapsed time: 0.565s
+The 2-th R*-Tree has been built. Elapsed time: 0.553s
+The 3-th R*-Tree has been built. Elapsed time: 0.565s
+The 4-th R*-Tree has been built. Elapsed time: 0.595s
+BUILDING TIME: 2.83898s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    43.0284ms.
+
+TOTAL QUERY TIME:    4302.84ms.
+
+AVG RECALL:        0.0994
+AVG MAP:        0.0411429
+AVG RATIO:         1.22253
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.33364s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000531s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.18732s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.548s
+The 1-th R*-Tree has been built. Elapsed time: 0.598s
+The 2-th R*-Tree has been built. Elapsed time: 0.487s
+The 3-th R*-Tree has been built. Elapsed time: 0.497s
+The 4-th R*-Tree has been built. Elapsed time: 0.468s
+BUILDING TIME: 2.59857s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    38.1146ms.
+
+TOTAL QUERY TIME:    3811.46ms.
+
+AVG RECALL:        0.0994
+AVG MAP:        0.0411429
+AVG RATIO:         1.22253
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.35467s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000515s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.18078s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.563s
+The 1-th R*-Tree has been built. Elapsed time: 0.541s
+The 2-th R*-Tree has been built. Elapsed time: 0.519s
+The 3-th R*-Tree has been built. Elapsed time: 0.515s
+The 4-th R*-Tree has been built. Elapsed time: 0.550s
+BUILDING TIME: 2.6887s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    39.9515ms.
+
+TOTAL QUERY TIME:    3995.15ms.
+
+AVG RECALL:        0.0994
+AVG MAP:        0.0411429
+AVG RATIO:         1.22253
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.30735s.
+
+LOADING BENMARK...
+LOADING TIME: 3.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000515s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.17885s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.540s
+The 1-th R*-Tree has been built. Elapsed time: 0.522s
+The 2-th R*-Tree has been built. Elapsed time: 0.529s
+The 3-th R*-Tree has been built. Elapsed time: 0.546s
+The 4-th R*-Tree has been built. Elapsed time: 0.505s
+BUILDING TIME: 2.64199s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    39.4797ms.
+
+TOTAL QUERY TIME:    3947.97ms.
+
+AVG RECALL:        0.0994
+AVG MAP:        0.0411429
+AVG RATIO:         1.22253
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.32439s.
+
+LOADING BENMARK...
+LOADING TIME: 3.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001007s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.41822s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.567s
+The 1-th R*-Tree has been built. Elapsed time: 0.615s
+The 2-th R*-Tree has been built. Elapsed time: 0.512s
+The 3-th R*-Tree has been built. Elapsed time: 0.525s
+The 4-th R*-Tree has been built. Elapsed time: 0.504s
+The 5-th R*-Tree has been built. Elapsed time: 0.516s
+The 6-th R*-Tree has been built. Elapsed time: 0.507s
+The 7-th R*-Tree has been built. Elapsed time: 0.528s
+The 8-th R*-Tree has been built. Elapsed time: 0.535s
+The 9-th R*-Tree has been built. Elapsed time: 0.521s
+BUILDING TIME: 5.33109s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    44.2411ms.
+
+TOTAL QUERY TIME:    4424.11ms.
+
+AVG RECALL:        0.0994
+AVG MAP:        0.0411429
+AVG RATIO:         1.22253
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.27651s.
+
+LOADING BENMARK...
+LOADING TIME: 3.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001478s.
+
+COMPUTING HASH...
+COMPUTING TIME: 6.55554s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.544s
+The 1-th R*-Tree has been built. Elapsed time: 0.536s
+The 2-th R*-Tree has been built. Elapsed time: 0.551s
+The 3-th R*-Tree has been built. Elapsed time: 0.556s
+The 4-th R*-Tree has been built. Elapsed time: 0.558s
+The 5-th R*-Tree has been built. Elapsed time: 0.529s
+The 6-th R*-Tree has been built. Elapsed time: 0.564s
+The 7-th R*-Tree has been built. Elapsed time: 0.542s
+The 8-th R*-Tree has been built. Elapsed time: 0.548s
+The 9-th R*-Tree has been built. Elapsed time: 0.535s
+The 10-th R*-Tree has been built. Elapsed time: 0.531s
+The 11-th R*-Tree has been built. Elapsed time: 0.602s
+The 12-th R*-Tree has been built. Elapsed time: 0.601s
+The 13-th R*-Tree has been built. Elapsed time: 0.500s
+The 14-th R*-Tree has been built. Elapsed time: 0.522s
+BUILDING TIME: 8.21869s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    38.9586ms.
+
+TOTAL QUERY TIME:    3895.86ms.
+
+AVG RECALL:        0.0994
+AVG MAP:        0.0411429
+AVG RATIO:         1.22253
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.39265s.
+
+LOADING BENMARK...
+LOADING TIME: 3.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000633s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.53156s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.531s
+The 1-th R*-Tree has been built. Elapsed time: 0.520s
+The 2-th R*-Tree has been built. Elapsed time: 0.537s
+The 3-th R*-Tree has been built. Elapsed time: 0.537s
+The 4-th R*-Tree has been built. Elapsed time: 0.551s
+BUILDING TIME: 2.67562s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    41.9571ms.
+
+TOTAL QUERY TIME:    4195.71ms.
+
+AVG RECALL:        0.1049
+AVG MAP:        0.0382491
+AVG RATIO:         1.16172
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for ccnews-nomic-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized/
+N=    495328
+dim=  768
+
+LOADING TIME: 1.4s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00072s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.89915s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.560s
+The 1-th R*-Tree has been built. Elapsed time: 0.522s
+The 2-th R*-Tree has been built. Elapsed time: 0.533s
+The 3-th R*-Tree has been built. Elapsed time: 0.509s
+The 4-th R*-Tree has been built. Elapsed time: 0.542s
+BUILDING TIME: 2.66642s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          ccnews-nomic-768-normalized-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    39.1162ms.
+
+TOTAL QUERY TIME:    3911.62ms.
+
+AVG RECALL:        0.1059
+AVG MAP:        0.0334337
+AVG RATIO:         1.16199
+AVG COST:          0.1002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+

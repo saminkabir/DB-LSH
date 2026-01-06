@@ -1,0 +1,949 @@
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 4.35027s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 18.1172s.
+
+SAVING BENMARK...
+SAVING TIME: 0.00023s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001946s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.97992s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.136s
+The 1-th R*-Tree has been built. Elapsed time: 0.152s
+The 2-th R*-Tree has been built. Elapsed time: 0.136s
+The 3-th R*-Tree has been built. Elapsed time: 0.137s
+The 4-th R*-Tree has been built. Elapsed time: 0.146s
+BUILDING TIME: 0.707322s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    44.9396ms.
+
+TOTAL QUERY TIME:    4493.96ms.
+
+AVG RECALL:        0.2191
+AVG MAP:        0.0942384
+AVG RATIO:         1.07204
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.3569s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001965s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.03074s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.134s
+The 1-th R*-Tree has been built. Elapsed time: 0.135s
+The 2-th R*-Tree has been built. Elapsed time: 0.142s
+The 3-th R*-Tree has been built. Elapsed time: 0.135s
+The 4-th R*-Tree has been built. Elapsed time: 0.151s
+BUILDING TIME: 0.698068s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    43.9127ms.
+
+TOTAL QUERY TIME:    4391.27ms.
+
+AVG RECALL:        0.1299
+AVG MAP:        0.044032
+AVG RATIO:         1.1006
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.4418s.
+
+LOADING BENMARK...
+LOADING TIME: 3.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001944s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.03808s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.138s
+The 1-th R*-Tree has been built. Elapsed time: 0.155s
+The 2-th R*-Tree has been built. Elapsed time: 0.137s
+The 3-th R*-Tree has been built. Elapsed time: 0.142s
+The 4-th R*-Tree has been built. Elapsed time: 0.136s
+BUILDING TIME: 0.708015s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    50.3869ms.
+
+TOTAL QUERY TIME:    5038.69ms.
+
+AVG RECALL:        0.4068
+AVG MAP:        0.244054
+AVG RATIO:         1.03632
+AVG COST:          0.100383
+AVG ROUNDS:        1.02
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.36352s.
+
+LOADING BENMARK...
+LOADING TIME: 3.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.003871s.
+
+COMPUTING HASH...
+COMPUTING TIME: 10.0578s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.153s
+The 1-th R*-Tree has been built. Elapsed time: 0.139s
+The 2-th R*-Tree has been built. Elapsed time: 0.139s
+The 3-th R*-Tree has been built. Elapsed time: 0.147s
+The 4-th R*-Tree has been built. Elapsed time: 0.140s
+The 5-th R*-Tree has been built. Elapsed time: 0.139s
+The 6-th R*-Tree has been built. Elapsed time: 0.156s
+The 7-th R*-Tree has been built. Elapsed time: 0.138s
+The 8-th R*-Tree has been built. Elapsed time: 0.157s
+The 9-th R*-Tree has been built. Elapsed time: 0.140s
+BUILDING TIME: 1.44802s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    45.3008ms.
+
+TOTAL QUERY TIME:    4530.08ms.
+
+AVG RECALL:        0.2191
+AVG MAP:        0.0942384
+AVG RATIO:         1.07204
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.2848s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.0058s.
+
+COMPUTING HASH...
+COMPUTING TIME: 15.0552s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.134s
+The 1-th R*-Tree has been built. Elapsed time: 0.139s
+The 2-th R*-Tree has been built. Elapsed time: 0.143s
+The 3-th R*-Tree has been built. Elapsed time: 0.156s
+The 4-th R*-Tree has been built. Elapsed time: 0.135s
+The 5-th R*-Tree has been built. Elapsed time: 0.137s
+The 6-th R*-Tree has been built. Elapsed time: 0.135s
+The 7-th R*-Tree has been built. Elapsed time: 0.149s
+The 8-th R*-Tree has been built. Elapsed time: 0.148s
+The 9-th R*-Tree has been built. Elapsed time: 0.148s
+The 10-th R*-Tree has been built. Elapsed time: 0.140s
+The 11-th R*-Tree has been built. Elapsed time: 0.163s
+The 12-th R*-Tree has been built. Elapsed time: 0.138s
+The 13-th R*-Tree has been built. Elapsed time: 0.138s
+The 14-th R*-Tree has been built. Elapsed time: 0.138s
+BUILDING TIME: 2.14074s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    45.5925ms.
+
+TOTAL QUERY TIME:    4559.25ms.
+
+AVG RECALL:        0.2191
+AVG MAP:        0.0942384
+AVG RATIO:         1.07204
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.30217s.
+
+LOADING BENMARK...
+LOADING TIME: 2.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.002347s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.92393s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.160s
+The 1-th R*-Tree has been built. Elapsed time: 0.148s
+The 2-th R*-Tree has been built. Elapsed time: 0.160s
+The 3-th R*-Tree has been built. Elapsed time: 0.148s
+The 4-th R*-Tree has been built. Elapsed time: 0.165s
+BUILDING TIME: 0.781007s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    45.8305ms.
+
+TOTAL QUERY TIME:    4583.05ms.
+
+AVG RECALL:        0.2492
+AVG MAP:        0.104341
+AVG RATIO:         1.06574
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.42354s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00275s.
+
+COMPUTING HASH...
+COMPUTING TIME: 6.89149s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.213s
+The 1-th R*-Tree has been built. Elapsed time: 0.201s
+The 2-th R*-Tree has been built. Elapsed time: 0.218s
+The 3-th R*-Tree has been built. Elapsed time: 0.198s
+The 4-th R*-Tree has been built. Elapsed time: 0.210s
+BUILDING TIME: 1.03907s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    46.9522ms.
+
+TOTAL QUERY TIME:    4695.22ms.
+
+AVG RECALL:        0.3111
+AVG MAP:        0.151978
+AVG RATIO:         1.05156
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.3447s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001943s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.04233s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.136s
+The 1-th R*-Tree has been built. Elapsed time: 0.148s
+The 2-th R*-Tree has been built. Elapsed time: 0.137s
+The 3-th R*-Tree has been built. Elapsed time: 0.144s
+The 4-th R*-Tree has been built. Elapsed time: 0.150s
+BUILDING TIME: 0.713636s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    43.8188ms.
+
+TOTAL QUERY TIME:    4381.88ms.
+
+AVG RECALL:        0.1043
+AVG MAP:        0.0334656
+AVG RATIO:         1.11026
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.31921s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001934s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.04244s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.140s
+The 1-th R*-Tree has been built. Elapsed time: 0.163s
+The 2-th R*-Tree has been built. Elapsed time: 0.141s
+The 3-th R*-Tree has been built. Elapsed time: 0.145s
+The 4-th R*-Tree has been built. Elapsed time: 0.154s
+BUILDING TIME: 0.742335s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    43.4185ms.
+
+TOTAL QUERY TIME:    4341.85ms.
+
+AVG RECALL:        0.1043
+AVG MAP:        0.0334656
+AVG RATIO:         1.11026
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.35663s.
+
+LOADING BENMARK...
+LOADING TIME: 2.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001955s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.03019s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.137s
+The 1-th R*-Tree has been built. Elapsed time: 0.145s
+The 2-th R*-Tree has been built. Elapsed time: 0.137s
+The 3-th R*-Tree has been built. Elapsed time: 0.144s
+The 4-th R*-Tree has been built. Elapsed time: 0.153s
+BUILDING TIME: 0.717273s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    43.0109ms.
+
+TOTAL QUERY TIME:    4301.09ms.
+
+AVG RECALL:        0.1043
+AVG MAP:        0.0334656
+AVG RATIO:         1.11026
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.31927s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001953s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.99116s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.137s
+The 1-th R*-Tree has been built. Elapsed time: 0.153s
+The 2-th R*-Tree has been built. Elapsed time: 0.150s
+The 3-th R*-Tree has been built. Elapsed time: 0.145s
+The 4-th R*-Tree has been built. Elapsed time: 0.139s
+BUILDING TIME: 0.723393s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    42.6173ms.
+
+TOTAL QUERY TIME:    4261.73ms.
+
+AVG RECALL:        0.1043
+AVG MAP:        0.0334656
+AVG RATIO:         1.11026
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.29251s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001958s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.98071s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.154s
+The 1-th R*-Tree has been built. Elapsed time: 0.139s
+The 2-th R*-Tree has been built. Elapsed time: 0.135s
+The 3-th R*-Tree has been built. Elapsed time: 0.153s
+The 4-th R*-Tree has been built. Elapsed time: 0.150s
+BUILDING TIME: 0.731665s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    42.8187ms.
+
+TOTAL QUERY TIME:    4281.87ms.
+
+AVG RECALL:        0.1043
+AVG MAP:        0.0334656
+AVG RATIO:         1.11026
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.22606s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.003868s.
+
+COMPUTING HASH...
+COMPUTING TIME: 9.95779s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.133s
+The 1-th R*-Tree has been built. Elapsed time: 0.151s
+The 2-th R*-Tree has been built. Elapsed time: 0.150s
+The 3-th R*-Tree has been built. Elapsed time: 0.139s
+The 4-th R*-Tree has been built. Elapsed time: 0.138s
+The 5-th R*-Tree has been built. Elapsed time: 0.144s
+The 6-th R*-Tree has been built. Elapsed time: 0.134s
+The 7-th R*-Tree has been built. Elapsed time: 0.144s
+The 8-th R*-Tree has been built. Elapsed time: 0.148s
+The 9-th R*-Tree has been built. Elapsed time: 0.141s
+BUILDING TIME: 1.42262s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    42.514ms.
+
+TOTAL QUERY TIME:    4251.4ms.
+
+AVG RECALL:        0.1043
+AVG MAP:        0.0334656
+AVG RATIO:         1.11026
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.18766s.
+
+LOADING BENMARK...
+LOADING TIME: 6.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.005056s.
+
+COMPUTING HASH...
+COMPUTING TIME: 12.7044s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.118s
+The 1-th R*-Tree has been built. Elapsed time: 0.117s
+The 2-th R*-Tree has been built. Elapsed time: 0.127s
+The 3-th R*-Tree has been built. Elapsed time: 0.119s
+The 4-th R*-Tree has been built. Elapsed time: 0.117s
+The 5-th R*-Tree has been built. Elapsed time: 0.124s
+The 6-th R*-Tree has been built. Elapsed time: 0.116s
+The 7-th R*-Tree has been built. Elapsed time: 0.123s
+The 8-th R*-Tree has been built. Elapsed time: 0.120s
+The 9-th R*-Tree has been built. Elapsed time: 0.134s
+The 10-th R*-Tree has been built. Elapsed time: 0.119s
+The 11-th R*-Tree has been built. Elapsed time: 0.117s
+The 12-th R*-Tree has been built. Elapsed time: 0.129s
+The 13-th R*-Tree has been built. Elapsed time: 0.119s
+The 14-th R*-Tree has been built. Elapsed time: 0.127s
+BUILDING TIME: 1.8269s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    37.6828ms.
+
+TOTAL QUERY TIME:    3768.28ms.
+
+AVG RECALL:        0.1043
+AVG MAP:        0.0334656
+AVG RATIO:         1.11026
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.24862s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.002368s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.89339s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.145s
+The 1-th R*-Tree has been built. Elapsed time: 0.146s
+The 2-th R*-Tree has been built. Elapsed time: 0.155s
+The 3-th R*-Tree has been built. Elapsed time: 0.152s
+The 4-th R*-Tree has been built. Elapsed time: 0.140s
+BUILDING TIME: 0.738893s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    42.3043ms.
+
+TOTAL QUERY TIME:    4230.43ms.
+
+AVG RECALL:        0.0786
+AVG MAP:        0.013815
+AVG RATIO:         1.11329
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for simplewiki-openai-3072-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/simplewiki-openai-3072-normalized/
+N=    260372
+dim=  3072
+
+LOADING TIME: 2.28801s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.002726s.
+
+COMPUTING HASH...
+COMPUTING TIME: 6.80539s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.183s
+The 1-th R*-Tree has been built. Elapsed time: 0.188s
+The 2-th R*-Tree has been built. Elapsed time: 0.192s
+The 3-th R*-Tree has been built. Elapsed time: 0.204s
+The 4-th R*-Tree has been built. Elapsed time: 0.190s
+BUILDING TIME: 0.95674s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          simplewiki-openai-3072-normalized-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    39.7871ms.
+
+TOTAL QUERY TIME:    3978.71ms.
+
+AVG RECALL:        0.123
+AVG MAP:        0.0284907
+AVG RATIO:         1.09353
+AVG COST:          0.100383
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+

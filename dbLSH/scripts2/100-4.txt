@@ -1,0 +1,949 @@
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 4.10594s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 25.189s.
+
+SAVING BENMARK...
+SAVING TIME: 0.00031s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000532s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.25008s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.962s
+The 1-th R*-Tree has been built. Elapsed time: 0.950s
+The 2-th R*-Tree has been built. Elapsed time: 0.972s
+The 3-th R*-Tree has been built. Elapsed time: 0.957s
+The 4-th R*-Tree has been built. Elapsed time: 0.963s
+BUILDING TIME: 4.80384s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    77.9562ms.
+
+TOTAL QUERY TIME:    7795.62ms.
+
+AVG RECALL:        0.3649
+AVG MAP:        0.215889
+AVG RATIO:         1.08771
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.5361s.
+
+LOADING BENMARK...
+LOADING TIME: 3.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000518s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.29667s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.116s
+The 1-th R*-Tree has been built. Elapsed time: 1.103s
+The 2-th R*-Tree has been built. Elapsed time: 1.038s
+The 3-th R*-Tree has been built. Elapsed time: 1.098s
+The 4-th R*-Tree has been built. Elapsed time: 1.076s
+BUILDING TIME: 5.43192s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    80.3855ms.
+
+TOTAL QUERY TIME:    8038.55ms.
+
+AVG RECALL:        0.173
+AVG MAP:        0.072598
+AVG RATIO:         1.15187
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.41371s.
+
+LOADING BENMARK...
+LOADING TIME: 4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000514s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.31316s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.976s
+The 1-th R*-Tree has been built. Elapsed time: 0.980s
+The 2-th R*-Tree has been built. Elapsed time: 0.992s
+The 3-th R*-Tree has been built. Elapsed time: 0.969s
+The 4-th R*-Tree has been built. Elapsed time: 0.965s
+BUILDING TIME: 4.88335s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    93.6088ms.
+
+TOTAL QUERY TIME:    9360.88ms.
+
+AVG RECALL:        0.6163
+AVG MAP:        0.494588
+AVG RATIO:         1.02987
+AVG COST:          0.1001
+AVG ROUNDS:        1.05
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.38152s.
+
+LOADING BENMARK...
+LOADING TIME: 3.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000995s.
+
+COMPUTING HASH...
+COMPUTING TIME: 8.59822s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.983s
+The 1-th R*-Tree has been built. Elapsed time: 0.968s
+The 2-th R*-Tree has been built. Elapsed time: 0.994s
+The 3-th R*-Tree has been built. Elapsed time: 0.961s
+The 4-th R*-Tree has been built. Elapsed time: 0.977s
+The 5-th R*-Tree has been built. Elapsed time: 0.990s
+The 6-th R*-Tree has been built. Elapsed time: 0.975s
+The 7-th R*-Tree has been built. Elapsed time: 0.991s
+The 8-th R*-Tree has been built. Elapsed time: 0.985s
+The 9-th R*-Tree has been built. Elapsed time: 0.980s
+BUILDING TIME: 9.80354s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    76.8571ms.
+
+TOTAL QUERY TIME:    7685.71ms.
+
+AVG RECALL:        0.3649
+AVG MAP:        0.215889
+AVG RATIO:         1.08771
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.39201s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001475s.
+
+COMPUTING HASH...
+COMPUTING TIME: 12.928s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.978s
+The 1-th R*-Tree has been built. Elapsed time: 0.989s
+The 2-th R*-Tree has been built. Elapsed time: 0.980s
+The 3-th R*-Tree has been built. Elapsed time: 0.988s
+The 4-th R*-Tree has been built. Elapsed time: 0.980s
+The 5-th R*-Tree has been built. Elapsed time: 0.998s
+The 6-th R*-Tree has been built. Elapsed time: 0.975s
+The 7-th R*-Tree has been built. Elapsed time: 0.991s
+The 8-th R*-Tree has been built. Elapsed time: 0.971s
+The 9-th R*-Tree has been built. Elapsed time: 1.005s
+The 10-th R*-Tree has been built. Elapsed time: 0.978s
+The 11-th R*-Tree has been built. Elapsed time: 1.009s
+The 12-th R*-Tree has been built. Elapsed time: 0.995s
+The 13-th R*-Tree has been built. Elapsed time: 0.998s
+The 14-th R*-Tree has been built. Elapsed time: 0.974s
+BUILDING TIME: 14.8092s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    76.8242ms.
+
+TOTAL QUERY TIME:    7682.42ms.
+
+AVG RECALL:        0.3649
+AVG MAP:        0.215889
+AVG RATIO:         1.08771
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.6592s.
+
+LOADING BENMARK...
+LOADING TIME: 4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000626s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.18695s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.311s
+The 1-th R*-Tree has been built. Elapsed time: 1.294s
+The 2-th R*-Tree has been built. Elapsed time: 1.352s
+The 3-th R*-Tree has been built. Elapsed time: 1.203s
+The 4-th R*-Tree has been built. Elapsed time: 1.199s
+BUILDING TIME: 6.35934s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    90.0257ms.
+
+TOTAL QUERY TIME:    9002.57ms.
+
+AVG RECALL:        0.4069
+AVG MAP:        0.272565
+AVG RATIO:         1.07867
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.65558s.
+
+LOADING BENMARK...
+LOADING TIME: 3.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00071s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.87427s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.262s
+The 1-th R*-Tree has been built. Elapsed time: 1.189s
+The 2-th R*-Tree has been built. Elapsed time: 1.185s
+The 3-th R*-Tree has been built. Elapsed time: 1.194s
+The 4-th R*-Tree has been built. Elapsed time: 1.187s
+BUILDING TIME: 6.01734s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    95.9125ms.
+
+TOTAL QUERY TIME:    9591.25ms.
+
+AVG RECALL:        0.5061
+AVG MAP:        0.37193
+AVG RATIO:         1.0542
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.57648s.
+
+LOADING BENMARK...
+LOADING TIME: 3.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000519s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.53281s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.198s
+The 1-th R*-Tree has been built. Elapsed time: 1.078s
+The 2-th R*-Tree has been built. Elapsed time: 1.049s
+The 3-th R*-Tree has been built. Elapsed time: 1.006s
+The 4-th R*-Tree has been built. Elapsed time: 1.149s
+BUILDING TIME: 5.47992s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    82.048ms.
+
+TOTAL QUERY TIME:    8204.8ms.
+
+AVG RECALL:        0.1375
+AVG MAP:        0.0528181
+AVG RATIO:         1.17255
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.50583s.
+
+LOADING BENMARK...
+LOADING TIME: 3.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000447s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.23635s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.203s
+The 1-th R*-Tree has been built. Elapsed time: 1.269s
+The 2-th R*-Tree has been built. Elapsed time: 1.138s
+The 3-th R*-Tree has been built. Elapsed time: 1.157s
+The 4-th R*-Tree has been built. Elapsed time: 1.179s
+BUILDING TIME: 5.94532s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    85.3232ms.
+
+TOTAL QUERY TIME:    8532.32ms.
+
+AVG RECALL:        0.1375
+AVG MAP:        0.0528181
+AVG RATIO:         1.17255
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.71406s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000519s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.44392s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.144s
+The 1-th R*-Tree has been built. Elapsed time: 1.054s
+The 2-th R*-Tree has been built. Elapsed time: 1.065s
+The 3-th R*-Tree has been built. Elapsed time: 1.034s
+The 4-th R*-Tree has been built. Elapsed time: 1.059s
+BUILDING TIME: 5.35627s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    77.7208ms.
+
+TOTAL QUERY TIME:    7772.08ms.
+
+AVG RECALL:        0.1375
+AVG MAP:        0.0528181
+AVG RATIO:         1.17255
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.61468s.
+
+LOADING BENMARK...
+LOADING TIME: 3.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000429s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.87607s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.891s
+The 1-th R*-Tree has been built. Elapsed time: 0.905s
+The 2-th R*-Tree has been built. Elapsed time: 0.900s
+The 3-th R*-Tree has been built. Elapsed time: 0.898s
+The 4-th R*-Tree has been built. Elapsed time: 0.929s
+BUILDING TIME: 4.5226s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    67.6658ms.
+
+TOTAL QUERY TIME:    6766.58ms.
+
+AVG RECALL:        0.1375
+AVG MAP:        0.0528181
+AVG RATIO:         1.17255
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.38976s.
+
+LOADING BENMARK...
+LOADING TIME: 3.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000487s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.94639s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.988s
+The 1-th R*-Tree has been built. Elapsed time: 1.018s
+The 2-th R*-Tree has been built. Elapsed time: 1.028s
+The 3-th R*-Tree has been built. Elapsed time: 1.040s
+The 4-th R*-Tree has been built. Elapsed time: 1.040s
+BUILDING TIME: 5.11387s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    78.1787ms.
+
+TOTAL QUERY TIME:    7817.87ms.
+
+AVG RECALL:        0.1375
+AVG MAP:        0.0528181
+AVG RATIO:         1.17255
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.5944s.
+
+LOADING BENMARK...
+LOADING TIME: 3.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000857s.
+
+COMPUTING HASH...
+COMPUTING TIME: 7.94621s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.018s
+The 1-th R*-Tree has been built. Elapsed time: 0.987s
+The 2-th R*-Tree has been built. Elapsed time: 1.013s
+The 3-th R*-Tree has been built. Elapsed time: 0.984s
+The 4-th R*-Tree has been built. Elapsed time: 1.092s
+The 5-th R*-Tree has been built. Elapsed time: 1.077s
+The 6-th R*-Tree has been built. Elapsed time: 1.065s
+The 7-th R*-Tree has been built. Elapsed time: 1.074s
+The 8-th R*-Tree has been built. Elapsed time: 1.094s
+The 9-th R*-Tree has been built. Elapsed time: 1.094s
+BUILDING TIME: 10.4977s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    75.7338ms.
+
+TOTAL QUERY TIME:    7573.38ms.
+
+AVG RECALL:        0.1375
+AVG MAP:        0.0528181
+AVG RATIO:         1.17255
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.29651s.
+
+LOADING BENMARK...
+LOADING TIME: 3.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001257s.
+
+COMPUTING HASH...
+COMPUTING TIME: 11.1751s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.001s
+The 1-th R*-Tree has been built. Elapsed time: 1.042s
+The 2-th R*-Tree has been built. Elapsed time: 1.039s
+The 3-th R*-Tree has been built. Elapsed time: 0.997s
+The 4-th R*-Tree has been built. Elapsed time: 1.007s
+The 5-th R*-Tree has been built. Elapsed time: 1.009s
+The 6-th R*-Tree has been built. Elapsed time: 0.980s
+The 7-th R*-Tree has been built. Elapsed time: 0.978s
+The 8-th R*-Tree has been built. Elapsed time: 0.980s
+The 9-th R*-Tree has been built. Elapsed time: 0.979s
+The 10-th R*-Tree has been built. Elapsed time: 0.966s
+The 11-th R*-Tree has been built. Elapsed time: 1.047s
+The 12-th R*-Tree has been built. Elapsed time: 1.061s
+The 13-th R*-Tree has been built. Elapsed time: 1.054s
+The 14-th R*-Tree has been built. Elapsed time: 1.054s
+BUILDING TIME: 15.193s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    75.1276ms.
+
+TOTAL QUERY TIME:    7512.76ms.
+
+AVG RECALL:        0.1375
+AVG MAP:        0.0528181
+AVG RATIO:         1.17255
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.15861s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000515s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.30927s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.993s
+The 1-th R*-Tree has been built. Elapsed time: 1.000s
+The 2-th R*-Tree has been built. Elapsed time: 0.997s
+The 3-th R*-Tree has been built. Elapsed time: 0.994s
+The 4-th R*-Tree has been built. Elapsed time: 0.997s
+BUILDING TIME: 4.98177s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    72.8634ms.
+
+TOTAL QUERY TIME:    7286.34ms.
+
+AVG RECALL:        0.1028
+AVG MAP:        0.0321228
+AVG RATIO:         1.18898
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for gooaq-distilroberta-768-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized/
+N=    1000000
+dim=  768
+
+LOADING TIME: 2.24753s.
+
+LOADING BENMARK...
+LOADING TIME: 3.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000606s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.94947s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.936s
+The 1-th R*-Tree has been built. Elapsed time: 0.952s
+The 2-th R*-Tree has been built. Elapsed time: 0.985s
+The 3-th R*-Tree has been built. Elapsed time: 0.965s
+The 4-th R*-Tree has been built. Elapsed time: 0.982s
+BUILDING TIME: 4.82102s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          gooaq-distilroberta-768-normalized-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    69.5612ms.
+
+TOTAL QUERY TIME:    6956.12ms.
+
+AVG RECALL:        0.1375
+AVG MAP:        0.0560441
+AVG RATIO:         1.16795
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+

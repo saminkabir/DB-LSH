@@ -1,0 +1,949 @@
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 4.46807s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 26.8973s.
+
+SAVING BENMARK...
+SAVING TIME: 0.000289s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00056s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.38979s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.741s
+The 1-th R*-Tree has been built. Elapsed time: 0.675s
+The 2-th R*-Tree has been built. Elapsed time: 0.687s
+The 3-th R*-Tree has been built. Elapsed time: 0.700s
+The 4-th R*-Tree has been built. Elapsed time: 0.660s
+BUILDING TIME: 3.46314s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    109.32ms.
+
+TOTAL QUERY TIME:    10932ms.
+
+AVG RECALL:        0.636
+AVG MAP:        0.508564
+AVG RATIO:         1.01935
+AVG COST:          0.10013
+AVG ROUNDS:        7.01
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.54875s.
+
+LOADING BENMARK...
+LOADING TIME: 3.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000669s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.47985s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.702s
+The 1-th R*-Tree has been built. Elapsed time: 0.722s
+The 2-th R*-Tree has been built. Elapsed time: 0.709s
+The 3-th R*-Tree has been built. Elapsed time: 0.713s
+The 4-th R*-Tree has been built. Elapsed time: 0.709s
+BUILDING TIME: 3.55414s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    122.118ms.
+
+TOTAL QUERY TIME:    12211.8ms.
+
+AVG RECALL:        0.5839
+AVG MAP:        0.444675
+AVG RATIO:         1.02467
+AVG COST:          0.10013
+AVG ROUNDS:        5
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.61134s.
+
+LOADING BENMARK...
+LOADING TIME: 6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000679s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.50514s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.713s
+The 1-th R*-Tree has been built. Elapsed time: 0.726s
+The 2-th R*-Tree has been built. Elapsed time: 0.729s
+The 3-th R*-Tree has been built. Elapsed time: 0.726s
+The 4-th R*-Tree has been built. Elapsed time: 0.738s
+BUILDING TIME: 3.63247s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    142.261ms.
+
+TOTAL QUERY TIME:    14226.1ms.
+
+AVG RECALL:        0.6795
+AVG MAP:        0.560282
+AVG RATIO:         1.01499
+AVG COST:          0.10013
+AVG ROUNDS:        13.23
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.61759s.
+
+LOADING BENMARK...
+LOADING TIME: 5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001316s.
+
+COMPUTING HASH...
+COMPUTING TIME: 9.05964s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.711s
+The 1-th R*-Tree has been built. Elapsed time: 0.727s
+The 2-th R*-Tree has been built. Elapsed time: 0.723s
+The 3-th R*-Tree has been built. Elapsed time: 0.742s
+The 4-th R*-Tree has been built. Elapsed time: 0.713s
+The 5-th R*-Tree has been built. Elapsed time: 0.720s
+The 6-th R*-Tree has been built. Elapsed time: 0.745s
+The 7-th R*-Tree has been built. Elapsed time: 0.726s
+The 8-th R*-Tree has been built. Elapsed time: 0.734s
+The 9-th R*-Tree has been built. Elapsed time: 0.722s
+BUILDING TIME: 7.26278s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    138.685ms.
+
+TOTAL QUERY TIME:    13868.5ms.
+
+AVG RECALL:        0.6926
+AVG MAP:        0.576517
+AVG RATIO:         1.01355
+AVG COST:          0.10013
+AVG ROUNDS:        7
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 3.1192s.
+
+LOADING BENMARK...
+LOADING TIME: 5.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001965s.
+
+COMPUTING HASH...
+COMPUTING TIME: 15.0352s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.830s
+The 1-th R*-Tree has been built. Elapsed time: 0.761s
+The 2-th R*-Tree has been built. Elapsed time: 0.758s
+The 3-th R*-Tree has been built. Elapsed time: 0.756s
+The 4-th R*-Tree has been built. Elapsed time: 0.747s
+The 5-th R*-Tree has been built. Elapsed time: 0.759s
+The 6-th R*-Tree has been built. Elapsed time: 0.759s
+The 7-th R*-Tree has been built. Elapsed time: 0.760s
+The 8-th R*-Tree has been built. Elapsed time: 0.740s
+The 9-th R*-Tree has been built. Elapsed time: 0.735s
+The 10-th R*-Tree has been built. Elapsed time: 0.752s
+The 11-th R*-Tree has been built. Elapsed time: 0.726s
+The 12-th R*-Tree has been built. Elapsed time: 0.734s
+The 13-th R*-Tree has been built. Elapsed time: 0.705s
+The 14-th R*-Tree has been built. Elapsed time: 0.689s
+BUILDING TIME: 11.2107s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    174.678ms.
+
+TOTAL QUERY TIME:    17467.8ms.
+
+AVG RECALL:        0.7402
+AVG MAP:        0.632407
+AVG RATIO:         1.01041
+AVG COST:          0.10013
+AVG ROUNDS:        6.92
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.5642s.
+
+LOADING BENMARK...
+LOADING TIME: 5.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000822s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.31255s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.824s
+The 1-th R*-Tree has been built. Elapsed time: 0.822s
+The 2-th R*-Tree has been built. Elapsed time: 0.825s
+The 3-th R*-Tree has been built. Elapsed time: 0.810s
+The 4-th R*-Tree has been built. Elapsed time: 0.830s
+BUILDING TIME: 4.11194s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    118.591ms.
+
+TOTAL QUERY TIME:    11859.1ms.
+
+AVG RECALL:        0.7128
+AVG MAP:        0.598277
+AVG RATIO:         1.0132
+AVG COST:          0.10013
+AVG ROUNDS:        7.17
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.5303s.
+
+LOADING BENMARK...
+LOADING TIME: 4.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00094s.
+
+COMPUTING HASH...
+COMPUTING TIME: 6.05869s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.801s
+The 1-th R*-Tree has been built. Elapsed time: 0.769s
+The 2-th R*-Tree has been built. Elapsed time: 0.819s
+The 3-th R*-Tree has been built. Elapsed time: 0.767s
+The 4-th R*-Tree has been built. Elapsed time: 0.740s
+BUILDING TIME: 3.89705s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    127.328ms.
+
+TOTAL QUERY TIME:    12732.8ms.
+
+AVG RECALL:        0.7681
+AVG MAP:        0.669373
+AVG RATIO:         1.00903
+AVG COST:          0.10013
+AVG ROUNDS:        7.41
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.35679s.
+
+LOADING BENMARK...
+LOADING TIME: 5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.0007s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.4901s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.809s
+The 1-th R*-Tree has been built. Elapsed time: 0.806s
+The 2-th R*-Tree has been built. Elapsed time: 0.840s
+The 3-th R*-Tree has been built. Elapsed time: 0.831s
+The 4-th R*-Tree has been built. Elapsed time: 0.807s
+BUILDING TIME: 4.09326s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    75.3599ms.
+
+TOTAL QUERY TIME:    7535.99ms.
+
+AVG RECALL:        0.5004
+AVG MAP:        0.349946
+AVG RATIO:         1.04329
+AVG COST:          0.10013
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.47829s.
+
+LOADING BENMARK...
+LOADING TIME: 5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000689s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.44298s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.738s
+The 1-th R*-Tree has been built. Elapsed time: 0.742s
+The 2-th R*-Tree has been built. Elapsed time: 0.751s
+The 3-th R*-Tree has been built. Elapsed time: 0.725s
+The 4-th R*-Tree has been built. Elapsed time: 0.714s
+BUILDING TIME: 3.67012s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    67.3925ms.
+
+TOTAL QUERY TIME:    6739.25ms.
+
+AVG RECALL:        0.2075
+AVG MAP:        0.0998369
+AVG RATIO:         108.512
+AVG COST:          0.10013
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.25619s.
+
+LOADING BENMARK...
+LOADING TIME: 5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000568s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.99916s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.736s
+The 1-th R*-Tree has been built. Elapsed time: 0.720s
+The 2-th R*-Tree has been built. Elapsed time: 0.696s
+The 3-th R*-Tree has been built. Elapsed time: 0.730s
+The 4-th R*-Tree has been built. Elapsed time: 0.732s
+BUILDING TIME: 3.61452s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    95.1987ms.
+
+TOTAL QUERY TIME:    9519.87ms.
+
+AVG RECALL:        0.6739
+AVG MAP:        0.553596
+AVG RATIO:         1.01553
+AVG COST:          0.10013
+AVG ROUNDS:        1.82
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.30729s.
+
+LOADING BENMARK...
+LOADING TIME: 4.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000624s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.04331s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.764s
+The 1-th R*-Tree has been built. Elapsed time: 0.749s
+The 2-th R*-Tree has been built. Elapsed time: 0.783s
+The 3-th R*-Tree has been built. Elapsed time: 0.776s
+The 4-th R*-Tree has been built. Elapsed time: 0.784s
+BUILDING TIME: 3.85678s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    64.5443ms.
+
+TOTAL QUERY TIME:    6454.43ms.
+
+AVG RECALL:        0.0892
+AVG MAP:        0.0290784
+AVG RATIO:         325.869
+AVG COST:          0.10013
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.2997s.
+
+LOADING BENMARK...
+LOADING TIME: 5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000675s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.09977s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.790s
+The 1-th R*-Tree has been built. Elapsed time: 0.790s
+The 2-th R*-Tree has been built. Elapsed time: 0.796s
+The 3-th R*-Tree has been built. Elapsed time: 0.780s
+The 4-th R*-Tree has been built. Elapsed time: 0.791s
+BUILDING TIME: 3.9481s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    59.813ms.
+
+TOTAL QUERY TIME:    5981.3ms.
+
+AVG RECALL:        0.0892
+AVG MAP:        0.0290784
+AVG RATIO:         325.869
+AVG COST:          0.10013
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.22266s.
+
+LOADING BENMARK...
+LOADING TIME: 4.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001104s.
+
+COMPUTING HASH...
+COMPUTING TIME: 7.71977s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.632s
+The 1-th R*-Tree has been built. Elapsed time: 0.623s
+The 2-th R*-Tree has been built. Elapsed time: 0.637s
+The 3-th R*-Tree has been built. Elapsed time: 0.632s
+The 4-th R*-Tree has been built. Elapsed time: 0.619s
+The 5-th R*-Tree has been built. Elapsed time: 0.639s
+The 6-th R*-Tree has been built. Elapsed time: 0.635s
+The 7-th R*-Tree has been built. Elapsed time: 0.630s
+The 8-th R*-Tree has been built. Elapsed time: 0.642s
+The 9-th R*-Tree has been built. Elapsed time: 0.629s
+BUILDING TIME: 6.31818s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    65.0723ms.
+
+TOTAL QUERY TIME:    6507.23ms.
+
+AVG RECALL:        0.5004
+AVG MAP:        0.349946
+AVG RATIO:         1.04329
+AVG COST:          0.10013
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.0636s.
+
+LOADING BENMARK...
+LOADING TIME: 4.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001641s.
+
+COMPUTING HASH...
+COMPUTING TIME: 11.6019s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.623s
+The 1-th R*-Tree has been built. Elapsed time: 0.638s
+The 2-th R*-Tree has been built. Elapsed time: 0.636s
+The 3-th R*-Tree has been built. Elapsed time: 0.625s
+The 4-th R*-Tree has been built. Elapsed time: 0.633s
+The 5-th R*-Tree has been built. Elapsed time: 0.626s
+The 6-th R*-Tree has been built. Elapsed time: 0.633s
+The 7-th R*-Tree has been built. Elapsed time: 0.624s
+The 8-th R*-Tree has been built. Elapsed time: 0.627s
+The 9-th R*-Tree has been built. Elapsed time: 0.628s
+The 10-th R*-Tree has been built. Elapsed time: 0.634s
+The 11-th R*-Tree has been built. Elapsed time: 0.632s
+The 12-th R*-Tree has been built. Elapsed time: 0.622s
+The 13-th R*-Tree has been built. Elapsed time: 0.628s
+The 14-th R*-Tree has been built. Elapsed time: 0.632s
+BUILDING TIME: 9.44195s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    64.3601ms.
+
+TOTAL QUERY TIME:    6436.01ms.
+
+AVG RECALL:        0.5004
+AVG MAP:        0.349946
+AVG RATIO:         1.04329
+AVG COST:          0.10013
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.05212s.
+
+LOADING BENMARK...
+LOADING TIME: 4.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000674s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.44798s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.648s
+The 1-th R*-Tree has been built. Elapsed time: 0.645s
+The 2-th R*-Tree has been built. Elapsed time: 0.640s
+The 3-th R*-Tree has been built. Elapsed time: 0.647s
+The 4-th R*-Tree has been built. Elapsed time: 0.648s
+BUILDING TIME: 3.22831s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    69.1565ms.
+
+TOTAL QUERY TIME:    6915.65ms.
+
+AVG RECALL:        0.5794
+AVG MAP:        0.43227
+AVG RATIO:         1.03043
+AVG COST:          0.10013
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for agnews-mxbai-1024-euclidean ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean/
+N=    769382
+dim=  1024
+
+LOADING TIME: 2.13769s.
+
+LOADING BENMARK...
+LOADING TIME: 4.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000784s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.13744s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.646s
+The 1-th R*-Tree has been built. Elapsed time: 0.627s
+The 2-th R*-Tree has been built. Elapsed time: 0.640s
+The 3-th R*-Tree has been built. Elapsed time: 0.634s
+The 4-th R*-Tree has been built. Elapsed time: 0.650s
+BUILDING TIME: 3.19707s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          agnews-mxbai-1024-euclidean-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    74.1786ms.
+
+TOTAL QUERY TIME:    7417.86ms.
+
+AVG RECALL:        0.66
+AVG MAP:        0.527495
+AVG RATIO:         1.02069
+AVG COST:          0.10013
+AVG ROUNDS:        1.04
+
+QUERY FINISH... 
+
+

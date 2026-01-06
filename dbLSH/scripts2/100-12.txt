@@ -1,0 +1,949 @@
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 2.85107s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 21.545s.
+
+SAVING BENMARK...
+SAVING TIME: 0.000344s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000286s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.79161s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.013s
+The 1-th R*-Tree has been built. Elapsed time: 0.922s
+The 2-th R*-Tree has been built. Elapsed time: 0.930s
+The 3-th R*-Tree has been built. Elapsed time: 0.918s
+The 4-th R*-Tree has been built. Elapsed time: 0.906s
+BUILDING TIME: 4.69025s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.500000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    59.0051ms.
+
+TOTAL QUERY TIME:    5900.51ms.
+
+AVG RECALL:        0.1549
+AVG MAP:        0.0505407
+AVG RATIO:         1.01973
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.65158s.
+
+LOADING BENMARK...
+LOADING TIME: 4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000344s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.76267s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.064s
+The 1-th R*-Tree has been built. Elapsed time: 1.081s
+The 2-th R*-Tree has been built. Elapsed time: 1.069s
+The 3-th R*-Tree has been built. Elapsed time: 1.054s
+The 4-th R*-Tree has been built. Elapsed time: 1.079s
+BUILDING TIME: 5.3464s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.750000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    61.487ms.
+
+TOTAL QUERY TIME:    6148.7ms.
+
+AVG RECALL:        0.1018
+AVG MAP:        0.0260427
+AVG RATIO:         1.02445
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.61104s.
+
+LOADING BENMARK...
+LOADING TIME: 4.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000344s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.80475s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.059s
+The 1-th R*-Tree has been built. Elapsed time: 1.326s
+The 2-th R*-Tree has been built. Elapsed time: 1.007s
+The 3-th R*-Tree has been built. Elapsed time: 0.970s
+The 4-th R*-Tree has been built. Elapsed time: 0.975s
+BUILDING TIME: 5.33752s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.250000-100-5-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    90.3564ms.
+
+TOTAL QUERY TIME:    9035.64ms.
+
+AVG RECALL:        0.205
+AVG MAP:        0.067368
+AVG RATIO:         1.01591
+AVG COST:          0.1001
+AVG ROUNDS:        1.08
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.77702s.
+
+LOADING BENMARK...
+LOADING TIME: 4.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000673s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.68734s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.979s
+The 1-th R*-Tree has been built. Elapsed time: 1.010s
+The 2-th R*-Tree has been built. Elapsed time: 1.002s
+The 3-th R*-Tree has been built. Elapsed time: 0.989s
+The 4-th R*-Tree has been built. Elapsed time: 0.970s
+The 5-th R*-Tree has been built. Elapsed time: 0.984s
+The 6-th R*-Tree has been built. Elapsed time: 0.972s
+The 7-th R*-Tree has been built. Elapsed time: 0.992s
+The 8-th R*-Tree has been built. Elapsed time: 0.964s
+The 9-th R*-Tree has been built. Elapsed time: 0.986s
+BUILDING TIME: 9.84834s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.500000-100-10-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    81.5321ms.
+
+TOTAL QUERY TIME:    8153.21ms.
+
+AVG RECALL:        0.1549
+AVG MAP:        0.0505407
+AVG RATIO:         1.01973
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.5827s.
+
+LOADING BENMARK...
+LOADING TIME: 4.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.001003s.
+
+COMPUTING HASH...
+COMPUTING TIME: 9.77785s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.056s
+The 1-th R*-Tree has been built. Elapsed time: 0.981s
+The 2-th R*-Tree has been built. Elapsed time: 0.967s
+The 3-th R*-Tree has been built. Elapsed time: 0.966s
+The 4-th R*-Tree has been built. Elapsed time: 0.956s
+The 5-th R*-Tree has been built. Elapsed time: 0.968s
+The 6-th R*-Tree has been built. Elapsed time: 0.954s
+The 7-th R*-Tree has been built. Elapsed time: 0.899s
+The 8-th R*-Tree has been built. Elapsed time: 0.863s
+The 9-th R*-Tree has been built. Elapsed time: 0.844s
+The 10-th R*-Tree has been built. Elapsed time: 0.852s
+The 11-th R*-Tree has been built. Elapsed time: 0.855s
+The 12-th R*-Tree has been built. Elapsed time: 0.857s
+The 13-th R*-Tree has been built. Elapsed time: 0.867s
+The 14-th R*-Tree has been built. Elapsed time: 0.850s
+BUILDING TIME: 13.7335s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.500000-100-15-10-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    54.9783ms.
+
+TOTAL QUERY TIME:    5497.83ms.
+
+AVG RECALL:        0.1549
+AVG MAP:        0.0505407
+AVG RATIO:         1.01973
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.57033s.
+
+LOADING BENMARK...
+LOADING TIME: 7.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00043s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.31168s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.982s
+The 1-th R*-Tree has been built. Elapsed time: 0.999s
+The 2-th R*-Tree has been built. Elapsed time: 0.979s
+The 3-th R*-Tree has been built. Elapsed time: 0.985s
+The 4-th R*-Tree has been built. Elapsed time: 0.998s
+BUILDING TIME: 4.94255s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.500000-100-5-12-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    89.1374ms.
+
+TOTAL QUERY TIME:    8913.74ms.
+
+AVG RECALL:        0.1211
+AVG MAP:        0.0279737
+AVG RATIO:         1.02204
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.6001s.
+
+LOADING BENMARK...
+LOADING TIME: 4.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000479s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.80451s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.984s
+The 1-th R*-Tree has been built. Elapsed time: 0.985s
+The 2-th R*-Tree has been built. Elapsed time: 0.991s
+The 3-th R*-Tree has been built. Elapsed time: 1.000s
+The 4-th R*-Tree has been built. Elapsed time: 0.977s
+BUILDING TIME: 4.93721s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.500000-100-5-14-0.100000-0.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    67.8197ms.
+
+TOTAL QUERY TIME:    6781.97ms.
+
+AVG RECALL:        0.1705
+AVG MAP:        0.0592435
+AVG RATIO:         1.01958
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 2.078s.
+
+LOADING BENMARK...
+LOADING TIME: 7.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000359s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.84497s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.995s
+The 1-th R*-Tree has been built. Elapsed time: 0.990s
+The 2-th R*-Tree has been built. Elapsed time: 0.974s
+The 3-th R*-Tree has been built. Elapsed time: 0.975s
+The 4-th R*-Tree has been built. Elapsed time: 0.966s
+BUILDING TIME: 4.90045s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.500000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    51.9994ms.
+
+TOTAL QUERY TIME:    5199.94ms.
+
+AVG RECALL:        0.0858
+AVG MAP:        0.020026
+AVG RATIO:         1.02632
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.75
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.60928s.
+
+LOADING BENMARK...
+LOADING TIME: 6.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000366s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.81903s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.023s
+The 1-th R*-Tree has been built. Elapsed time: 1.009s
+The 2-th R*-Tree has been built. Elapsed time: 0.974s
+The 3-th R*-Tree has been built. Elapsed time: 0.988s
+The 4-th R*-Tree has been built. Elapsed time: 0.984s
+BUILDING TIME: 4.97844s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.750000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    57.1436ms.
+
+TOTAL QUERY TIME:    5714.36ms.
+
+AVG RECALL:        0.0858
+AVG MAP:        0.020026
+AVG RATIO:         1.02632
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.25
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.64418s.
+
+LOADING BENMARK...
+LOADING TIME: 6.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000353s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.81586s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.985s
+The 1-th R*-Tree has been built. Elapsed time: 1.007s
+The 2-th R*-Tree has been built. Elapsed time: 1.006s
+The 3-th R*-Tree has been built. Elapsed time: 0.992s
+The 4-th R*-Tree has been built. Elapsed time: 0.982s
+BUILDING TIME: 4.97128s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.250000-100-5-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    56.1907ms.
+
+TOTAL QUERY TIME:    5619.07ms.
+
+AVG RECALL:        0.0858
+AVG MAP:        0.020026
+AVG RATIO:         1.02632
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.6602s.
+
+LOADING BENMARK...
+LOADING TIME: 6.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000358s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.83298s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.938s
+The 1-th R*-Tree has been built. Elapsed time: 0.962s
+The 2-th R*-Tree has been built. Elapsed time: 0.967s
+The 3-th R*-Tree has been built. Elapsed time: 0.955s
+The 4-th R*-Tree has been built. Elapsed time: 0.917s
+BUILDING TIME: 4.73805s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    58.4245ms.
+
+TOTAL QUERY TIME:    5842.45ms.
+
+AVG RECALL:        0.0858
+AVG MAP:        0.020026
+AVG RATIO:         1.02632
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.57872s.
+
+LOADING BENMARK...
+LOADING TIME: 6.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000364s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.65697s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.965s
+The 1-th R*-Tree has been built. Elapsed time: 0.954s
+The 2-th R*-Tree has been built. Elapsed time: 0.974s
+The 3-th R*-Tree has been built. Elapsed time: 0.962s
+The 4-th R*-Tree has been built. Elapsed time: 0.955s
+BUILDING TIME: 4.81086s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.500000-100-5-10-0.100000-600.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    53.5268ms.
+
+TOTAL QUERY TIME:    5352.68ms.
+
+AVG RECALL:        0.0858
+AVG MAP:        0.020026
+AVG RATIO:         1.02632
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.6591s.
+
+LOADING BENMARK...
+LOADING TIME: 6.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000691s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.70238s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.991s
+The 1-th R*-Tree has been built. Elapsed time: 0.992s
+The 2-th R*-Tree has been built. Elapsed time: 0.992s
+The 3-th R*-Tree has been built. Elapsed time: 0.994s
+The 4-th R*-Tree has been built. Elapsed time: 1.002s
+The 5-th R*-Tree has been built. Elapsed time: 1.004s
+The 6-th R*-Tree has been built. Elapsed time: 0.977s
+The 7-th R*-Tree has been built. Elapsed time: 0.989s
+The 8-th R*-Tree has been built. Elapsed time: 1.000s
+The 9-th R*-Tree has been built. Elapsed time: 0.959s
+BUILDING TIME: 9.89939s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.500000-100-10-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    58.4138ms.
+
+TOTAL QUERY TIME:    5841.38ms.
+
+AVG RECALL:        0.0858
+AVG MAP:        0.020026
+AVG RATIO:         1.02632
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.52103s.
+
+LOADING BENMARK...
+LOADING TIME: 6.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000908s.
+
+COMPUTING HASH...
+COMPUTING TIME: 7.65327s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.919s
+The 1-th R*-Tree has been built. Elapsed time: 0.894s
+The 2-th R*-Tree has been built. Elapsed time: 0.885s
+The 3-th R*-Tree has been built. Elapsed time: 0.870s
+The 4-th R*-Tree has been built. Elapsed time: 0.881s
+The 5-th R*-Tree has been built. Elapsed time: 0.888s
+The 6-th R*-Tree has been built. Elapsed time: 0.872s
+The 7-th R*-Tree has been built. Elapsed time: 0.921s
+The 8-th R*-Tree has been built. Elapsed time: 0.899s
+The 9-th R*-Tree has been built. Elapsed time: 0.932s
+The 10-th R*-Tree has been built. Elapsed time: 0.923s
+The 11-th R*-Tree has been built. Elapsed time: 0.921s
+The 12-th R*-Tree has been built. Elapsed time: 0.924s
+The 13-th R*-Tree has been built. Elapsed time: 0.916s
+The 14-th R*-Tree has been built. Elapsed time: 0.952s
+BUILDING TIME: 13.5972s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.500000-100-15-10-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    53.7634ms.
+
+TOTAL QUERY TIME:    5376.34ms.
+
+AVG RECALL:        0.0858
+AVG MAP:        0.020026
+AVG RATIO:         1.02632
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.51302s.
+
+LOADING BENMARK...
+LOADING TIME: 6.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000458s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.95907s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.886s
+The 1-th R*-Tree has been built. Elapsed time: 0.901s
+The 2-th R*-Tree has been built. Elapsed time: 0.914s
+The 3-th R*-Tree has been built. Elapsed time: 0.919s
+The 4-th R*-Tree has been built. Elapsed time: 0.926s
+BUILDING TIME: 4.54529s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.500000-100-5-12-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    54.2113ms.
+
+TOTAL QUERY TIME:    5421.13ms.
+
+AVG RECALL:        0.069
+AVG MAP:        0.0131477
+AVG RATIO:         1.02947
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for laion-clip-512-normalized ...
+c=        1.5
+k=        100
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/laion-clip-512-normalized/
+N=    1000000
+dim=  512
+
+LOADING TIME: 1.52967s.
+
+LOADING BENMARK...
+LOADING TIME: 6.6e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00051s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.41419s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.892s
+The 1-th R*-Tree has been built. Elapsed time: 0.918s
+The 2-th R*-Tree has been built. Elapsed time: 0.885s
+The 3-th R*-Tree has been built. Elapsed time: 0.911s
+The 4-th R*-Tree has been built. Elapsed time: 0.903s
+BUILDING TIME: 4.50988s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          laion-clip-512-normalized-1.500000-100-5-14-0.100000-6.500000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    49.7099ms.
+
+TOTAL QUERY TIME:    4970.99ms.
+
+AVG RECALL:        0.093
+AVG MAP:        0.020219
+AVG RATIO:         1.0267
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
