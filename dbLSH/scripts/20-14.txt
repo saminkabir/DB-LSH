@@ -1,0 +1,949 @@
+Using DB-LSH for sift_twenty ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.483132s.
+
+MAKING BENMARK...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+MAKING TIME: 1175.69s.
+
+SAVING BENMARK...
+SAVING TIME: 0.001751s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000121s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.06837s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.012s
+The 1-th R*-Tree has been built. Elapsed time: 0.958s
+The 2-th R*-Tree has been built. Elapsed time: 0.948s
+The 3-th R*-Tree has been built. Elapsed time: 0.958s
+The 4-th R*-Tree has been built. Elapsed time: 0.962s
+BUILDING TIME: 4.83837s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.500000-20-5-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    77.9245ms.
+
+TOTAL QUERY TIME:    779245ms.
+
+AVG RECALL:        0.976325
+AVG MAP:        0.961818
+AVG RATIO:         1.00053
+AVG COST:          0.10002
+AVG ROUNDS:        14.7535
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.75
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.50095s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000904s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000108s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.825846s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.976s
+The 1-th R*-Tree has been built. Elapsed time: 0.989s
+The 2-th R*-Tree has been built. Elapsed time: 0.972s
+The 3-th R*-Tree has been built. Elapsed time: 0.978s
+The 4-th R*-Tree has been built. Elapsed time: 0.982s
+BUILDING TIME: 4.89719s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.750000-20-5-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    71.5397ms.
+
+TOTAL QUERY TIME:    715397ms.
+
+AVG RECALL:        0.971755
+AVG MAP:        0.954266
+AVG RATIO:         1.00069
+AVG COST:          0.10002
+AVG ROUNDS:        10.4283
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.25
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.503653s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000938s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000111s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.823771s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.983s
+The 1-th R*-Tree has been built. Elapsed time: 1.005s
+The 2-th R*-Tree has been built. Elapsed time: 0.995s
+The 3-th R*-Tree has been built. Elapsed time: 0.987s
+The 4-th R*-Tree has been built. Elapsed time: 0.990s
+BUILDING TIME: 4.96039s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.250000-20-5-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    118.125ms.
+
+TOTAL QUERY TIME:    1.18125e+06ms.
+
+AVG RECALL:        0.98231
+AVG MAP:        0.970895
+AVG RATIO:         1.00038
+AVG COST:          0.10002
+AVG ROUNDS:        27.0411
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.5
+k=        20
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.489837s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000917s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000188s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.75937s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.001s
+The 1-th R*-Tree has been built. Elapsed time: 0.991s
+The 2-th R*-Tree has been built. Elapsed time: 0.980s
+The 3-th R*-Tree has been built. Elapsed time: 0.980s
+The 4-th R*-Tree has been built. Elapsed time: 0.988s
+The 5-th R*-Tree has been built. Elapsed time: 0.984s
+The 6-th R*-Tree has been built. Elapsed time: 0.976s
+The 7-th R*-Tree has been built. Elapsed time: 1.017s
+The 8-th R*-Tree has been built. Elapsed time: 0.973s
+The 9-th R*-Tree has been built. Elapsed time: 0.975s
+BUILDING TIME: 9.86486s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.500000-20-10-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    103.906ms.
+
+TOTAL QUERY TIME:    1.03906e+06ms.
+
+AVG RECALL:        0.98851
+AVG MAP:        0.98098
+AVG RATIO:         1.00022
+AVG COST:          0.10002
+AVG ROUNDS:        14.2936
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.5
+k=        20
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.488553s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000904s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000285s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.67463s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.021s
+The 1-th R*-Tree has been built. Elapsed time: 0.982s
+The 2-th R*-Tree has been built. Elapsed time: 0.991s
+The 3-th R*-Tree has been built. Elapsed time: 0.974s
+The 4-th R*-Tree has been built. Elapsed time: 0.987s
+The 5-th R*-Tree has been built. Elapsed time: 0.987s
+The 6-th R*-Tree has been built. Elapsed time: 0.980s
+The 7-th R*-Tree has been built. Elapsed time: 0.978s
+The 8-th R*-Tree has been built. Elapsed time: 0.986s
+The 9-th R*-Tree has been built. Elapsed time: 0.987s
+The 10-th R*-Tree has been built. Elapsed time: 0.977s
+The 11-th R*-Tree has been built. Elapsed time: 0.990s
+The 12-th R*-Tree has been built. Elapsed time: 0.983s
+The 13-th R*-Tree has been built. Elapsed time: 0.972s
+The 14-th R*-Tree has been built. Elapsed time: 0.969s
+BUILDING TIME: 14.7631s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.500000-20-15-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    132.158ms.
+
+TOTAL QUERY TIME:    1.32158e+06ms.
+
+AVG RECALL:        0.991205
+AVG MAP:        0.985172
+AVG RATIO:         1.00015
+AVG COST:          0.10002
+AVG ROUNDS:        14.0926
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.5
+k=        20
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.477422s.
+
+LOADING BENMARK...
+LOADING TIME: 0.0008s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000123s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.793265s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.242s
+The 1-th R*-Tree has been built. Elapsed time: 0.948s
+The 2-th R*-Tree has been built. Elapsed time: 0.915s
+The 3-th R*-Tree has been built. Elapsed time: 0.907s
+The 4-th R*-Tree has been built. Elapsed time: 0.897s
+BUILDING TIME: 4.908s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.500000-20-5-12-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    78.6585ms.
+
+TOTAL QUERY TIME:    786585ms.
+
+AVG RECALL:        0.97831
+AVG MAP:        0.964944
+AVG RATIO:         1.0005
+AVG COST:          0.10002
+AVG ROUNDS:        14.9643
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.5
+k=        20
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.484628s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000909s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00014s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.06916s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.012s
+The 1-th R*-Tree has been built. Elapsed time: 0.997s
+The 2-th R*-Tree has been built. Elapsed time: 0.996s
+The 3-th R*-Tree has been built. Elapsed time: 1.003s
+The 4-th R*-Tree has been built. Elapsed time: 0.993s
+BUILDING TIME: 5.00183s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.500000-20-5-14-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    96.4699ms.
+
+TOTAL QUERY TIME:    964699ms.
+
+AVG RECALL:        0.98169
+AVG MAP:        0.970266
+AVG RATIO:         1.0004
+AVG COST:          0.10002
+AVG ROUNDS:        15.0086
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.489945s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000915s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000117s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.826675s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.978s
+The 1-th R*-Tree has been built. Elapsed time: 0.997s
+The 2-th R*-Tree has been built. Elapsed time: 0.982s
+The 3-th R*-Tree has been built. Elapsed time: 0.982s
+The 4-th R*-Tree has been built. Elapsed time: 0.988s
+BUILDING TIME: 4.92665s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.500000-20-5-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    82.1648ms.
+
+TOTAL QUERY TIME:    821648ms.
+
+AVG RECALL:        0.973675
+AVG MAP:        0.957063
+AVG RATIO:         1.00065
+AVG COST:          0.10002
+AVG ROUNDS:        8.2029
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.75
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.65904s.
+
+LOADING BENMARK...
+LOADING TIME: 0.001005s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 9.8e-05s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.835056s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.163s
+The 1-th R*-Tree has been built. Elapsed time: 1.058s
+The 2-th R*-Tree has been built. Elapsed time: 0.970s
+The 3-th R*-Tree has been built. Elapsed time: 0.985s
+The 4-th R*-Tree has been built. Elapsed time: 0.973s
+BUILDING TIME: 5.14923s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.750000-20-5-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    68.4383ms.
+
+TOTAL QUERY TIME:    684383ms.
+
+AVG RECALL:        0.948495
+AVG MAP:        0.918552
+AVG RATIO:         1.0015
+AVG COST:          0.10002
+AVG ROUNDS:        5.9991
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.25
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.487314s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000919s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000105s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.826908s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.985s
+The 1-th R*-Tree has been built. Elapsed time: 1.003s
+The 2-th R*-Tree has been built. Elapsed time: 0.987s
+The 3-th R*-Tree has been built. Elapsed time: 0.986s
+The 4-th R*-Tree has been built. Elapsed time: 0.978s
+BUILDING TIME: 4.93864s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.250000-20-5-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    115.097ms.
+
+TOTAL QUERY TIME:    1.15097e+06ms.
+
+AVG RECALL:        0.982405
+AVG MAP:        0.971323
+AVG RATIO:         1.00036
+AVG COST:          0.10002
+AVG ROUNDS:        15.5298
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.483564s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000888s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000114s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.827919s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.977s
+The 1-th R*-Tree has been built. Elapsed time: 0.992s
+The 2-th R*-Tree has been built. Elapsed time: 0.993s
+The 3-th R*-Tree has been built. Elapsed time: 0.998s
+The 4-th R*-Tree has been built. Elapsed time: 0.988s
+BUILDING TIME: 4.94827s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.500000-20-5-10-0.100000-300.000000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    26.6562ms.
+
+TOTAL QUERY TIME:    266562ms.
+
+AVG RECALL:        0.10685
+AVG MAP:        0.0439141
+AVG RATIO:         1.21319
+AVG COST:          0.10002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.428294s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000784s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 8.7e-05s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.692786s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.849s
+The 1-th R*-Tree has been built. Elapsed time: 0.878s
+The 2-th R*-Tree has been built. Elapsed time: 0.910s
+The 3-th R*-Tree has been built. Elapsed time: 0.864s
+The 4-th R*-Tree has been built. Elapsed time: 0.849s
+BUILDING TIME: 4.34915s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.500000-20-5-10-0.100000-600.000000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    26.5767ms.
+
+TOTAL QUERY TIME:    265767ms.
+
+AVG RECALL:        0.082795
+AVG MAP:        0.0310068
+AVG RATIO:         1.24109
+AVG COST:          0.10002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.5
+k=        20
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.488859s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000922s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000194s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.76284s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.031s
+The 1-th R*-Tree has been built. Elapsed time: 0.991s
+The 2-th R*-Tree has been built. Elapsed time: 0.996s
+The 3-th R*-Tree has been built. Elapsed time: 0.984s
+The 4-th R*-Tree has been built. Elapsed time: 0.985s
+The 5-th R*-Tree has been built. Elapsed time: 0.988s
+The 6-th R*-Tree has been built. Elapsed time: 0.974s
+The 7-th R*-Tree has been built. Elapsed time: 0.988s
+The 8-th R*-Tree has been built. Elapsed time: 0.983s
+The 9-th R*-Tree has been built. Elapsed time: 0.975s
+BUILDING TIME: 9.89444s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.500000-20-10-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    110.344ms.
+
+TOTAL QUERY TIME:    1.10344e+06ms.
+
+AVG RECALL:        0.983755
+AVG MAP:        0.973408
+AVG RATIO:         1.00035
+AVG COST:          0.10002
+AVG ROUNDS:        8.0199
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.5
+k=        20
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.489333s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000902s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000278s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.67257s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.025s
+The 1-th R*-Tree has been built. Elapsed time: 0.988s
+The 2-th R*-Tree has been built. Elapsed time: 0.982s
+The 3-th R*-Tree has been built. Elapsed time: 0.996s
+The 4-th R*-Tree has been built. Elapsed time: 0.980s
+The 5-th R*-Tree has been built. Elapsed time: 0.987s
+The 6-th R*-Tree has been built. Elapsed time: 1.355s
+The 7-th R*-Tree has been built. Elapsed time: 1.006s
+The 8-th R*-Tree has been built. Elapsed time: 0.980s
+The 9-th R*-Tree has been built. Elapsed time: 0.983s
+The 10-th R*-Tree has been built. Elapsed time: 0.980s
+The 11-th R*-Tree has been built. Elapsed time: 1.015s
+The 12-th R*-Tree has been built. Elapsed time: 1.029s
+The 13-th R*-Tree has been built. Elapsed time: 0.988s
+The 14-th R*-Tree has been built. Elapsed time: 0.988s
+BUILDING TIME: 15.2828s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.500000-20-15-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    132.167ms.
+
+TOTAL QUERY TIME:    1.32167e+06ms.
+
+AVG RECALL:        0.98873
+AVG MAP:        0.981463
+AVG RATIO:         1.00021
+AVG COST:          0.10002
+AVG ROUNDS:        7.996
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.5
+k=        20
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.488961s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000892s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000128s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.948104s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.001s
+The 1-th R*-Tree has been built. Elapsed time: 0.989s
+The 2-th R*-Tree has been built. Elapsed time: 0.987s
+The 3-th R*-Tree has been built. Elapsed time: 0.989s
+The 4-th R*-Tree has been built. Elapsed time: 0.984s
+BUILDING TIME: 4.9505s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.500000-20-5-12-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    83.3995ms.
+
+TOTAL QUERY TIME:    833995ms.
+
+AVG RECALL:        0.98434
+AVG MAP:        0.974375
+AVG RATIO:         1.00033
+AVG COST:          0.10002
+AVG ROUNDS:        8.5327
+
+QUERY FINISH... 
+
+
+Using DB-LSH for sift_twenty ...
+c=        1.5
+k=        20
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift_twenty/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.480197s.
+
+LOADING BENMARK...
+LOADING TIME: 0.000899s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000142s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.06557s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.007s
+The 1-th R*-Tree has been built. Elapsed time: 0.993s
+The 2-th R*-Tree has been built. Elapsed time: 0.992s
+The 3-th R*-Tree has been built. Elapsed time: 0.981s
+The 4-th R*-Tree has been built. Elapsed time: 0.981s
+BUILDING TIME: 4.95363s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift_twenty-1.500000-20-5-14-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    95.2564ms.
+
+TOTAL QUERY TIME:    952564ms.
+
+AVG RECALL:        0.987155
+AVG MAP:        0.978806
+AVG RATIO:         1.00025
+AVG COST:          0.10002
+AVG ROUNDS:        8.7581
+
+QUERY FINISH... 
+
+

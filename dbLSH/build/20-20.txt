@@ -1,0 +1,57 @@
+Using DB-LSH for sift ...
+c=        1.5
+k=        100
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/sift/
+N=    1000000
+dim=  128
+
+LOADING TIME: 0.619923s.
+
+LOADING BENMARK...
+LOADING TIME: 0.003083s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000112s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.825416s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.206s
+The 1-th R*-Tree has been built. Elapsed time: 1.214s
+The 2-th R*-Tree has been built. Elapsed time: 1.194s
+The 3-th R*-Tree has been built. Elapsed time: 1.200s
+The 4-th R*-Tree has been built. Elapsed time: 1.185s
+BUILDING TIME: 5.99927s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          sift-1.500000-100-5-10-0.100000-300.000000.ivecs
+
+k=                 100
+
+AVG QUERY TIME:    40.2043ms.
+
+TOTAL QUERY TIME:    402043ms.
+
+AVG RECALL:        0.10592
+AVG MAP:        0.0362136
+AVG RATIO:         1.19949
+AVG COST:          0.1001
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+

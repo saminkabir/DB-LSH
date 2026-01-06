@@ -1,0 +1,2826 @@
+Using DB-LSH for audio ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.038391s.
+
+LOADING BENMARK...
+LOADING TIME: 2.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000118s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.047209s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.020s
+The 1-th R*-Tree has been built. Elapsed time: 0.020s
+The 2-th R*-Tree has been built. Elapsed time: 0.019s
+The 3-th R*-Tree has been built. Elapsed time: 0.020s
+The 4-th R*-Tree has been built. Elapsed time: 0.020s
+BUILDING TIME: 0.099172s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.500000-20-5-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    3.92595ms.
+
+TOTAL QUERY TIME:    785.19ms.
+
+AVG RECALL:        0.947
+AVG MAP:        0.920295
+AVG RATIO:         1.0025
+AVG COST:          0.100362
+AVG ROUNDS:        28.32
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.75
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.047308s.
+
+LOADING BENMARK...
+LOADING TIME: 2.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000121s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.047195s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.020s
+The 1-th R*-Tree has been built. Elapsed time: 0.019s
+The 2-th R*-Tree has been built. Elapsed time: 0.020s
+The 3-th R*-Tree has been built. Elapsed time: 0.020s
+The 4-th R*-Tree has been built. Elapsed time: 0.020s
+BUILDING TIME: 0.0991s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.750000-20-5-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    3.25221ms.
+
+TOTAL QUERY TIME:    650.443ms.
+
+AVG RECALL:        0.93825
+AVG MAP:        0.907955
+AVG RATIO:         1.00284
+AVG COST:          0.100362
+AVG ROUNDS:        20.365
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.25
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.046815s.
+
+LOADING BENMARK...
+LOADING TIME: 2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000117s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.047195s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.021s
+The 1-th R*-Tree has been built. Elapsed time: 0.019s
+The 2-th R*-Tree has been built. Elapsed time: 0.019s
+The 3-th R*-Tree has been built. Elapsed time: 0.020s
+The 4-th R*-Tree has been built. Elapsed time: 0.020s
+BUILDING TIME: 0.099877s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.250000-20-5-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    0.09649ms.
+
+TOTAL QUERY TIME:    19.298ms.
+
+AVG RECALL:        0
+AVG MAP:        0
+AVG RATIO:         6.55968e+33
+AVG COST:          0
+AVG ROUNDS:        31
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.5
+k=        20
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.046242s.
+
+LOADING BENMARK...
+LOADING TIME: 2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000218s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.105369s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.023s
+The 1-th R*-Tree has been built. Elapsed time: 0.023s
+The 2-th R*-Tree has been built. Elapsed time: 0.022s
+The 3-th R*-Tree has been built. Elapsed time: 0.023s
+The 4-th R*-Tree has been built. Elapsed time: 0.023s
+The 5-th R*-Tree has been built. Elapsed time: 0.021s
+The 6-th R*-Tree has been built. Elapsed time: 0.021s
+The 7-th R*-Tree has been built. Elapsed time: 0.021s
+The 8-th R*-Tree has been built. Elapsed time: 0.020s
+The 9-th R*-Tree has been built. Elapsed time: 0.020s
+BUILDING TIME: 0.217789s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.500000-20-10-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    6.21849ms.
+
+TOTAL QUERY TIME:    1243.7ms.
+
+AVG RECALL:        0.96275
+AVG MAP:        0.94294
+AVG RATIO:         1.00182
+AVG COST:          0.100362
+AVG ROUNDS:        28.12
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.5
+k=        20
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.046117s.
+
+LOADING BENMARK...
+LOADING TIME: 1.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000324s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.147084s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.022s
+The 1-th R*-Tree has been built. Elapsed time: 0.020s
+The 2-th R*-Tree has been built. Elapsed time: 0.020s
+The 3-th R*-Tree has been built. Elapsed time: 0.021s
+The 4-th R*-Tree has been built. Elapsed time: 0.020s
+The 5-th R*-Tree has been built. Elapsed time: 0.020s
+The 6-th R*-Tree has been built. Elapsed time: 0.022s
+The 7-th R*-Tree has been built. Elapsed time: 0.024s
+The 8-th R*-Tree has been built. Elapsed time: 0.024s
+The 9-th R*-Tree has been built. Elapsed time: 0.024s
+The 10-th R*-Tree has been built. Elapsed time: 0.024s
+The 11-th R*-Tree has been built. Elapsed time: 0.024s
+The 12-th R*-Tree has been built. Elapsed time: 0.024s
+The 13-th R*-Tree has been built. Elapsed time: 0.024s
+The 14-th R*-Tree has been built. Elapsed time: 0.024s
+BUILDING TIME: 0.337475s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.500000-20-15-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    8.15576ms.
+
+TOTAL QUERY TIME:    1631.15ms.
+
+AVG RECALL:        0.963
+AVG MAP:        0.943478
+AVG RATIO:         1.00179
+AVG COST:          0.100362
+AVG ROUNDS:        27.995
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.5
+k=        20
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.038468s.
+
+LOADING BENMARK...
+LOADING TIME: 1.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000132s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.055932s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.027s
+The 1-th R*-Tree has been built. Elapsed time: 0.027s
+The 2-th R*-Tree has been built. Elapsed time: 0.027s
+The 3-th R*-Tree has been built. Elapsed time: 0.027s
+The 4-th R*-Tree has been built. Elapsed time: 0.027s
+BUILDING TIME: 0.13612s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.500000-20-5-12-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    4.43061ms.
+
+TOTAL QUERY TIME:    886.121ms.
+
+AVG RECALL:        0.9595
+AVG MAP:        0.937726
+AVG RATIO:         1.00182
+AVG COST:          0.100362
+AVG ROUNDS:        28.635
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.5
+k=        20
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.040061s.
+
+LOADING BENMARK...
+LOADING TIME: 1.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000154s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.067195s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.031s
+The 1-th R*-Tree has been built. Elapsed time: 0.029s
+The 2-th R*-Tree has been built. Elapsed time: 0.028s
+The 3-th R*-Tree has been built. Elapsed time: 0.028s
+The 4-th R*-Tree has been built. Elapsed time: 0.028s
+BUILDING TIME: 0.144625s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.500000-20-5-14-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    4.17134ms.
+
+TOTAL QUERY TIME:    834.268ms.
+
+AVG RECALL:        0.971
+AVG MAP:        0.958049
+AVG RATIO:         1.00098
+AVG COST:          0.100362
+AVG ROUNDS:        28.79
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.044267s.
+
+LOADING BENMARK...
+LOADING TIME: 1.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000113s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.047167s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.020s
+The 1-th R*-Tree has been built. Elapsed time: 0.019s
+The 2-th R*-Tree has been built. Elapsed time: 0.019s
+The 3-th R*-Tree has been built. Elapsed time: 0.021s
+The 4-th R*-Tree has been built. Elapsed time: 0.020s
+BUILDING TIME: 0.099919s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.500000-20-5-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    3.77127ms.
+
+TOTAL QUERY TIME:    754.254ms.
+
+AVG RECALL:        0.94725
+AVG MAP:        0.922639
+AVG RATIO:         1.00215
+AVG COST:          0.100362
+AVG ROUNDS:        21.975
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.75
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.041329s.
+
+LOADING BENMARK...
+LOADING TIME: 1.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000116s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.047027s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.020s
+The 1-th R*-Tree has been built. Elapsed time: 0.020s
+The 2-th R*-Tree has been built. Elapsed time: 0.019s
+The 3-th R*-Tree has been built. Elapsed time: 0.022s
+The 4-th R*-Tree has been built. Elapsed time: 0.021s
+BUILDING TIME: 0.102279s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.750000-20-5-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    3.26068ms.
+
+TOTAL QUERY TIME:    652.136ms.
+
+AVG RECALL:        0.9305
+AVG MAP:        0.900433
+AVG RATIO:         1.00315
+AVG COST:          0.100362
+AVG ROUNDS:        15.815
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.25
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.049159s.
+
+LOADING BENMARK...
+LOADING TIME: 1.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000117s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.047187s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.020s
+The 1-th R*-Tree has been built. Elapsed time: 0.020s
+The 2-th R*-Tree has been built. Elapsed time: 0.020s
+The 3-th R*-Tree has been built. Elapsed time: 0.023s
+The 4-th R*-Tree has been built. Elapsed time: 0.021s
+BUILDING TIME: 0.103115s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.250000-20-5-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    0.191195ms.
+
+TOTAL QUERY TIME:    38.239ms.
+
+AVG RECALL:        0.001
+AVG MAP:        0.000916667
+AVG RATIO:         6.5252e+33
+AVG COST:          6.5559e-07
+AVG ROUNDS:        31
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.03885s.
+
+LOADING BENMARK...
+LOADING TIME: 1.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000114s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.047399s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.021s
+The 1-th R*-Tree has been built. Elapsed time: 0.020s
+The 2-th R*-Tree has been built. Elapsed time: 0.019s
+The 3-th R*-Tree has been built. Elapsed time: 0.020s
+The 4-th R*-Tree has been built. Elapsed time: 0.020s
+BUILDING TIME: 0.09996s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.500000-20-5-10-0.100000-300.000000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    3.69256ms.
+
+TOTAL QUERY TIME:    738.512ms.
+
+AVG RECALL:        0.9485
+AVG MAP:        0.919091
+AVG RATIO:         1.00237
+AVG COST:          0.100362
+AVG ROUNDS:        12.565
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.048345s.
+
+LOADING BENMARK...
+LOADING TIME: 1.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000116s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.047032s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.020s
+The 1-th R*-Tree has been built. Elapsed time: 0.019s
+The 2-th R*-Tree has been built. Elapsed time: 0.019s
+The 3-th R*-Tree has been built. Elapsed time: 0.020s
+The 4-th R*-Tree has been built. Elapsed time: 0.023s
+BUILDING TIME: 0.101375s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.500000-20-5-10-0.100000-600.000000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    3.71249ms.
+
+TOTAL QUERY TIME:    742.497ms.
+
+AVG RECALL:        0.9505
+AVG MAP:        0.926434
+AVG RATIO:         1.00199
+AVG COST:          0.100362
+AVG ROUNDS:        10.82
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.5
+k=        20
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.04775s.
+
+LOADING BENMARK...
+LOADING TIME: 1.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000227s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.095088s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.022s
+The 1-th R*-Tree has been built. Elapsed time: 0.020s
+The 2-th R*-Tree has been built. Elapsed time: 0.020s
+The 3-th R*-Tree has been built. Elapsed time: 0.020s
+The 4-th R*-Tree has been built. Elapsed time: 0.020s
+The 5-th R*-Tree has been built. Elapsed time: 0.020s
+The 6-th R*-Tree has been built. Elapsed time: 0.020s
+The 7-th R*-Tree has been built. Elapsed time: 0.021s
+The 8-th R*-Tree has been built. Elapsed time: 0.020s
+The 9-th R*-Tree has been built. Elapsed time: 0.020s
+BUILDING TIME: 0.204517s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.500000-20-10-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    5.60762ms.
+
+TOTAL QUERY TIME:    1121.52ms.
+
+AVG RECALL:        0.964
+AVG MAP:        0.946156
+AVG RATIO:         1.00135
+AVG COST:          0.100362
+AVG ROUNDS:        21.79
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.5
+k=        20
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.048201s.
+
+LOADING BENMARK...
+LOADING TIME: 1.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000321s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.147068s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.022s
+The 1-th R*-Tree has been built. Elapsed time: 0.020s
+The 2-th R*-Tree has been built. Elapsed time: 0.020s
+The 3-th R*-Tree has been built. Elapsed time: 0.020s
+The 4-th R*-Tree has been built. Elapsed time: 0.020s
+The 5-th R*-Tree has been built. Elapsed time: 0.020s
+The 6-th R*-Tree has been built. Elapsed time: 0.020s
+The 7-th R*-Tree has been built. Elapsed time: 0.020s
+The 8-th R*-Tree has been built. Elapsed time: 0.020s
+The 9-th R*-Tree has been built. Elapsed time: 0.020s
+The 10-th R*-Tree has been built. Elapsed time: 0.020s
+The 11-th R*-Tree has been built. Elapsed time: 0.020s
+The 12-th R*-Tree has been built. Elapsed time: 0.020s
+The 13-th R*-Tree has been built. Elapsed time: 0.022s
+The 14-th R*-Tree has been built. Elapsed time: 0.023s
+BUILDING TIME: 0.308761s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.500000-20-15-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    7.72665ms.
+
+TOTAL QUERY TIME:    1545.33ms.
+
+AVG RECALL:        0.96825
+AVG MAP:        0.954009
+AVG RATIO:         1.00106
+AVG COST:          0.100362
+AVG ROUNDS:        21.69
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.5
+k=        20
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.044927s.
+
+LOADING BENMARK...
+LOADING TIME: 1.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000135s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.060167s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.031s
+The 1-th R*-Tree has been built. Elapsed time: 0.030s
+The 2-th R*-Tree has been built. Elapsed time: 0.031s
+The 3-th R*-Tree has been built. Elapsed time: 0.031s
+The 4-th R*-Tree has been built. Elapsed time: 0.030s
+BUILDING TIME: 0.152343s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.500000-20-5-12-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    4.47405ms.
+
+TOTAL QUERY TIME:    894.81ms.
+
+AVG RECALL:        0.961
+AVG MAP:        0.941896
+AVG RATIO:         1.00156
+AVG COST:          0.100362
+AVG ROUNDS:        22.325
+
+QUERY FINISH... 
+
+
+Using DB-LSH for audio ...
+c=        1.5
+k=        20
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/audio/
+N=    53387
+dim=  192
+
+LOADING TIME: 0.048476s.
+
+LOADING BENMARK...
+LOADING TIME: 1.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000166s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.061412s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.027s
+The 1-th R*-Tree has been built. Elapsed time: 0.028s
+The 2-th R*-Tree has been built. Elapsed time: 0.028s
+The 3-th R*-Tree has been built. Elapsed time: 0.028s
+The 4-th R*-Tree has been built. Elapsed time: 0.028s
+BUILDING TIME: 0.138587s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          audio-1.500000-20-5-14-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    4.11258ms.
+
+TOTAL QUERY TIME:    822.516ms.
+
+AVG RECALL:        0.974
+AVG MAP:        0.960732
+AVG RATIO:         1.00097
+AVG COST:          0.100362
+AVG ROUNDS:        22.51
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.35642s.
+
+LOADING BENMARK...
+LOADING TIME: 3.7e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000263s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.93528s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.943s
+The 1-th R*-Tree has been built. Elapsed time: 0.953s
+The 2-th R*-Tree has been built. Elapsed time: 0.963s
+The 3-th R*-Tree has been built. Elapsed time: 0.968s
+The 4-th R*-Tree has been built. Elapsed time: 1.017s
+BUILDING TIME: 4.84462s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.500000-20-5-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    89.6482ms.
+
+TOTAL QUERY TIME:    17929.6ms.
+
+AVG RECALL:        0.98275
+AVG MAP:        0.973426
+AVG RATIO:         1.00052
+AVG COST:          0.10002
+AVG ROUNDS:        8.81
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.75
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.88543s.
+
+LOADING BENMARK...
+LOADING TIME: 3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000286s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.63812s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.978s
+The 1-th R*-Tree has been built. Elapsed time: 0.891s
+The 2-th R*-Tree has been built. Elapsed time: 0.847s
+The 3-th R*-Tree has been built. Elapsed time: 0.968s
+The 4-th R*-Tree has been built. Elapsed time: 0.990s
+BUILDING TIME: 4.67428s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.750000-20-5-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    79.1279ms.
+
+TOTAL QUERY TIME:    15825.6ms.
+
+AVG RECALL:        0.9685
+AVG MAP:        0.953268
+AVG RATIO:         1.00098
+AVG COST:          0.10002
+AVG ROUNDS:        6.17
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.25
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.70664s.
+
+LOADING BENMARK...
+LOADING TIME: 2.5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000257s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.91122s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.841s
+The 1-th R*-Tree has been built. Elapsed time: 0.843s
+The 2-th R*-Tree has been built. Elapsed time: 0.902s
+The 3-th R*-Tree has been built. Elapsed time: 0.857s
+The 4-th R*-Tree has been built. Elapsed time: 0.875s
+BUILDING TIME: 4.31857s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.250000-20-5-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    115.104ms.
+
+TOTAL QUERY TIME:    23020.8ms.
+
+AVG RECALL:        0.98675
+AVG MAP:        0.980472
+AVG RATIO:         1.00036
+AVG COST:          0.10002
+AVG ROUNDS:        16.36
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.5
+k=        20
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.66609s.
+
+LOADING BENMARK...
+LOADING TIME: 2.8e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000764s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.9092s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.857s
+The 1-th R*-Tree has been built. Elapsed time: 0.874s
+The 2-th R*-Tree has been built. Elapsed time: 0.872s
+The 3-th R*-Tree has been built. Elapsed time: 0.867s
+The 4-th R*-Tree has been built. Elapsed time: 0.874s
+The 5-th R*-Tree has been built. Elapsed time: 0.905s
+The 6-th R*-Tree has been built. Elapsed time: 0.912s
+The 7-th R*-Tree has been built. Elapsed time: 0.907s
+The 8-th R*-Tree has been built. Elapsed time: 0.929s
+The 9-th R*-Tree has been built. Elapsed time: 0.893s
+BUILDING TIME: 8.89255s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.500000-20-10-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    116.917ms.
+
+TOTAL QUERY TIME:    23383.3ms.
+
+AVG RECALL:        0.992
+AVG MAP:        0.988509
+AVG RATIO:         1.00017
+AVG COST:          0.10002
+AVG ROUNDS:        8.53
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.5
+k=        20
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.7071s.
+
+LOADING BENMARK...
+LOADING TIME: 2.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000697s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.81288s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.966s
+The 1-th R*-Tree has been built. Elapsed time: 0.976s
+The 2-th R*-Tree has been built. Elapsed time: 0.995s
+The 3-th R*-Tree has been built. Elapsed time: 0.931s
+The 4-th R*-Tree has been built. Elapsed time: 0.901s
+The 5-th R*-Tree has been built. Elapsed time: 0.904s
+The 6-th R*-Tree has been built. Elapsed time: 0.889s
+The 7-th R*-Tree has been built. Elapsed time: 0.876s
+The 8-th R*-Tree has been built. Elapsed time: 0.895s
+The 9-th R*-Tree has been built. Elapsed time: 0.889s
+The 10-th R*-Tree has been built. Elapsed time: 0.874s
+The 11-th R*-Tree has been built. Elapsed time: 0.887s
+The 12-th R*-Tree has been built. Elapsed time: 0.877s
+The 13-th R*-Tree has been built. Elapsed time: 0.879s
+The 14-th R*-Tree has been built. Elapsed time: 0.890s
+BUILDING TIME: 13.6308s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.500000-20-15-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    138.728ms.
+
+TOTAL QUERY TIME:    27745.7ms.
+
+AVG RECALL:        0.9945
+AVG MAP:        0.991928
+AVG RATIO:         1.00011
+AVG COST:          0.10002
+AVG ROUNDS:        8.32
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.5
+k=        20
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.7217s.
+
+LOADING BENMARK...
+LOADING TIME: 2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00029s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.29029s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.857s
+The 1-th R*-Tree has been built. Elapsed time: 0.865s
+The 2-th R*-Tree has been built. Elapsed time: 0.861s
+The 3-th R*-Tree has been built. Elapsed time: 0.865s
+The 4-th R*-Tree has been built. Elapsed time: 0.878s
+BUILDING TIME: 4.32539s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.500000-20-5-12-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    107.312ms.
+
+TOTAL QUERY TIME:    21462.4ms.
+
+AVG RECALL:        0.9865
+AVG MAP:        0.977356
+AVG RATIO:         1.00042
+AVG COST:          0.10002
+AVG ROUNDS:        8.98
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.5
+k=        20
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.72741s.
+
+LOADING BENMARK...
+LOADING TIME: 2.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000337s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.60802s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.860s
+The 1-th R*-Tree has been built. Elapsed time: 0.860s
+The 2-th R*-Tree has been built. Elapsed time: 0.867s
+The 3-th R*-Tree has been built. Elapsed time: 0.867s
+The 4-th R*-Tree has been built. Elapsed time: 0.864s
+BUILDING TIME: 4.31835s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.500000-20-5-14-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    104.379ms.
+
+TOTAL QUERY TIME:    20875.9ms.
+
+AVG RECALL:        0.989
+AVG MAP:        0.981978
+AVG RATIO:         1.00041
+AVG COST:          0.10002
+AVG ROUNDS:        9.14
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.71098s.
+
+LOADING BENMARK...
+LOADING TIME: 2.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000248s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.95193s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.967s
+The 1-th R*-Tree has been built. Elapsed time: 1.007s
+The 2-th R*-Tree has been built. Elapsed time: 0.976s
+The 3-th R*-Tree has been built. Elapsed time: 0.952s
+The 4-th R*-Tree has been built. Elapsed time: 0.974s
+BUILDING TIME: 4.87631s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.500000-20-5-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    73.102ms.
+
+TOTAL QUERY TIME:    14620.4ms.
+
+AVG RECALL:        0.98025
+AVG MAP:        0.967971
+AVG RATIO:         1.00061
+AVG COST:          0.10002
+AVG ROUNDS:        2.44
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.75
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.68374s.
+
+LOADING BENMARK...
+LOADING TIME: 2.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000243s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.90992s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.879s
+The 1-th R*-Tree has been built. Elapsed time: 0.880s
+The 2-th R*-Tree has been built. Elapsed time: 0.875s
+The 3-th R*-Tree has been built. Elapsed time: 0.869s
+The 4-th R*-Tree has been built. Elapsed time: 0.838s
+BUILDING TIME: 4.34094s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.750000-20-5-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    61.9788ms.
+
+TOTAL QUERY TIME:    12395.8ms.
+
+AVG RECALL:        0.899
+AVG MAP:        0.842134
+AVG RATIO:         1.00432
+AVG COST:          0.10002
+AVG ROUNDS:        1.675
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.25
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.49206s.
+
+LOADING BENMARK...
+LOADING TIME: 2.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000242s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.92262s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.848s
+The 1-th R*-Tree has been built. Elapsed time: 0.866s
+The 2-th R*-Tree has been built. Elapsed time: 0.859s
+The 3-th R*-Tree has been built. Elapsed time: 0.854s
+The 4-th R*-Tree has been built. Elapsed time: 0.857s
+BUILDING TIME: 4.28478s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.250000-20-5-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    98.5135ms.
+
+TOTAL QUERY TIME:    19702.7ms.
+
+AVG RECALL:        0.98775
+AVG MAP:        0.981581
+AVG RATIO:         1.00029
+AVG COST:          0.10002
+AVG ROUNDS:        4.885
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.71417s.
+
+LOADING BENMARK...
+LOADING TIME: 2.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000246s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.90746s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.860s
+The 1-th R*-Tree has been built. Elapsed time: 0.852s
+The 2-th R*-Tree has been built. Elapsed time: 0.876s
+The 3-th R*-Tree has been built. Elapsed time: 0.859s
+The 4-th R*-Tree has been built. Elapsed time: 0.864s
+BUILDING TIME: 4.311s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.500000-20-5-10-0.100000-300.000000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    46.2566ms.
+
+TOTAL QUERY TIME:    9251.32ms.
+
+AVG RECALL:        0.10025
+AVG MAP:        0.0734534
+AVG RATIO:         1.74872
+AVG COST:          0.10002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.72973s.
+
+LOADING BENMARK...
+LOADING TIME: 2.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00024s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.05027s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.982s
+The 1-th R*-Tree has been built. Elapsed time: 0.892s
+The 2-th R*-Tree has been built. Elapsed time: 0.907s
+The 3-th R*-Tree has been built. Elapsed time: 0.893s
+The 4-th R*-Tree has been built. Elapsed time: 0.856s
+BUILDING TIME: 4.53012s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.500000-20-5-10-0.100000-600.000000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    43.3994ms.
+
+TOTAL QUERY TIME:    8679.88ms.
+
+AVG RECALL:        0.10025
+AVG MAP:        0.0734534
+AVG RATIO:         1.74891
+AVG COST:          0.10002
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.5
+k=        20
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.52344s.
+
+LOADING BENMARK...
+LOADING TIME: 2.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000471s.
+
+COMPUTING HASH...
+COMPUTING TIME: 4.3717s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.932s
+The 1-th R*-Tree has been built. Elapsed time: 0.870s
+The 2-th R*-Tree has been built. Elapsed time: 0.837s
+The 3-th R*-Tree has been built. Elapsed time: 0.813s
+The 4-th R*-Tree has been built. Elapsed time: 0.810s
+The 5-th R*-Tree has been built. Elapsed time: 0.822s
+The 6-th R*-Tree has been built. Elapsed time: 0.844s
+The 7-th R*-Tree has been built. Elapsed time: 0.898s
+The 8-th R*-Tree has been built. Elapsed time: 0.847s
+The 9-th R*-Tree has been built. Elapsed time: 0.849s
+BUILDING TIME: 8.52252s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.500000-20-10-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    81.1404ms.
+
+TOTAL QUERY TIME:    16228.1ms.
+
+AVG RECALL:        0.9915
+AVG MAP:        0.987284
+AVG RATIO:         1.00019
+AVG COST:          0.10002
+AVG ROUNDS:        2.215
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.5
+k=        20
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.61261s.
+
+LOADING BENMARK...
+LOADING TIME: 2.4e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000704s.
+
+COMPUTING HASH...
+COMPUTING TIME: 5.88295s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.939s
+The 1-th R*-Tree has been built. Elapsed time: 1.293s
+The 2-th R*-Tree has been built. Elapsed time: 1.606s
+The 3-th R*-Tree has been built. Elapsed time: 0.937s
+The 4-th R*-Tree has been built. Elapsed time: 0.866s
+The 5-th R*-Tree has been built. Elapsed time: 0.863s
+The 6-th R*-Tree has been built. Elapsed time: 0.862s
+The 7-th R*-Tree has been built. Elapsed time: 0.855s
+The 8-th R*-Tree has been built. Elapsed time: 0.864s
+The 9-th R*-Tree has been built. Elapsed time: 0.857s
+The 10-th R*-Tree has been built. Elapsed time: 0.851s
+The 11-th R*-Tree has been built. Elapsed time: 0.856s
+The 12-th R*-Tree has been built. Elapsed time: 0.862s
+The 13-th R*-Tree has been built. Elapsed time: 0.853s
+The 14-th R*-Tree has been built. Elapsed time: 0.865s
+BUILDING TIME: 14.231s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.500000-20-15-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    97.7205ms.
+
+TOTAL QUERY TIME:    19544.1ms.
+
+AVG RECALL:        0.994
+AVG MAP:        0.990889
+AVG RATIO:         1.00012
+AVG COST:          0.10002
+AVG ROUNDS:        2.07
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.5
+k=        20
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.51666s.
+
+LOADING BENMARK...
+LOADING TIME: 2.9e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000339s.
+
+COMPUTING HASH...
+COMPUTING TIME: 3.59599s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 1.033s
+The 1-th R*-Tree has been built. Elapsed time: 0.933s
+The 2-th R*-Tree has been built. Elapsed time: 0.980s
+The 3-th R*-Tree has been built. Elapsed time: 0.895s
+The 4-th R*-Tree has been built. Elapsed time: 0.899s
+BUILDING TIME: 4.73898s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.500000-20-5-12-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    93.8887ms.
+
+TOTAL QUERY TIME:    18777.7ms.
+
+AVG RECALL:        0.9835
+AVG MAP:        0.972938
+AVG RATIO:         1.00055
+AVG COST:          0.10002
+AVG ROUNDS:        2.675
+
+QUERY FINISH... 
+
+
+Using DB-LSH for millionSong ...
+c=        1.5
+k=        20
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/millionSong/
+N=    992272
+dim=  420
+
+LOADING TIME: 1.68395s.
+
+LOADING BENMARK...
+LOADING TIME: 2.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000342s.
+
+COMPUTING HASH...
+COMPUTING TIME: 2.63197s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.865s
+The 1-th R*-Tree has been built. Elapsed time: 0.854s
+The 2-th R*-Tree has been built. Elapsed time: 0.859s
+The 3-th R*-Tree has been built. Elapsed time: 0.855s
+The 4-th R*-Tree has been built. Elapsed time: 0.845s
+BUILDING TIME: 4.27813s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          millionSong-1.500000-20-5-14-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    84.3949ms.
+
+TOTAL QUERY TIME:    16879ms.
+
+AVG RECALL:        0.993
+AVG MAP:        0.987871
+AVG RATIO:         1.00024
+AVG COST:          0.10002
+AVG ROUNDS:        2.85
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.558902s.
+
+LOADING BENMARK...
+LOADING TIME: 5e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000562s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.636584s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.118s
+The 1-th R*-Tree has been built. Elapsed time: 0.121s
+The 2-th R*-Tree has been built. Elapsed time: 0.125s
+The 3-th R*-Tree has been built. Elapsed time: 0.124s
+The 4-th R*-Tree has been built. Elapsed time: 0.125s
+BUILDING TIME: 0.613151s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.500000-20-5-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    29.0449ms.
+
+TOTAL QUERY TIME:    5808.98ms.
+
+AVG RECALL:        0.5645
+AVG MAP:        0.394922
+AVG RATIO:         1.00865
+AVG COST:          0.100073
+AVG ROUNDS:        8.655
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.75
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.560435s.
+
+LOADING BENMARK...
+LOADING TIME: 2.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000286s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.638448s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.124s
+The 1-th R*-Tree has been built. Elapsed time: 0.123s
+The 2-th R*-Tree has been built. Elapsed time: 0.123s
+The 3-th R*-Tree has been built. Elapsed time: 0.120s
+The 4-th R*-Tree has been built. Elapsed time: 0.126s
+BUILDING TIME: 0.616461s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.750000-20-5-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    24.3872ms.
+
+TOTAL QUERY TIME:    4877.45ms.
+
+AVG RECALL:        0.48425
+AVG MAP:        0.30246
+AVG RATIO:         1.01163
+AVG COST:          0.100073
+AVG ROUNDS:        6.175
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.25
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.547539s.
+
+LOADING BENMARK...
+LOADING TIME: 2.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000295s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.641812s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.121s
+The 1-th R*-Tree has been built. Elapsed time: 0.120s
+The 2-th R*-Tree has been built. Elapsed time: 0.124s
+The 3-th R*-Tree has been built. Elapsed time: 0.125s
+The 4-th R*-Tree has been built. Elapsed time: 0.124s
+BUILDING TIME: 0.614573s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.250000-20-5-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    40.9345ms.
+
+TOTAL QUERY TIME:    8186.91ms.
+
+AVG RECALL:        0.58525
+AVG MAP:        0.408986
+AVG RATIO:         1.00802
+AVG COST:          0.100073
+AVG ROUNDS:        16.18
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.5
+k=        20
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.569984s.
+
+LOADING BENMARK...
+LOADING TIME: 2.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000554s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.28828s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.119s
+The 1-th R*-Tree has been built. Elapsed time: 0.130s
+The 2-th R*-Tree has been built. Elapsed time: 0.123s
+The 3-th R*-Tree has been built. Elapsed time: 0.132s
+The 4-th R*-Tree has been built. Elapsed time: 0.125s
+The 5-th R*-Tree has been built. Elapsed time: 0.125s
+The 6-th R*-Tree has been built. Elapsed time: 0.132s
+The 7-th R*-Tree has been built. Elapsed time: 0.125s
+The 8-th R*-Tree has been built. Elapsed time: 0.124s
+The 9-th R*-Tree has been built. Elapsed time: 0.132s
+BUILDING TIME: 1.2663s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.500000-20-10-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    41.2529ms.
+
+TOTAL QUERY TIME:    8250.59ms.
+
+AVG RECALL:        0.59175
+AVG MAP:        0.420291
+AVG RATIO:         1.00766
+AVG COST:          0.100073
+AVG ROUNDS:        8.445
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.5
+k=        20
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.570427s.
+
+LOADING BENMARK...
+LOADING TIME: 2.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000825s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.96772s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.124s
+The 1-th R*-Tree has been built. Elapsed time: 0.129s
+The 2-th R*-Tree has been built. Elapsed time: 0.126s
+The 3-th R*-Tree has been built. Elapsed time: 0.125s
+The 4-th R*-Tree has been built. Elapsed time: 0.131s
+The 5-th R*-Tree has been built. Elapsed time: 0.126s
+The 6-th R*-Tree has been built. Elapsed time: 0.126s
+The 7-th R*-Tree has been built. Elapsed time: 0.130s
+The 8-th R*-Tree has been built. Elapsed time: 0.125s
+The 9-th R*-Tree has been built. Elapsed time: 0.137s
+The 10-th R*-Tree has been built. Elapsed time: 0.123s
+The 11-th R*-Tree has been built. Elapsed time: 0.126s
+The 12-th R*-Tree has been built. Elapsed time: 0.146s
+The 13-th R*-Tree has been built. Elapsed time: 0.131s
+The 14-th R*-Tree has been built. Elapsed time: 0.125s
+BUILDING TIME: 1.93088s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.500000-20-15-10-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    50.8804ms.
+
+TOTAL QUERY TIME:    10176.1ms.
+
+AVG RECALL:        0.61075
+AVG MAP:        0.437805
+AVG RATIO:         1.00723
+AVG COST:          0.100073
+AVG ROUNDS:        8.3
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.5
+k=        20
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.444796s.
+
+LOADING BENMARK...
+LOADING TIME: 2.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000347s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.741828s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.142s
+The 1-th R*-Tree has been built. Elapsed time: 0.162s
+The 2-th R*-Tree has been built. Elapsed time: 0.156s
+The 3-th R*-Tree has been built. Elapsed time: 0.147s
+The 4-th R*-Tree has been built. Elapsed time: 0.160s
+BUILDING TIME: 0.767185s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.500000-20-5-12-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    34.9158ms.
+
+TOTAL QUERY TIME:    6983.17ms.
+
+AVG RECALL:        0.58975
+AVG MAP:        0.424173
+AVG RATIO:         1.00785
+AVG COST:          0.100073
+AVG ROUNDS:        8.93
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.5
+k=        20
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.44749s.
+
+LOADING BENMARK...
+LOADING TIME: 2.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000397s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.840417s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.175s
+The 1-th R*-Tree has been built. Elapsed time: 0.178s
+The 2-th R*-Tree has been built. Elapsed time: 0.176s
+The 3-th R*-Tree has been built. Elapsed time: 0.171s
+The 4-th R*-Tree has been built. Elapsed time: 0.184s
+BUILDING TIME: 0.882981s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.500000-20-5-14-0.100000-0.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    34.0186ms.
+
+TOTAL QUERY TIME:    6803.73ms.
+
+AVG RECALL:        0.6045
+AVG MAP:        0.432663
+AVG RATIO:         1.00766
+AVG COST:          0.100073
+AVG ROUNDS:        9.085
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.411689s.
+
+LOADING BENMARK...
+LOADING TIME: 2.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000287s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.632144s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.122s
+The 1-th R*-Tree has been built. Elapsed time: 0.124s
+The 2-th R*-Tree has been built. Elapsed time: 0.119s
+The 3-th R*-Tree has been built. Elapsed time: 0.118s
+The 4-th R*-Tree has been built. Elapsed time: 0.123s
+BUILDING TIME: 0.607362s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.500000-20-5-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    22.6857ms.
+
+TOTAL QUERY TIME:    4537.14ms.
+
+AVG RECALL:        0.55375
+AVG MAP:        0.372625
+AVG RATIO:         1.00863
+AVG COST:          0.100073
+AVG ROUNDS:        2.365
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.75
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.55018s.
+
+LOADING BENMARK...
+LOADING TIME: 2.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00028s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.629721s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.119s
+The 1-th R*-Tree has been built. Elapsed time: 0.119s
+The 2-th R*-Tree has been built. Elapsed time: 0.118s
+The 3-th R*-Tree has been built. Elapsed time: 0.122s
+The 4-th R*-Tree has been built. Elapsed time: 0.119s
+BUILDING TIME: 0.597774s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.750000-20-5-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    18.0595ms.
+
+TOTAL QUERY TIME:    3611.91ms.
+
+AVG RECALL:        0.534
+AVG MAP:        0.357819
+AVG RATIO:         1.00993
+AVG COST:          0.100073
+AVG ROUNDS:        1.51
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.25
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.434934s.
+
+LOADING BENMARK...
+LOADING TIME: 2.3e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000289s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.632368s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.121s
+The 1-th R*-Tree has been built. Elapsed time: 0.125s
+The 2-th R*-Tree has been built. Elapsed time: 0.123s
+The 3-th R*-Tree has been built. Elapsed time: 0.125s
+The 4-th R*-Tree has been built. Elapsed time: 0.125s
+BUILDING TIME: 0.619489s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.250000-20-5-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    35.4739ms.
+
+TOTAL QUERY TIME:    7094.78ms.
+
+AVG RECALL:        0.597
+AVG MAP:        0.42753
+AVG RATIO:         1.00783
+AVG COST:          0.100073
+AVG ROUNDS:        4.725
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.571361s.
+
+LOADING BENMARK...
+LOADING TIME: 2.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000289s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.632824s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.120s
+The 1-th R*-Tree has been built. Elapsed time: 0.122s
+The 2-th R*-Tree has been built. Elapsed time: 0.121s
+The 3-th R*-Tree has been built. Elapsed time: 0.122s
+The 4-th R*-Tree has been built. Elapsed time: 0.126s
+BUILDING TIME: 0.611864s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.500000-20-5-10-0.100000-300.000000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    11.8326ms.
+
+TOTAL QUERY TIME:    2366.51ms.
+
+AVG RECALL:        0.04875
+AVG MAP:        0.0199434
+AVG RATIO:         1.12276
+AVG COST:          0.100073
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.5
+k=        20
+L=        5
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.556173s.
+
+LOADING BENMARK...
+LOADING TIME: 2.2e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000284s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.628682s.
+
+BUILDING INDEX...
+THERE ARE 5 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.125s
+The 1-th R*-Tree has been built. Elapsed time: 0.121s
+The 2-th R*-Tree has been built. Elapsed time: 0.120s
+The 3-th R*-Tree has been built. Elapsed time: 0.123s
+The 4-th R*-Tree has been built. Elapsed time: 0.119s
+BUILDING TIME: 0.607529s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.500000-20-5-10-0.100000-600.000000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    11.8724ms.
+
+TOTAL QUERY TIME:    2374.49ms.
+
+AVG RECALL:        0.04875
+AVG MAP:        0.0199434
+AVG RATIO:         1.12276
+AVG COST:          0.100073
+AVG ROUNDS:        1
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.5
+k=        20
+L=        10
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.550447s.
+
+LOADING BENMARK...
+LOADING TIME: 2.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000551s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.26941s.
+
+BUILDING INDEX...
+THERE ARE 10 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.123s
+The 1-th R*-Tree has been built. Elapsed time: 0.130s
+The 2-th R*-Tree has been built. Elapsed time: 0.119s
+The 3-th R*-Tree has been built. Elapsed time: 0.125s
+The 4-th R*-Tree has been built. Elapsed time: 0.126s
+The 5-th R*-Tree has been built. Elapsed time: 0.118s
+The 6-th R*-Tree has been built. Elapsed time: 0.125s
+The 7-th R*-Tree has been built. Elapsed time: 0.121s
+The 8-th R*-Tree has been built. Elapsed time: 0.123s
+The 9-th R*-Tree has been built. Elapsed time: 0.138s
+BUILDING TIME: 1.24865s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.500000-20-10-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    29.2766ms.
+
+TOTAL QUERY TIME:    5855.33ms.
+
+AVG RECALL:        0.58475
+AVG MAP:        0.403989
+AVG RATIO:         1.0077
+AVG COST:          0.100073
+AVG ROUNDS:        2.145
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.5
+k=        20
+L=        15
+K=        10
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.55229s.
+
+LOADING BENMARK...
+LOADING TIME: 2.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000867s.
+
+COMPUTING HASH...
+COMPUTING TIME: 1.93054s.
+
+BUILDING INDEX...
+THERE ARE 15 10-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.122s
+The 1-th R*-Tree has been built. Elapsed time: 0.136s
+The 2-th R*-Tree has been built. Elapsed time: 0.123s
+The 3-th R*-Tree has been built. Elapsed time: 0.120s
+The 4-th R*-Tree has been built. Elapsed time: 0.127s
+The 5-th R*-Tree has been built. Elapsed time: 0.118s
+The 6-th R*-Tree has been built. Elapsed time: 0.125s
+The 7-th R*-Tree has been built. Elapsed time: 0.120s
+The 8-th R*-Tree has been built. Elapsed time: 0.126s
+The 9-th R*-Tree has been built. Elapsed time: 0.145s
+The 10-th R*-Tree has been built. Elapsed time: 0.122s
+The 11-th R*-Tree has been built. Elapsed time: 0.129s
+The 12-th R*-Tree has been built. Elapsed time: 0.132s
+The 13-th R*-Tree has been built. Elapsed time: 0.123s
+The 14-th R*-Tree has been built. Elapsed time: 0.132s
+BUILDING TIME: 1.89948s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.500000-20-15-10-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    34.3098ms.
+
+TOTAL QUERY TIME:    6861.96ms.
+
+AVG RECALL:        0.6095
+AVG MAP:        0.437147
+AVG RATIO:         1.00696
+AVG COST:          0.100073
+AVG ROUNDS:        2.015
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.5
+k=        20
+L=        5
+K=        12
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.550876s.
+
+LOADING BENMARK...
+LOADING TIME: 2.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.00035s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.739233s.
+
+BUILDING INDEX...
+THERE ARE 5 12-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.127s
+The 1-th R*-Tree has been built. Elapsed time: 0.132s
+The 2-th R*-Tree has been built. Elapsed time: 0.134s
+The 3-th R*-Tree has been built. Elapsed time: 0.128s
+The 4-th R*-Tree has been built. Elapsed time: 0.127s
+BUILDING TIME: 0.646979s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.500000-20-5-12-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    27.2785ms.
+
+TOTAL QUERY TIME:    5455.7ms.
+
+AVG RECALL:        0.57025
+AVG MAP:        0.397252
+AVG RATIO:         1.00824
+AVG COST:          0.100073
+AVG ROUNDS:        2.555
+
+QUERY FINISH... 
+
+
+Using DB-LSH for nuswide ...
+c=        1.5
+k=        20
+L=        5
+K=        14
+beta=     0.1
+LOADING DATA...
+Load from new file: /data/kabir/similarity-search/dataset/nuswide/
+N=    268643
+dim=  500
+
+LOADING TIME: 0.547919s.
+
+LOADING BENMARK...
+LOADING TIME: 2.1e-05s.
+
+
+START HASHING...
+
+SETTING HASH PARAMETER...
+SETTING TIME: 0.000398s.
+
+COMPUTING HASH...
+COMPUTING TIME: 0.847325s.
+
+BUILDING INDEX...
+THERE ARE 5 14-D HASH TABLES.
+The 0-th R*-Tree has been built. Elapsed time: 0.177s
+The 1-th R*-Tree has been built. Elapsed time: 0.174s
+The 2-th R*-Tree has been built. Elapsed time: 0.175s
+The 3-th R*-Tree has been built. Elapsed time: 0.180s
+The 4-th R*-Tree has been built. Elapsed time: 0.174s
+BUILDING TIME: 0.880205s.
+
+
+RUNNING QUERY ...
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+model_id=          nuswide-1.500000-20-5-14-0.100000-6.500000.ivecs
+
+k=                 20
+
+AVG QUERY TIME:    28.4475ms.
+
+TOTAL QUERY TIME:    5689.51ms.
+
+AVG RECALL:        0.607
+AVG MAP:        0.44302
+AVG RATIO:         1.00738
+AVG COST:          0.100073
+AVG ROUNDS:        2.7
+
+QUERY FINISH... 
+
+
